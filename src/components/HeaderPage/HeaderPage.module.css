@@ -1,0 +1,13 @@
+.linearGradiente {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(#082e5c 0%, #041832 23.33%, #020c19 76.67%, #000000 100%);
+    padding: 2rem 0rem;
+}
+
+.imgResponsive {
+    width: 90%;
+}
