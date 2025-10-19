@@ -1,0 +1,15 @@
+# Enforce LF for text files in the repository
+* text=auto eol=lf
+
+# Explicitly mark common binary files so Git won't try to normalize them
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.exe binary
+*.dll binary
+*.pdf binary
+
+# End of file
