@@ -11,13 +11,13 @@ export default function HeaderPage() {
                 </Link>
             </div>
             <div>
-                <a href="./listar-animacao.html" target="_blank" rel="noopener noreferrer">
-                    <button className="btnNovaAnimacao">Listar Animações</button>
+                <a href="./animacao.html" target="_blank" rel="noopener noreferrer">
+                    <button className="btnNovaAnimacao">Animações</button>
                 </a>
             </div>
             <div>
                 <Link href="/">
-                    <h1>Animação</h1>(v3.0.0 2025, React Next.js TypeScript)
+                    <h1>MyAnimes</h1>(v3.0.0 2025, React Next.js TypeScript)
                 </Link>
             </div>
         </header>

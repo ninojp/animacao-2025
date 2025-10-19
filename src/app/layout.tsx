@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 //---------------------------------
 export const metadata: Metadata = {
-  title: "Animação",
-  description: "Nova versão do meu site pessoal, Animação",
+  title: "MyAnimes",
+  description: "Nova versão (agora em React, Next.js e TypeScript) do meu site, sobre minha coleção de animes, MyAnimes v3.0.0.",
 };
 //=======================================================================================
 export default function RootLayout({ children }: Readonly<{children:React.ReactNode;}>) {

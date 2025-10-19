@@ -1,0 +1,17 @@
+{
+  "name": "myanimes",
+  "version": "2.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx eslint .",
+    "start": "json-server --watch ./db/animacoes.json --port 3004"
+  },
+  "keywords": [],
+  "author": "NinoJP",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "description": ""
+}
