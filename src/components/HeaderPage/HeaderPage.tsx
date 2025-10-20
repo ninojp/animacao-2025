@@ -7,7 +7,13 @@ export default function HeaderPage() {
         <header className={sytles.linearGradiente}>
             <div>
                 <Link href="/">
-                    <Image className={sytles.imgResponsive} src="/Logo_Dtudo_2022-300p.png" width={300} height={100} alt='Logo Dtudo-Animação' priority/>
+                    <Image 
+                        src="/Logo_Dtudo_2022-300p.png" 
+                        width={300} 
+                        height={100} 
+                        alt='Logo Dtudo-Animação'
+                        priority
+                    />
                 </Link>
             </div>
             <div>

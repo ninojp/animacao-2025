@@ -10,10 +10,10 @@
 .animacaoCardArticle{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     width: 220px;
-    height: 370px;
+    height: 420px;
     border: 0.8px solid #0d4386;
     border-radius: 8px;
     padding: 1rem;
@@ -26,18 +26,20 @@
     height: 300px;
 }
 .imgAnimacao{
-    width: 50%;
+    width: 200px;
+    height: 300px;
 }
 .animacaoCardArticle p{
-    margin-top: 0.5rem;
     text-align: center;
     font-size: 0.7rem;
 }
 
-
+.animacaoCardArticle h3{
+    font-size: 1rem;
+}
 .divImgsEditaExclui{
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: center;
     width: 100%;
     gap: 2rem;

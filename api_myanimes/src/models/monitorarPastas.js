@@ -6,6 +6,19 @@ import chokidar from 'chokidar';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Normaliza nomes: remove diacríticos, converte para lowercase, substitui
+// espaços e caracteres problemáticos por '_' e colapsa underscores repetidos.
+function normalizeName(name) {
+    if (!name) return '';
+    // Remove diacríticos (acentos)
+    const noDiacritics = name.normalize('NFKD').replace(/\p{M}/gu, '');
+    const lower = noDiacritics.toLowerCase();
+    // substitui espaços por '_', e qualquer sequência de caracteres não alfanum/._- por '_'
+    const replaced = lower.replace(/\s+/g, '_').replace(/[^a-z0-9._-]+/g, '_');
+    // colapsa múltiplos '_' e remove '_' nas bordas
+    return replaced.replace(/_+/g, '_').replace(/^_+|_+$/g, '');
+}
+
 // Liste aqui as pastas específicas que deseja monitorar
 const pastasParaMonitorar = [
     'F:\\A', 'F:\\B', 'F:\\C', 'F:\\D', 'F:\\E', 'F:\\F', 'F:\\G', 'F:\\H', 'F:\\I', 'F:\\J',
@@ -87,8 +100,8 @@ function gerarEstruturaPersonalizada(pastasParaMonitorar) {
                     nome: item.name,
                     // FAZER: criar um slug a partir do nome
                     slug: item.name.toLowerCase().replace(/\s+/g, '-'),
-                    // FAZER: criar uma propriedade imgSrc: item.name, sem espaços e com underlines e letra iniciaal de cada palavra maiúscula 
-                    imgSrc: item.name.replace(/\s+/g, '_').replace(/^(.)/, (match) => match.toUpperCase()) + '.jpg',
+                    // normaliza os nomes dos arquivos em animacoes para corresponder aos arquivos públicos
+                    imgSrc: normalizeName(item.name) + '.jpg',
                     subpastas: subpastas
                 };
             });
