@@ -4681,6 +4681,8 @@
     {
       "id": 1,
       "nome": ".Hack",
+      "slug": ".hack",
+      "imgSrc": ".Hack.jpg",
       "subpastas": [
         {
           "id": 299,
@@ -5211,6 +5213,8 @@
     {
       "id": 2,
       "nome": "009-1",
+      "slug": "009-1",
+      "imgSrc": "009-1.jpg",
       "subpastas": [
         {
           "id": 1583,
@@ -5349,6 +5353,8 @@
     {
       "id": 3,
       "nome": "1+2=Paradise",
+      "slug": "1+2=paradise",
+      "imgSrc": "1+2=Paradise.jpg",
       "subpastas": [
         {
           "id": 2730,
@@ -5373,6 +5379,8 @@
     {
       "id": 4,
       "nome": "10.000 Years Later (Yi Wan Nian Yi Hou)",
+      "slug": "10.000-years-later-(yi-wan-nian-yi-hou)",
+      "imgSrc": "10.000_Years_Later_(Yi_Wan_Nian_Yi_Hou).jpg",
       "subpastas": [
         {
           "id": 35432,
@@ -5389,6 +5397,8 @@
     {
       "id": 5,
       "nome": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+      "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+      "imgSrc": "100-man_no_Inochi_no_Ue_ni_Ore_wa_Tatteiru.jpg",
       "subpastas": [
         {
           "id": 41380,
@@ -5521,6 +5531,8 @@
     {
       "id": 6,
       "nome": "11eyes",
+      "slug": "11eyes",
+      "imgSrc": "11eyes.jpg",
       "subpastas": [
         {
           "id": 6682,
@@ -5609,6 +5621,8 @@
     {
       "id": 7,
       "nome": "16bit Sensation Another Layer",
+      "slug": "16bit-sensation-another-layer",
+      "imgSrc": "16bit_Sensation_Another_Layer.jpg",
       "subpastas": [
         {
           "id": 54041,
@@ -5677,6 +5691,8 @@
     {
       "id": 8,
       "nome": "2.5-jigen no Ririsa",
+      "slug": "2.5-jigen-no-ririsa",
+      "imgSrc": "2.5-jigen_no_Ririsa.jpg",
       "subpastas": [
         {
           "id": 53802,
@@ -5793,6 +5809,8 @@
     {
       "id": 9,
       "nome": "30-sai no Hoken Taiiku",
+      "slug": "30-sai-no-hoken-taiiku",
+      "imgSrc": "30-sai_no_Hoken_Taiiku.jpg",
       "subpastas": [
         {
           "id": 9624,
@@ -5867,6 +5885,8 @@
     {
       "id": 10,
       "nome": "3D Kanojo - Real Girl",
+      "slug": "3d-kanojo---real-girl",
+      "imgSrc": "3D_Kanojo_-_Real_Girl.jpg",
       "subpastas": [
         {
           "id": 36793,
@@ -5989,6 +6009,8 @@
     {
       "id": 11,
       "nome": "3x3 Eyes",
+      "slug": "3x3-eyes",
+      "imgSrc": "3x3_Eyes.jpg",
       "subpastas": [
         {
           "id": 300,
@@ -6043,11 +6065,15 @@
     {
       "id": 12,
       "nome": "7 seeds",
+      "slug": "7-seeds",
+      "imgSrc": "7_seeds.jpg",
       "subpastas": []
     },
     {
       "id": 13,
       "nome": "86 Eighty Six",
+      "slug": "86-eighty-six",
+      "imgSrc": "86_Eighty_Six.jpg",
       "subpastas": [
         {
           "id": 41457,
@@ -6198,6 +6224,8 @@
     {
       "id": 14,
       "nome": "9 A Salvação",
+      "slug": "9-a-salvação",
+      "imgSrc": "9_A_Salvação.jpg",
       "subpastas": [
         {
           "id": null,
@@ -6218,6 +6246,8 @@
     {
       "id": 15,
       "nome": "9 Satra - A Lenda do Muay Thai",
+      "slug": "9-satra---a-lenda-do-muay-thai",
+      "imgSrc": "9_Satra_-_A_Lenda_do_Muay_Thai.jpg",
       "subpastas": [
         {
           "id": null,
@@ -6234,6 +6264,8 @@
     {
       "id": 16,
       "nome": "91 Days",
+      "slug": "91-days",
+      "imgSrc": "91_Days.jpg",
       "subpastas": [
         {
           "id": 32998,
@@ -6336,6 +6368,8 @@
     {
       "id": 17,
       "nome": "A Era do Gelo",
+      "slug": "a-era-do-gelo",
+      "imgSrc": "A_Era_do_Gelo.jpg",
       "subpastas": [
         {
           "id": null,
@@ -6500,6 +6534,8 @@
     {
       "id": 18,
       "nome": "A Lenda de Beowulf",
+      "slug": "a-lenda-de-beowulf",
+      "imgSrc": "A_Lenda_de_Beowulf.jpg",
       "subpastas": [
         {
           "id": null,
@@ -6516,6 +6552,8 @@
     {
       "id": 19,
       "nome": "A Lenda do Rei Macaco A Volta do Herói",
+      "slug": "a-lenda-do-rei-macaco-a-volta-do-herói",
+      "imgSrc": "A_Lenda_do_Rei_Macaco_A_Volta_do_Herói.jpg",
       "subpastas": [
         {
           "id": null,
@@ -6540,6 +6578,8 @@
     {
       "id": 20,
       "nome": "A Lenda dos Guardiões",
+      "slug": "a-lenda-dos-guardiões",
+      "imgSrc": "A_Lenda_dos_Guardiões.jpg",
       "subpastas": [
         {
           "id": null,
@@ -6560,6 +6600,8 @@
     {
       "id": 21,
       "nome": "A Noiva Cadaver",
+      "slug": "a-noiva-cadaver",
+      "imgSrc": "A_Noiva_Cadaver.jpg",
       "subpastas": [
         {
           "id": null,
@@ -6580,6 +6622,8 @@
     {
       "id": 22,
       "nome": "A Origem dos Guardiões",
+      "slug": "a-origem-dos-guardiões",
+      "imgSrc": "A_Origem_dos_Guardiões.jpg",
       "subpastas": [
         {
           "id": null,
@@ -6596,6 +6640,8 @@
     {
       "id": 23,
       "nome": "A.I.C.O. Incarnation",
+      "slug": "a.i.c.o.-incarnation",
+      "imgSrc": "A.I.C.O._Incarnation.jpg",
       "subpastas": [
         {
           "id": 36039,
@@ -6660,6 +6706,8 @@
     {
       "id": 24,
       "nome": "Aa! Megami-Sama!",
+      "slug": "aa!-megami-sama!",
+      "imgSrc": "Aa!_Megami-Sama!.jpg",
       "subpastas": [
         {
           "id": 49,
@@ -7064,6 +7112,8 @@
     {
       "id": 25,
       "nome": "Abashiri Ikka",
+      "slug": "abashiri-ikka",
+      "imgSrc": "Abashiri_Ikka.jpg",
       "subpastas": [
         {
           "id": 305,
@@ -7114,6 +7164,8 @@
     {
       "id": 26,
       "nome": "Abenobashi Mahou Shoutengai",
+      "slug": "abenobashi-mahou-shoutengai",
+      "imgSrc": "Abenobashi_Mahou_Shoutengai.jpg",
       "subpastas": [
         {
           "id": 306,
@@ -7186,6 +7238,8 @@
     {
       "id": 27,
       "nome": "Abominável",
+      "slug": "abominável",
+      "imgSrc": "Abominável.jpg",
       "subpastas": [
         {
           "id": null,
@@ -7210,6 +7264,8 @@
     {
       "id": 28,
       "nome": "Absolute Duo",
+      "slug": "absolute-duo",
+      "imgSrc": "Absolute_Duo.jpg",
       "subpastas": [
         {
           "id": 25397,
@@ -7274,6 +7330,8 @@
     {
       "id": 29,
       "nome": "Abunai Sisters Koko & Mika",
+      "slug": "abunai-sisters-koko-&-mika",
+      "imgSrc": "Abunai_Sisters_Koko_&_Mika.jpg",
       "subpastas": [
         {
           "id": 5877,
@@ -7330,6 +7388,8 @@
     {
       "id": 30,
       "nome": "Accel World",
+      "slug": "accel-world",
+      "imgSrc": "Accel_World.jpg",
       "subpastas": [
         {
           "id": 11759,
@@ -7516,6 +7576,8 @@
     {
       "id": 31,
       "nome": "Afro Samurai",
+      "slug": "afro-samurai",
+      "imgSrc": "Afro_Samurai.jpg",
       "subpastas": [
         {
           "id": 27939,
@@ -7614,6 +7676,8 @@
     {
       "id": 32,
       "nome": "Agent Aika",
+      "slug": "agent-aika",
+      "imgSrc": "Agent_Aika.jpg",
       "subpastas": [
         {
           "id": 366,
@@ -7798,6 +7862,8 @@
     {
       "id": 33,
       "nome": "AI no Idenshi",
+      "slug": "ai-no-idenshi",
+      "imgSrc": "AI_no_Idenshi.jpg",
       "subpastas": [
         {
           "id": 53787,
@@ -7862,6 +7928,8 @@
     {
       "id": 34,
       "nome": "Ai Yori Aoshi",
+      "slug": "ai-yori-aoshi",
+      "imgSrc": "Ai_Yori_Aoshi.jpg",
       "subpastas": [
         {
           "id": 53,
@@ -8068,6 +8136,8 @@
     {
       "id": 35,
       "nome": "Air",
+      "slug": "air",
+      "imgSrc": "Air.jpg",
       "subpastas": [
         {
           "id": 101,
@@ -8198,6 +8268,8 @@
     {
       "id": 36,
       "nome": "Air Gear",
+      "slug": "air-gear",
+      "imgSrc": "Air_Gear.jpg",
       "subpastas": [
         {
           "id": 857,
@@ -8350,6 +8422,8 @@
     {
       "id": 37,
       "nome": "Aishen Qiaokeli Jinxingshi (God of Love's Chocolate)",
+      "slug": "aishen-qiaokeli-jinxingshi-(god-of-love's-chocolate)",
+      "imgSrc": "Aishen_Qiaokeli_Jinxingshi_(God_of_Love's_Chocolate).jpg",
       "subpastas": [
         {
           "id": 32323,
@@ -8446,6 +8520,8 @@
     {
       "id": 38,
       "nome": "Aishiteruze Baby★★",
+      "slug": "aishiteruze-baby★★",
+      "imgSrc": "Aishiteruze_Baby★★.jpg",
       "subpastas": [
         {
           "id": 102,
@@ -8566,6 +8642,8 @@
     {
       "id": 39,
       "nome": "Ajin Demi-Human",
+      "slug": "ajin-demi-human",
+      "imgSrc": "Ajin_Demi-Human.jpg",
       "subpastas": [
         {
           "id": 30868,
@@ -8758,6 +8836,8 @@
     {
       "id": 40,
       "nome": "Akahori Gedou Hour Rabuge",
+      "slug": "akahori-gedou-hour-rabuge",
+      "imgSrc": "Akahori_Gedou_Hour_Rabuge.jpg",
       "subpastas": [
         {
           "id": 309,
@@ -8826,6 +8906,8 @@
     {
       "id": 41,
       "nome": "Akame ga Kill!",
+      "slug": "akame-ga-kill!",
+      "imgSrc": "Akame_ga_Kill!.jpg",
       "subpastas": [
         {
           "id": 25241,
@@ -8962,6 +9044,8 @@
     {
       "id": 42,
       "nome": "Akaneiro ni Somaru Saka",
+      "slug": "akaneiro-ni-somaru-saka",
+      "imgSrc": "Akaneiro_ni_Somaru_Saka.jpg",
       "subpastas": [
         {
           "id": 4744,
@@ -9040,6 +9124,8 @@
     {
       "id": 43,
       "nome": "Aki-Sora",
+      "slug": "aki-sora",
+      "imgSrc": "Aki-Sora.jpg",
       "subpastas": [
         {
           "id": 6987,
@@ -9082,6 +9168,8 @@
     {
       "id": 44,
       "nome": "Akibas Trip The Animation",
+      "slug": "akibas-trip-the-animation",
+      "imgSrc": "Akibas_Trip_The_Animation.jpg",
       "subpastas": [
         {
           "id": 34051,
@@ -9150,6 +9238,8 @@
     {
       "id": 45,
       "nome": "Akikan",
+      "slug": "akikan",
+      "imgSrc": "Akikan.jpg",
       "subpastas": [
         {
           "id": 5112,
@@ -9228,6 +9318,8 @@
     {
       "id": 46,
       "nome": "Akira",
+      "slug": "akira",
+      "imgSrc": "Akira.jpg",
       "subpastas": [
         {
           "id": 47,
@@ -9248,6 +9340,8 @@
     {
       "id": 47,
       "nome": "Akuma no Memumemu-chan",
+      "slug": "akuma-no-memumemu-chan",
+      "imgSrc": "Akuma_no_Memumemu-chan.jpg",
       "subpastas": [
         {
           "id": 36875,
@@ -9268,6 +9362,8 @@
     {
       "id": 48,
       "nome": "Akuma no Riddle",
+      "slug": "akuma-no-riddle",
+      "imgSrc": "Akuma_no_Riddle.jpg",
       "subpastas": [
         {
           "id": 19429,
@@ -9346,6 +9442,8 @@
     {
       "id": 49,
       "nome": "Aldnoah Zero",
+      "slug": "aldnoah-zero",
+      "imgSrc": "Aldnoah_Zero.jpg",
       "subpastas": [
         {
           "id": 22729,
@@ -9498,6 +9596,8 @@
     {
       "id": 50,
       "nome": "Altered Carbon Resleeved",
+      "slug": "altered-carbon-resleeved",
+      "imgSrc": "Altered_Carbon_Resleeved.jpg",
       "subpastas": [
         {
           "id": 40613,
@@ -9522,6 +9622,8 @@
     {
       "id": 51,
       "nome": "Amaenaide yo!!",
+      "slug": "amaenaide-yo!!",
+      "imgSrc": "Amaenaide_yo!!.jpg",
       "subpastas": [
         {
           "id": 591,
@@ -9688,6 +9790,8 @@
     {
       "id": 52,
       "nome": "Ane Log Moyako Neesan no Tomaranai Monologue",
+      "slug": "ane-log-moyako-neesan-no-tomaranai-monologue",
+      "imgSrc": "Ane_Log_Moyako_Neesan_no_Tomaranai_Monologue.jpg",
       "subpastas": [
         {
           "id": 27619,
@@ -9736,6 +9840,8 @@
     {
       "id": 53,
       "nome": "Ange Vierge",
+      "slug": "ange-vierge",
+      "imgSrc": "Ange_Vierge.jpg",
       "subpastas": [
         {
           "id": 32171,
@@ -9816,6 +9922,8 @@
     {
       "id": 54,
       "nome": "Angel Cop",
+      "slug": "angel-cop",
+      "imgSrc": "Angel_Cop.jpg",
       "subpastas": [
         {
           "id": 1351,
@@ -9856,6 +9964,8 @@
     {
       "id": 55,
       "nome": "Angel Densetsu",
+      "slug": "angel-densetsu",
+      "imgSrc": "Angel_Densetsu.jpg",
       "subpastas": [
         {
           "id": 5251,
@@ -9876,6 +9986,8 @@
     {
       "id": 56,
       "nome": "AniKuri15 (Ani Kuri 15)",
+      "slug": "anikuri15-(ani-kuri-15)",
+      "imgSrc": "AniKuri15_(Ani_Kuri_15).jpg",
       "subpastas": [
         {
           "id": 2832,
@@ -9896,6 +10008,8 @@
     {
       "id": 57,
       "nome": "Animatrix",
+      "slug": "animatrix",
+      "imgSrc": "Animatrix.jpg",
       "subpastas": [
         {
           "id": 1303,
@@ -9920,6 +10034,8 @@
     {
       "id": 58,
       "nome": "Animegataris",
+      "slug": "animegataris",
+      "imgSrc": "Animegataris.jpg",
       "subpastas": [
         {
           "id": 30617,
@@ -10004,6 +10120,8 @@
     {
       "id": 59,
       "nome": "Anne no Nikki (O Diário de Anne Frank)",
+      "slug": "anne-no-nikki-(o-diário-de-anne-frank)",
+      "imgSrc": "Anne_no_Nikki_(O_Diário_de_Anne_Frank).jpg",
       "subpastas": [
         {
           "id": 12027,
@@ -10034,6 +10152,8 @@
     {
       "id": 60,
       "nome": "Ao no 6-gou (Blue Submarine No.6)",
+      "slug": "ao-no-6-gou-(blue-submarine-no.6)",
+      "imgSrc": "Ao_no_6-gou_(Blue_Submarine_No.6).jpg",
       "subpastas": [
         {
           "id": 1051,
@@ -10066,6 +10186,8 @@
     {
       "id": 61,
       "nome": "Aoi Sekai no Chuushin de",
+      "slug": "aoi-sekai-no-chuushin-de",
+      "imgSrc": "Aoi_Sekai_no_Chuushin_de.jpg",
       "subpastas": [
         {
           "id": 15133,
@@ -10094,6 +10216,8 @@
     {
       "id": 62,
       "nome": "Aoki Hagane no Arpeggio Ars Nova",
+      "slug": "aoki-hagane-no-arpeggio-ars-nova",
+      "imgSrc": "Aoki_Hagane_no_Arpeggio_Ars_Nova.jpg",
       "subpastas": [
         {
           "id": 18893,
@@ -10196,6 +10320,8 @@
     {
       "id": 63,
       "nome": "Aoki Honoo (Blue Flames)",
+      "slug": "aoki-honoo-(blue-flames)",
+      "imgSrc": "Aoki_Honoo_(Blue_Flames).jpg",
       "subpastas": [
         {
           "id": 3306,
@@ -10220,6 +10346,8 @@
     {
       "id": 64,
       "nome": "Aozora Shoujo-tai (801 TTS Airbats)",
+      "slug": "aozora-shoujo-tai-(801-tts-airbats)",
+      "imgSrc": "Aozora_Shoujo-tai_(801_TTS_Airbats).jpg",
       "subpastas": [
         {
           "id": 1233,
@@ -10264,6 +10392,8 @@
     {
       "id": 65,
       "nome": "Applessed",
+      "slug": "applessed",
+      "imgSrc": "Applessed.jpg",
       "subpastas": [
         {
           "id": 937,
@@ -10404,6 +10534,8 @@
     {
       "id": 66,
       "nome": "Aquarion",
+      "slug": "aquarion",
+      "imgSrc": "Aquarion.jpg",
       "subpastas": [
         {
           "id": 478,
@@ -10706,6 +10838,8 @@
     {
       "id": 67,
       "nome": "Arcade Gamer Fubuki",
+      "slug": "arcade-gamer-fubuki",
+      "imgSrc": "Arcade_Gamer_Fubuki.jpg",
       "subpastas": [
         {
           "id": 1596,
@@ -10768,6 +10902,8 @@
     {
       "id": 68,
       "nome": "Arcane (League Of Legends)",
+      "slug": "arcane-(league-of-legends)",
+      "imgSrc": "Arcane_(League_Of_Legends).jpg",
       "subpastas": [
         {
           "id": null,
@@ -10874,6 +11010,8 @@
     {
       "id": 69,
       "nome": "Ariel Visual",
+      "slug": "ariel-visual",
+      "imgSrc": "Ariel_Visual.jpg",
       "subpastas": [
         {
           "id": 2839,
@@ -10916,6 +11054,8 @@
     {
       "id": 70,
       "nome": "Arifureta",
+      "slug": "arifureta",
+      "imgSrc": "Arifureta.jpg",
       "subpastas": [
         {
           "id": 36882,
@@ -11264,6 +11404,8 @@
     {
       "id": 71,
       "nome": "Arion",
+      "slug": "arion",
+      "imgSrc": "Arion.jpg",
       "subpastas": [
         {
           "id": 791,
@@ -11284,11 +11426,15 @@
     {
       "id": 72,
       "nome": "Armitage",
+      "slug": "armitage",
+      "imgSrc": "Armitage.jpg",
       "subpastas": []
     },
     {
       "id": 73,
       "nome": "Around 40 otoko no isekai tsuuhan (Arafo Otoko No Isekai Tsuhan Seikatsu)",
+      "slug": "around-40-otoko-no-isekai-tsuuhan-(arafo-otoko-no-isekai-tsuhan-seikatsu)",
+      "imgSrc": "Around_40_otoko_no_isekai_tsuuhan_(Arafo_Otoko_No_Isekai_Tsuhan_Seikatsu).jpg",
       "subpastas": [
         {
           "id": 59561,
@@ -11381,6 +11527,8 @@
     {
       "id": 74,
       "nome": "Arrugas (Rugas)",
+      "slug": "arrugas-(rugas)",
+      "imgSrc": "Arrugas_(Rugas).jpg",
       "subpastas": [
         {
           "id": null,
@@ -11401,6 +11549,8 @@
     {
       "id": 75,
       "nome": "Ars no Kyojuu",
+      "slug": "ars-no-kyojuu",
+      "imgSrc": "Ars_no_Kyojuu.jpg",
       "subpastas": [
         {
           "id": 53179,
@@ -11523,6 +11673,8 @@
     {
       "id": 76,
       "nome": "Arslan Senki",
+      "slug": "arslan-senki",
+      "imgSrc": "Arslan_Senki.jpg",
       "subpastas": [
         {
           "id": 1762,
@@ -11765,6 +11917,8 @@
     {
       "id": 77,
       "nome": "Arte",
+      "slug": "arte",
+      "imgSrc": "Arte.jpg",
       "subpastas": [
         {
           "id": 40128,
@@ -11829,11 +11983,15 @@
     {
       "id": 78,
       "nome": "As Terríveis Aventuras De Billy E Mandy",
+      "slug": "as-terríveis-aventuras-de-billy-e-mandy",
+      "imgSrc": "As_Terríveis_Aventuras_De_Billy_E_Mandy.jpg",
       "subpastas": []
     },
     {
       "id": 79,
       "nome": "Asa Made Jugyou Chu!",
+      "slug": "asa-made-jugyou-chu!",
+      "imgSrc": "Asa_Made_Jugyou_Chu!.jpg",
       "subpastas": [
         {
           "id": 12581,
@@ -11854,6 +12012,8 @@
     {
       "id": 80,
       "nome": "Asobi ni Iku yo!",
+      "slug": "asobi-ni-iku-yo!",
+      "imgSrc": "Asobi_ni_Iku_yo!.jpg",
       "subpastas": [
         {
           "id": 6166,
@@ -11942,6 +12102,8 @@
     {
       "id": 81,
       "nome": "Assassins Pride",
+      "slug": "assassins-pride",
+      "imgSrc": "Assassins_Pride.jpg",
       "subpastas": [
         {
           "id": 38572,
@@ -12006,6 +12168,8 @@
     {
       "id": 82,
       "nome": "Assault Lily Bouquet",
+      "slug": "assault-lily-bouquet",
+      "imgSrc": "Assault_Lily_Bouquet.jpg",
       "subpastas": [
         {
           "id": 40550,
@@ -12084,6 +12248,8 @@
     {
       "id": 83,
       "nome": "Astarotte No Omocha",
+      "slug": "astarotte-no-omocha",
+      "imgSrc": "Astarotte_No_Omocha.jpg",
       "subpastas": [
         {
           "id": 9736,
@@ -12218,6 +12384,8 @@
     {
       "id": 84,
       "nome": "Asu no Yoichi! (Samurai Harem)",
+      "slug": "asu-no-yoichi!-(samurai-harem)",
+      "imgSrc": "Asu_no_Yoichi!_(Samurai_Harem).jpg",
       "subpastas": [
         {
           "id": 4999,
@@ -12282,6 +12450,8 @@
     {
       "id": 85,
       "nome": "Asura Cryin",
+      "slug": "asura-cryin",
+      "imgSrc": "Asura_Cryin.jpg",
       "subpastas": [
         {
           "id": 5342,
@@ -12408,6 +12578,8 @@
     {
       "id": 86,
       "nome": "Aviões",
+      "slug": "aviões",
+      "imgSrc": "Aviões.jpg",
       "subpastas": [
         {
           "id": null,
@@ -12442,6 +12614,8 @@
     {
       "id": 87,
       "nome": "Ayakashi",
+      "slug": "ayakashi",
+      "imgSrc": "Ayakashi.jpg",
       "subpastas": [
         {
           "id": 3166,
@@ -12506,6 +12680,8 @@
     {
       "id": 88,
       "nome": "Ayakashi Triangle",
+      "slug": "ayakashi-triangle",
+      "imgSrc": "Ayakashi_Triangle.jpg",
       "subpastas": [
         {
           "id": 50606,
@@ -12584,6 +12760,8 @@
     {
       "id": 89,
       "nome": "Ayane-chan High Kick!",
+      "slug": "ayane-chan-high-kick!",
+      "imgSrc": "Ayane-chan_High_Kick!.jpg",
       "subpastas": [
         {
           "id": 2183,
@@ -12608,6 +12786,8 @@
     {
       "id": 90,
       "nome": "Azur Lane",
+      "slug": "azur-lane",
+      "imgSrc": "Azur_Lane.jpg",
       "subpastas": [
         {
           "id": 38328,
@@ -12726,6 +12906,8 @@
     {
       "id": 91,
       "nome": "B-gata H-kei (B Gata H Kei)",
+      "slug": "b-gata-h-kei-(b-gata-h-kei)",
+      "imgSrc": "B-gata_H-kei_(B_Gata_H_Kei).jpg",
       "subpastas": [
         {
           "id": 7817,
@@ -12790,6 +12972,8 @@
     {
       "id": 92,
       "nome": "Baby Princess 3D Paradise 0 [Love]",
+      "slug": "baby-princess-3d-paradise-0-[love]",
+      "imgSrc": "Baby_Princess_3D_Paradise_0_[Love].jpg",
       "subpastas": [
         {
           "id": 10196,
@@ -12810,11 +12994,15 @@
     {
       "id": 93,
       "nome": "Babylon",
+      "slug": "babylon",
+      "imgSrc": "Babylon.jpg",
       "subpastas": []
     },
     {
       "id": 94,
       "nome": "Back Street Girls Gokudolls",
+      "slug": "back-street-girls-gokudolls",
+      "imgSrc": "Back_Street_Girls_Gokudolls.jpg",
       "subpastas": [
         {
           "id": 36873,
@@ -12871,6 +13059,8 @@
     {
       "id": 95,
       "nome": "Baki Grappler",
+      "slug": "baki-grappler",
+      "imgSrc": "Baki_Grappler.jpg",
       "subpastas": [
         {
           "id": 1859,
@@ -13163,6 +13353,8 @@
     {
       "id": 96,
       "nome": "Bakuen Campus Guardress",
+      "slug": "bakuen-campus-guardress",
+      "imgSrc": "Bakuen_Campus_Guardress.jpg",
       "subpastas": [
         {
           "id": 2023,
@@ -13195,6 +13387,8 @@
     {
       "id": 97,
       "nome": "Bakuretsu Hunters",
+      "slug": "bakuretsu-hunters",
+      "imgSrc": "Bakuretsu_Hunters.jpg",
       "subpastas": [
         {
           "id": 495,
@@ -13355,6 +13549,8 @@
     {
       "id": 98,
       "nome": "Bakuretsu Tenshi",
+      "slug": "bakuretsu-tenshi",
+      "imgSrc": "Bakuretsu_Tenshi.jpg",
       "subpastas": [
         {
           "id": 109,
@@ -13499,6 +13695,8 @@
     {
       "id": 99,
       "nome": "Baldr Force Exe Resolution",
+      "slug": "baldr-force-exe-resolution",
+      "imgSrc": "Baldr_Force_Exe_Resolution.jpg",
       "subpastas": [
         {
           "id": 1682,
@@ -13531,6 +13729,8 @@
     {
       "id": 100,
       "nome": "Bannou Bunka Neko-Musume",
+      "slug": "bannou-bunka-neko-musume",
+      "imgSrc": "Bannou_Bunka_Neko-Musume.jpg",
       "subpastas": [
         {
           "id": 373,
@@ -13625,6 +13825,8 @@
     {
       "id": 101,
       "nome": "Basilisk",
+      "slug": "basilisk",
+      "imgSrc": "Basilisk.jpg",
       "subpastas": [
         {
           "id": 67,
@@ -13747,6 +13949,8 @@
     {
       "id": 102,
       "nome": "Bastard!!",
+      "slug": "bastard!!",
+      "imgSrc": "Bastard!!.jpg",
       "subpastas": [
         {
           "id": 404,
@@ -13977,6 +14181,8 @@
     {
       "id": 103,
       "nome": "Batman Ninja",
+      "slug": "batman-ninja",
+      "imgSrc": "Batman_Ninja.jpg",
       "subpastas": [
         {
           "id": 36517,
@@ -13997,6 +14203,8 @@
     {
       "id": 104,
       "nome": "Battle Athletess Daiundoukai",
+      "slug": "battle-athletess-daiundoukai",
+      "imgSrc": "Battle_Athletess_Daiundoukai.jpg",
       "subpastas": [
         {
           "id": 1185,
@@ -14057,6 +14265,8 @@
     {
       "id": 105,
       "nome": "Battle Programmer Shirase",
+      "slug": "battle-programmer-shirase",
+      "imgSrc": "Battle_Programmer_Shirase.jpg",
       "subpastas": [
         {
           "id": 579,
@@ -14113,6 +14323,8 @@
     {
       "id": 106,
       "nome": "Bayonetta Bloody Fate",
+      "slug": "bayonetta-bloody-fate",
+      "imgSrc": "Bayonetta_Bloody_Fate.jpg",
       "subpastas": [
         {
           "id": 20543,
@@ -14137,6 +14349,8 @@
     {
       "id": 107,
       "nome": "Bean",
+      "slug": "bean",
+      "imgSrc": "Bean.jpg",
       "subpastas": [
         {
           "id": 917,
@@ -14193,6 +14407,8 @@
     {
       "id": 108,
       "nome": "Beatless",
+      "slug": "beatless",
+      "imgSrc": "Beatless.jpg",
       "subpastas": [
         {
           "id": 36516,
@@ -14341,6 +14557,8 @@
     {
       "id": 109,
       "nome": "Beck",
+      "slug": "beck",
+      "imgSrc": "Beck.jpg",
       "subpastas": [
         {
           "id": 57,
@@ -14461,6 +14679,8 @@
     {
       "id": 110,
       "nome": "Ben-To",
+      "slug": "ben-to",
+      "imgSrc": "Ben-To.jpg",
       "subpastas": [
         {
           "id": 10396,
@@ -14583,11 +14803,15 @@
     {
       "id": 111,
       "nome": "Beowulf",
+      "slug": "beowulf",
+      "imgSrc": "Beowulf.jpg",
       "subpastas": []
     },
     {
       "id": 112,
       "nome": "Berserk",
+      "slug": "berserk",
+      "imgSrc": "Berserk.jpg",
       "subpastas": [
         {
           "id": 33,
@@ -14934,6 +15158,8 @@
     {
       "id": 113,
       "nome": "Big Order",
+      "slug": "big-order",
+      "imgSrc": "Big_Order.jpg",
       "subpastas": [
         {
           "id": 30137,
@@ -15104,6 +15330,8 @@
     {
       "id": 114,
       "nome": "Bikini Warriors",
+      "slug": "bikini-warriors",
+      "imgSrc": "Bikini_Warriors.jpg",
       "subpastas": [
         {
           "id": 30782,
@@ -15216,6 +15444,8 @@
     {
       "id": 115,
       "nome": "Binbougami ga!",
+      "slug": "binbougami-ga!",
+      "imgSrc": "Binbougami_ga!.jpg",
       "subpastas": [
         {
           "id": 13535,
@@ -15284,6 +15514,8 @@
     {
       "id": 116,
       "nome": "Black Blood Brothers",
+      "slug": "black-blood-brothers",
+      "imgSrc": "Black_Blood_Brothers.jpg",
       "subpastas": [
         {
           "id": 1498,
@@ -15348,6 +15580,8 @@
     {
       "id": 117,
       "nome": "Black Bullet",
+      "slug": "black-bullet",
+      "imgSrc": "Black_Bullet.jpg",
       "subpastas": [
         {
           "id": 20787,
@@ -15426,6 +15660,8 @@
     {
       "id": 118,
       "nome": "Black Clover",
+      "slug": "black-clover",
+      "imgSrc": "Black_Clover.jpg",
       "subpastas": [
         {
           "id": 33950,
@@ -15500,6 +15736,8 @@
     {
       "id": 119,
       "nome": "Black Fox",
+      "slug": "black-fox",
+      "imgSrc": "Black_Fox.jpg",
       "subpastas": [
         {
           "id": 37498,
@@ -15520,6 +15758,8 @@
     {
       "id": 120,
       "nome": "Black Jack",
+      "slug": "black-jack",
+      "imgSrc": "Black_Jack.jpg",
       "subpastas": [
         {
           "id": 1520,
@@ -15660,6 +15900,8 @@
     {
       "id": 121,
       "nome": "Black Lagoon",
+      "slug": "black-lagoon",
+      "imgSrc": "Black_Lagoon.jpg",
       "subpastas": [
         {
           "id": 889,
@@ -15754,6 +15996,8 @@
     {
       "id": 122,
       "nome": "Black Magic M-66",
+      "slug": "black-magic-m-66",
+      "imgSrc": "Black_Magic_M-66.jpg",
       "subpastas": [
         {
           "id": 1270,
@@ -15774,6 +16018,8 @@
     {
       "id": 123,
       "nome": "Blame!",
+      "slug": "blame!",
+      "imgSrc": "Blame!.jpg",
       "subpastas": [
         {
           "id": 1055,
@@ -15848,6 +16094,8 @@
     {
       "id": 124,
       "nome": "BlazBlue Alter Memory",
+      "slug": "blazblue-alter-memory",
+      "imgSrc": "BlazBlue_Alter_Memory.jpg",
       "subpastas": [
         {
           "id": 18767,
@@ -15922,6 +16170,8 @@
     {
       "id": 125,
       "nome": "Bleach",
+      "slug": "bleach",
+      "imgSrc": "Bleach.jpg",
       "subpastas": [
         {
           "id": 269,
@@ -16168,6 +16418,8 @@
     {
       "id": 126,
       "nome": "Blood Lad",
+      "slug": "blood-lad",
+      "imgSrc": "Blood_Lad.jpg",
       "subpastas": [
         {
           "id": 11633,
@@ -16238,6 +16490,8 @@
     {
       "id": 127,
       "nome": "Blood+",
+      "slug": "blood+",
+      "imgSrc": "Blood+.jpg",
       "subpastas": [
         {
           "id": 405,
@@ -16512,6 +16766,8 @@
     {
       "id": 128,
       "nome": "Blue Seed",
+      "slug": "blue-seed",
+      "imgSrc": "Blue_Seed.jpg",
       "subpastas": [
         {
           "id": 998,
@@ -16742,6 +16998,8 @@
     {
       "id": 129,
       "nome": "Bofuri (Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.)",
+      "slug": "bofuri-(itai-no-wa-iya-nanode-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu.)",
+      "imgSrc": "Bofuri_(Itai_no_wa_Iya_nanode_Bougyoryoku_ni_Kyokufuri_Shitai_to_Omoimasu.).jpg",
       "subpastas": [
         {
           "id": 38790,
@@ -16864,6 +17122,8 @@
     {
       "id": 130,
       "nome": "Boku dake ga Inai Machi",
+      "slug": "boku-dake-ga-inai-machi",
+      "imgSrc": "Boku_dake_ga_Inai_Machi.jpg",
       "subpastas": [
         {
           "id": 31043,
@@ -16938,6 +17198,8 @@
     {
       "id": 131,
       "nome": "Boku no Hero Academia",
+      "slug": "boku-no-hero-academia",
+      "imgSrc": "Boku_no_Hero_Academia.jpg",
       "subpastas": [
         {
           "id": 31964,
@@ -17454,6 +17716,8 @@
     {
       "id": 132,
       "nome": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+      "slug": "boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken",
+      "imgSrc": "Boku_no_Kanojo_ga_Majimesugiru_Sho-bitch_na_Ken.jpg",
       "subpastas": [
         {
           "id": 35712,
@@ -17528,6 +17792,8 @@
     {
       "id": 133,
       "nome": "Boku no Marie",
+      "slug": "boku-no-marie",
+      "imgSrc": "Boku_no_Marie.jpg",
       "subpastas": [
         {
           "id": 1701,
@@ -17556,6 +17822,8 @@
     {
       "id": 134,
       "nome": "Boku no Tsuma wa Kanjou ga Nai",
+      "slug": "boku-no-tsuma-wa-kanjou-ga-nai",
+      "imgSrc": "Boku_no_Tsuma_wa_Kanjou_ga_Nai.jpg",
       "subpastas": [
         {
           "id": 58272,
@@ -17620,6 +17888,8 @@
     {
       "id": 135,
       "nome": "Boku wa Imouto ni Koi wo Suru",
+      "slug": "boku-wa-imouto-ni-koi-wo-suru",
+      "imgSrc": "Boku_wa_Imouto_ni_Koi_wo_Suru.jpg",
       "subpastas": [
         {
           "id": 819,
@@ -17640,6 +17910,8 @@
     {
       "id": 136,
       "nome": "Boku wa Tomodachi ga Sukunai",
+      "slug": "boku-wa-tomodachi-ga-sukunai",
+      "imgSrc": "Boku_wa_Tomodachi_ga_Sukunai.jpg",
       "subpastas": [
         {
           "id": 10719,
@@ -17846,6 +18118,8 @@
     {
       "id": 137,
       "nome": "Bokusatsu Tenshi Dokuro-chan",
+      "slug": "bokusatsu-tenshi-dokuro-chan",
+      "imgSrc": "Bokusatsu_Tenshi_Dokuro-chan.jpg",
       "subpastas": [
         {
           "id": 357,
@@ -17920,6 +18194,8 @@
     {
       "id": 138,
       "nome": "Bokutachi wa Benkyou ga Dekinai",
+      "slug": "bokutachi-wa-benkyou-ga-dekinai",
+      "imgSrc": "Bokutachi_wa_Benkyou_ga_Dekinai.jpg",
       "subpastas": [
         {
           "id": 38186,
@@ -18060,6 +18336,8 @@
     {
       "id": 139,
       "nome": "Bounty Dog Getsumen no Eve",
+      "slug": "bounty-dog-getsumen-no-eve",
+      "imgSrc": "Bounty_Dog_Getsumen_no_Eve.jpg",
       "subpastas": [
         {
           "id": 1811,
@@ -18084,6 +18362,8 @@
     {
       "id": 140,
       "nome": "Boushoku no Berserk",
+      "slug": "boushoku-no-berserk",
+      "imgSrc": "Boushoku_no_Berserk.jpg",
       "subpastas": [
         {
           "id": 53439,
@@ -18158,6 +18438,8 @@
     {
       "id": 141,
       "nome": "Break Blade",
+      "slug": "break-blade",
+      "imgSrc": "Break_Blade.jpg",
       "subpastas": [
         {
           "id": 6772,
@@ -18330,6 +18612,8 @@
     {
       "id": 142,
       "nome": "Btooom!",
+      "slug": "btooom!",
+      "imgSrc": "Btooom!.jpg",
       "subpastas": [
         {
           "id": 14345,
@@ -18394,6 +18678,8 @@
     {
       "id": 143,
       "nome": "Bubblegum Crisis",
+      "slug": "bubblegum-crisis",
+      "imgSrc": "Bubblegum_Crisis.jpg",
       "subpastas": [
         {
           "id": 2060,
@@ -18724,6 +19010,8 @@
     {
       "id": 144,
       "nome": "Bubuki Buranki",
+      "slug": "bubuki-buranki",
+      "imgSrc": "Bubuki_Buranki.jpg",
       "subpastas": [
         {
           "id": 32023,
@@ -18846,6 +19134,8 @@
     {
       "id": 145,
       "nome": "Bungaku Shoujo",
+      "slug": "bungaku-shoujo",
+      "imgSrc": "Bungaku_Shoujo.jpg",
       "subpastas": [
         {
           "id": 7669,
@@ -18898,6 +19188,8 @@
     {
       "id": 146,
       "nome": "Burn Up",
+      "slug": "burn-up",
+      "imgSrc": "Burn_Up.jpg",
       "subpastas": [
         {
           "id": 767,
@@ -19064,6 +19356,8 @@
     {
       "id": 147,
       "nome": "Busou Chuugakusei - Basket Army",
+      "slug": "busou-chuugakusei---basket-army",
+      "imgSrc": "Busou_Chuugakusei_-_Basket_Army.jpg",
       "subpastas": [
         {
           "id": 12157,
@@ -19096,6 +19390,8 @@
     {
       "id": 148,
       "nome": "Busou Shoujo Machiavellianism",
+      "slug": "busou-shoujo-machiavellianism",
+      "imgSrc": "Busou_Shoujo_Machiavellianism.jpg",
       "subpastas": [
         {
           "id": 33475,
@@ -19170,6 +19466,8 @@
     {
       "id": 149,
       "nome": "Buttobi!! CPU",
+      "slug": "buttobi!!-cpu",
+      "imgSrc": "Buttobi!!_CPU.jpg",
       "subpastas": [
         {
           "id": 458,
@@ -19198,6 +19496,8 @@
     {
       "id": 150,
       "nome": "Buzzer Beater",
+      "slug": "buzzer-beater",
+      "imgSrc": "Buzzer_Beater.jpg",
       "subpastas": [
         {
           "id": 406,
@@ -19328,6 +19628,8 @@
     {
       "id": 151,
       "nome": "C - The Money of Soul and Possibility Control",
+      "slug": "c---the-money-of-soul-and-possibility-control",
+      "imgSrc": "C_-_The_Money_of_Soul_and_Possibility_Control.jpg",
       "subpastas": [
         {
           "id": 10163,
@@ -19392,6 +19694,8 @@
     {
       "id": 152,
       "nome": "Caligula",
+      "slug": "caligula",
+      "imgSrc": "Caligula.jpg",
       "subpastas": [
         {
           "id": 36828,
@@ -19456,6 +19760,8 @@
     {
       "id": 153,
       "nome": "Call me Tonight",
+      "slug": "call-me-tonight",
+      "imgSrc": "Call_me_Tonight.jpg",
       "subpastas": [
         {
           "id": 2147,
@@ -19500,6 +19806,8 @@
     {
       "id": 154,
       "nome": "Campione",
+      "slug": "campione",
+      "imgSrc": "Campione.jpg",
       "subpastas": [
         {
           "id": 12293,
@@ -19568,6 +19876,8 @@
     {
       "id": 155,
       "nome": "Canaan",
+      "slug": "canaan",
+      "imgSrc": "Canaan.jpg",
       "subpastas": [
         {
           "id": 5356,
@@ -19650,6 +19960,8 @@
     {
       "id": 156,
       "nome": "Candy Boy",
+      "slug": "candy-boy",
+      "imgSrc": "Candy_Boy.jpg",
       "subpastas": [
         {
           "id": null,
@@ -19736,6 +20048,8 @@
     {
       "id": 157,
       "nome": "Canvas",
+      "slug": "canvas",
+      "imgSrc": "Canvas.jpg",
       "subpastas": [
         {
           "id": null,
@@ -19766,11 +20080,15 @@
     {
       "id": 158,
       "nome": "Castlevania",
+      "slug": "castlevania",
+      "imgSrc": "Castlevania.jpg",
       "subpastas": []
     },
     {
       "id": 159,
       "nome": "Chainsaw Man",
+      "slug": "chainsaw-man",
+      "imgSrc": "Chainsaw_Man.jpg",
       "subpastas": [
         {
           "id": 44511,
@@ -19849,6 +20167,8 @@
     {
       "id": 160,
       "nome": "Charlotte",
+      "slug": "charlotte",
+      "imgSrc": "Charlotte.jpg",
       "subpastas": [
         {
           "id": 28999,
@@ -19931,6 +20251,8 @@
     {
       "id": 161,
       "nome": "Cheating Craft",
+      "slug": "cheating-craft",
+      "imgSrc": "Cheating_Craft.jpg",
       "subpastas": [
         {
           "id": 33771,
@@ -19995,6 +20317,8 @@
     {
       "id": 162,
       "nome": "Chobits",
+      "slug": "chobits",
+      "imgSrc": "Chobits.jpg",
       "subpastas": [
         {
           "id": 59,
@@ -20131,6 +20455,8 @@
     {
       "id": 163,
       "nome": "Chocotto Sister",
+      "slug": "chocotto-sister",
+      "imgSrc": "Chocotto_Sister.jpg",
       "subpastas": [
         {
           "id": 1219,
@@ -20243,6 +20569,8 @@
     {
       "id": 164,
       "nome": "Chou Henshin Cosprayers",
+      "slug": "chou-henshin-cosprayers",
+      "imgSrc": "Chou_Henshin_Cosprayers.jpg",
       "subpastas": [
         {
           "id": 112,
@@ -20551,6 +20879,8 @@
     {
       "id": 165,
       "nome": "Choujin Gakuen Gowcaizer The Voltage Fighters",
+      "slug": "choujin-gakuen-gowcaizer-the-voltage-fighters",
+      "imgSrc": "Choujin_Gakuen_Gowcaizer_The_Voltage_Fighters.jpg",
       "subpastas": [
         {
           "id": 1560,
@@ -20587,6 +20917,8 @@
     {
       "id": 166,
       "nome": "Choujuu Densetsu Gestalt",
+      "slug": "choujuu-densetsu-gestalt",
+      "imgSrc": "Choujuu_Densetsu_Gestalt.jpg",
       "subpastas": [
         {
           "id": 1283,
@@ -20611,6 +20943,8 @@
     {
       "id": 167,
       "nome": "Choushin Hime Dangaizer 3",
+      "slug": "choushin-hime-dangaizer-3",
+      "imgSrc": "Choushin_Hime_Dangaizer_3.jpg",
       "subpastas": [
         {
           "id": 1627,
@@ -20643,6 +20977,8 @@
     {
       "id": 168,
       "nome": "Chrono Crusade (Chrno Crusade)",
+      "slug": "chrono-crusade-(chrno-crusade)",
+      "imgSrc": "Chrono_Crusade_(Chrno_Crusade).jpg",
       "subpastas": [
         {
           "id": 60,
@@ -20765,6 +21101,8 @@
     {
       "id": 169,
       "nome": "Chunqiu Feng Shen",
+      "slug": "chunqiu-feng-shen",
+      "imgSrc": "Chunqiu_Feng_Shen.jpg",
       "subpastas": [
         {
           "id": 49841,
@@ -20877,6 +21215,8 @@
     {
       "id": 170,
       "nome": "Chuu bra!!",
+      "slug": "chuu-bra!!",
+      "imgSrc": "Chuu_bra!!.jpg",
       "subpastas": [
         {
           "id": 6645,
@@ -20941,6 +21281,8 @@
     {
       "id": 171,
       "nome": "Clannad",
+      "slug": "clannad",
+      "imgSrc": "Clannad.jpg",
       "subpastas": [
         {
           "id": 2167,
@@ -21197,6 +21539,8 @@
     {
       "id": 172,
       "nome": "Claymore",
+      "slug": "claymore",
+      "imgSrc": "Claymore.jpg",
       "subpastas": [
         {
           "id": 1818,
@@ -21421,6 +21765,8 @@
     {
       "id": 173,
       "nome": "Clockwork Planet",
+      "slug": "clockwork-planet",
+      "imgSrc": "Clockwork_Planet.jpg",
       "subpastas": [
         {
           "id": 32407,
@@ -21485,6 +21831,8 @@
     {
       "id": 174,
       "nome": "Code Geass",
+      "slug": "code-geass",
+      "imgSrc": "Code_Geass.jpg",
       "subpastas": [
         {
           "id": 1575,
@@ -22163,6 +22511,8 @@
     {
       "id": 175,
       "nome": "Code-Breaker",
+      "slug": "code-breaker",
+      "imgSrc": "Code-Breaker.jpg",
       "subpastas": [
         {
           "id": 11703,
@@ -22253,6 +22603,8 @@
     {
       "id": 176,
       "nome": "Colorful",
+      "slug": "colorful",
+      "imgSrc": "Colorful.jpg",
       "subpastas": [
         {
           "id": 841,
@@ -22337,6 +22689,8 @@
     {
       "id": 177,
       "nome": "Comic Party",
+      "slug": "comic-party",
+      "imgSrc": "Comic_Party.jpg",
       "subpastas": [
         {
           "id": 289,
@@ -22531,6 +22885,8 @@
     {
       "id": 178,
       "nome": "Como Treinar seu Dragão",
+      "slug": "como-treinar-seu-dragão",
+      "imgSrc": "Como_Treinar_seu_Dragão.jpg",
       "subpastas": [
         {
           "id": null,
@@ -22551,6 +22907,8 @@
     {
       "id": 179,
       "nome": "Compiler",
+      "slug": "compiler",
+      "imgSrc": "Compiler.jpg",
       "subpastas": [
         {
           "id": 3026,
@@ -22597,11 +22955,15 @@
     {
       "id": 180,
       "nome": "Conception",
+      "slug": "conception",
+      "imgSrc": "Conception.jpg",
       "subpastas": []
     },
     {
       "id": 181,
       "nome": "Coppelion",
+      "slug": "coppelion",
+      "imgSrc": "Coppelion.jpg",
       "subpastas": [
         {
           "id": 9479,
@@ -22670,11 +23032,15 @@
     {
       "id": 182,
       "nome": "Coraline",
+      "slug": "coraline",
+      "imgSrc": "Coraline.jpg",
       "subpastas": []
     },
     {
       "id": 183,
       "nome": "Corpse Party",
+      "slug": "corpse-party",
+      "imgSrc": "Corpse_Party.jpg",
       "subpastas": [
         {
           "id": 13807,
@@ -22721,6 +23087,8 @@
     {
       "id": 184,
       "nome": "Cosplay Complex",
+      "slug": "cosplay-complex",
+      "imgSrc": "Cosplay_Complex.jpg",
       "subpastas": [
         {
           "id": 982,
@@ -22759,11 +23127,81 @@
     {
       "id": 185,
       "nome": "Cowboy Bebop",
+      "slug": "cowboy-bebop",
+      "imgSrc": "Cowboy_Bebop.jpg",
       "subpastas": []
     },
     {
       "id": 186,
+      "nome": "Coyote Ragtime Show",
+      "slug": "coyote-ragtime-show",
+      "imgSrc": "Coyote_Ragtime_Show.jpg",
+      "subpastas": [
+        {
+          "id": 1194,
+          "nome": "2006 Coyote Ragtime Show - TV",
+          "arquivos": [
+            {
+              "nome": "1194.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_01_[DVD_848x480_H264+AAC]_(28613AA8).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_02_[DVD_848x480_H264+AAC]_(91372D04).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_03_[DVD_848x480_H264+AAC]_(8A72A720).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_04_[DVD_848x480_H264+AAC]_(D4A9F486).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_05_[DVD_848x480_H264+AAC]_(05BF292B).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_06_[DVD_848x480_H264+AAC]_(A0D8AFCE).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_07_[DVD_848x480_H264+AAC]_(EBBA26F7).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_08_[DVD_848x480_H264+AAC]_(7153FAB4).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_09_[DVD_848x480_H264+AAC]_(815D1543).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_10_[DVD_848x480_H264+AAC]_(1929D74A).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_11_[DVD_848x480_H264+AAC]_(C1D8FAB1).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[_AnimeNSK]_Coyote_RagtimeShow_-_12_Final_[DVD_848x480_H264+AAC]_(4090EC8E).mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 187,
       "nome": "Cream Lemon (Lemon Angel)",
+      "slug": "cream-lemon-(lemon-angel)",
+      "imgSrc": "Cream_Lemon_(Lemon_Angel).jpg",
       "subpastas": [
         {
           "id": 3239,
@@ -22876,8 +23314,52 @@
       ]
     },
     {
-      "id": 187,
+      "id": 188,
+      "nome": "Crying Freeman",
+      "slug": "crying-freeman",
+      "imgSrc": "Crying_Freeman.jpg",
+      "subpastas": [
+        {
+          "id": 1153,
+          "nome": "1988 Crying Freeman - OVA",
+          "arquivos": [
+            {
+              "nome": "1153.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Crying_Freeman_-_01_[BD_1440x1080]_[HEVC_10Bit]_(75246C86).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Crying_Freeman_-_02_[BD_1440x1080]_[HEVC_10Bit]_(BD16BB32).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Crying_Freeman_-_03_[BD_1440x1080]_[HEVC_10Bit]_(C93D647F).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Crying_Freeman_-_04_[BD_1440x1080]_[HEVC_10Bit]_(49505D31).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Crying_Freeman_-_05_[BD_1440x1080]_[HEVC_10Bit]_(1F1C2DF8).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Crying_Freeman_-_06_Final_[BD_1440x1080]_[HEVC_10Bit]_(9E237D19).mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 189,
       "nome": "Cutie Honey",
+      "slug": "cutie-honey",
+      "imgSrc": "Cutie_Honey.jpg",
       "subpastas": [
         {
           "id": 1661,
@@ -23074,8 +23556,10 @@
       ]
     },
     {
-      "id": 188,
+      "id": 190,
       "nome": "Cyber City Oedo 808",
+      "slug": "cyber-city-oedo-808",
+      "imgSrc": "Cyber_City_Oedo_808.jpg",
       "subpastas": [
         {
           "id": 1352,
@@ -23102,8 +23586,10 @@
       ]
     },
     {
-      "id": 189,
+      "id": 191,
       "nome": "Cyberpunk Edgerunners",
+      "slug": "cyberpunk-edgerunners",
+      "imgSrc": "Cyberpunk_Edgerunners.jpg",
       "subpastas": [
         {
           "id": 42310,
@@ -23158,8 +23644,10 @@
       ]
     },
     {
-      "id": 190,
+      "id": 192,
       "nome": "Cyborg 009",
+      "slug": "cyborg-009",
+      "imgSrc": "Cyborg_009.jpg",
       "subpastas": [
         {
           "id": 6872,
@@ -23294,8 +23782,10 @@
       ]
     },
     {
-      "id": 191,
+      "id": 193,
       "nome": "C³ CubexCursedxCurious",
+      "slug": "c³-cubexcursedxcurious",
+      "imgSrc": "C³_CubexCursedxCurious.jpg",
       "subpastas": [
         {
           "id": 10578,
@@ -23376,8 +23866,90 @@
       ]
     },
     {
-      "id": 192,
+      "id": 194,
+      "nome": "D-Frag!",
+      "slug": "d-frag!",
+      "imgSrc": "D-Frag!.jpg",
+      "subpastas": [
+        {
+          "id": 23383,
+          "nome": "2014 D-Frag! - OVA",
+          "arquivos": [
+            {
+              "nome": "23383.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_OVA_[DVD_852x480]_[H264_10Bit]_(BE1FA705).mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 20031,
+          "nome": "2014 D-Frag! - TV",
+          "arquivos": [
+            {
+              "nome": "20031.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_01_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(1B13A953).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_02_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(68638112).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_03_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(97532112).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_04_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(1A2E6008).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_05_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(431F4366).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_06_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(7502FA8B).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_07_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(22C7B28F).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_08_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(E8119F13).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_09_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(0ABD4A5F).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_10_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(4143B61B).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_11_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(7BDFB38B).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_D-Frag!_-_12_Final_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(AF5FA9F6).mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 195,
       "nome": "Dai Mahou Touge",
+      "slug": "dai-mahou-touge",
+      "imgSrc": "Dai_Mahou_Touge.jpg",
       "subpastas": [
         {
           "id": 933,
@@ -23434,8 +24006,10 @@
       ]
     },
     {
-      "id": 193,
+      "id": 196,
       "nome": "Dakara Boku wa, H ga Dekinai",
+      "slug": "dakara-boku-wa,-h-ga-dekinai",
+      "imgSrc": "Dakara_Boku_wa,_H_ga_Dekinai.jpg",
       "subpastas": [
         {
           "id": 12549,
@@ -23526,8 +24100,10 @@
       ]
     },
     {
-      "id": 194,
+      "id": 197,
       "nome": "Dance In The Vampire Bund",
+      "slug": "dance-in-the-vampire-bund",
+      "imgSrc": "Dance_In_The_Vampire_Bund.jpg",
       "subpastas": [
         {
           "id": 6747,
@@ -23600,8 +24176,90 @@
       ]
     },
     {
-      "id": 195,
+      "id": 198,
+      "nome": "Dangaiou (G Dangaioh)",
+      "slug": "dangaiou-(g-dangaioh)",
+      "imgSrc": "Dangaiou_(G_Dangaioh).jpg",
+      "subpastas": [
+        {
+          "id": 498,
+          "nome": "1987 Haja Taisei Dangaiou - OVA",
+          "arquivos": [
+            {
+              "nome": "498.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 2521,
+          "nome": "2001 Haja Kyosei G Dangaiou - TV",
+          "arquivos": [
+            {
+              "nome": "2521.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_01_-_XVID(E3E07FCE).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_02_-_XVID(11E687C9).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_03_-_XVID(B58FAB10).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_04_-_XVID(757490AC).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_05_-_XVID(66CEE5B8).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_06_-_XVID(CA8F93CB).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_07_-_XVID(E1AFE825).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_08_-_XVID(AD98F59A).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_09_-_XVID(1A5F21B9).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_10_-_XVID(1ECB6996).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_11_-_XVID(367CC490).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_12_-_XVID(8D31E2B2).avi",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_G_Dangaioh_13_-_Final_-_XVID(31D233C6).avi",
+              "tipo": "arquivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 199,
       "nome": "DanMachi",
+      "slug": "danmachi",
+      "imgSrc": "DanMachi.jpg",
       "subpastas": [
         {
           "id": 28121,
@@ -24104,8 +24762,10 @@
       ]
     },
     {
-      "id": 196,
+      "id": 200,
       "nome": "Darker than black",
+      "slug": "darker-than-black",
+      "imgSrc": "Darker_than_black.jpg",
       "subpastas": [
         {
           "id": 2025,
@@ -24418,8 +25078,10 @@
       ]
     },
     {
-      "id": 197,
+      "id": 201,
       "nome": "Darling in the FranXX",
+      "slug": "darling-in-the-franxx",
+      "imgSrc": "Darling_in_the_FranXX.jpg",
       "subpastas": [
         {
           "id": 35849,
@@ -24530,13 +25192,17 @@
       ]
     },
     {
-      "id": 198,
+      "id": 202,
       "nome": "Darwin's Game",
+      "slug": "darwin's-game",
+      "imgSrc": "Darwin's_Game.jpg",
       "subpastas": []
     },
     {
-      "id": 199,
+      "id": 203,
       "nome": "Date A Live",
+      "slug": "date-a-live",
+      "imgSrc": "Date_A_Live.jpg",
       "subpastas": [
         {
           "id": 15583,
@@ -24849,8 +25515,10 @@
       ]
     },
     {
-      "id": 200,
+      "id": 204,
       "nome": "DearS",
+      "slug": "dears",
+      "imgSrc": "DearS.jpg",
       "subpastas": [
         {
           "id": 63,
@@ -24983,8 +25651,10 @@
       ]
     },
     {
-      "id": 201,
+      "id": 205,
       "nome": "Deatte 5-byou de Battle",
+      "slug": "deatte-5-byou-de-battle",
+      "imgSrc": "Deatte_5-byou_de_Battle.jpg",
       "subpastas": [
         {
           "id": 43814,
@@ -25047,8 +25717,10 @@
       ]
     },
     {
-      "id": 202,
+      "id": 206,
       "nome": "Dengeki Oshioki Musume Gootaman",
+      "slug": "dengeki-oshioki-musume-gootaman",
+      "imgSrc": "Dengeki_Oshioki_Musume_Gootaman.jpg",
       "subpastas": [
         {
           "id": 5025,
@@ -25089,8 +25761,36 @@
       ]
     },
     {
-      "id": 203,
+      "id": 207,
+      "nome": "Denpa-teki na Kanojo",
+      "slug": "denpa-teki-na-kanojo",
+      "imgSrc": "Denpa-teki_na_Kanojo.jpg",
+      "subpastas": [
+        {
+          "id": 5177,
+          "nome": "2009 Denpa-teki na Kanojo - OVA",
+          "arquivos": [
+            {
+              "nome": "5177.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Denpa_teki_na_Kanojo_-_01_[Blu-Ray_1280x720]_(CA6BBB50).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Denpa_teki_na_Kanojo_-_02_[Blu-Ray_1280x720]_(76429076).mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 208,
       "nome": "Densetsu no Yuusha no Densetsu",
+      "slug": "densetsu-no-yuusha-no-densetsu",
+      "imgSrc": "Densetsu_no_Yuusha_no_Densetsu.jpg",
       "subpastas": [
         {
           "id": 8086,
@@ -25219,8 +25919,10 @@
       ]
     },
     {
-      "id": 204,
+      "id": 209,
       "nome": "Departamento de Conspirações",
+      "slug": "departamento-de-conspirações",
+      "imgSrc": "Departamento_de_Conspirações.jpg",
       "subpastas": [
         {
           "id": null,
@@ -25273,8 +25975,10 @@
       ]
     },
     {
-      "id": 205,
+      "id": 210,
       "nome": "Desencanto",
+      "slug": "desencanto",
+      "imgSrc": "Desencanto.jpg",
       "subpastas": [
         {
           "id": null,
@@ -25497,8 +26201,10 @@
       ]
     },
     {
-      "id": 206,
+      "id": 211,
       "nome": "Detona Ralph",
+      "slug": "detona-ralph",
+      "imgSrc": "Detona_Ralph.jpg",
       "subpastas": [
         {
           "id": null,
@@ -25539,8 +26245,10 @@
       ]
     },
     {
-      "id": 207,
+      "id": 212,
       "nome": "Detroit Metal City",
+      "slug": "detroit-metal-city",
+      "imgSrc": "Detroit_Metal_City.jpg",
       "subpastas": [
         {
           "id": 3702,
@@ -25613,8 +26321,10 @@
       ]
     },
     {
-      "id": 208,
+      "id": 213,
       "nome": "Deu a Louca na Chapeuzinho",
+      "slug": "deu-a-louca-na-chapeuzinho",
+      "imgSrc": "Deu_a_Louca_na_Chapeuzinho.jpg",
       "subpastas": [
         {
           "id": null,
@@ -25633,8 +26343,10 @@
       ]
     },
     {
-      "id": 209,
+      "id": 214,
       "nome": "Devadasy",
+      "slug": "devadasy",
+      "imgSrc": "Devadasy.jpg",
       "subpastas": [
         {
           "id": 1529,
@@ -25653,8 +26365,10 @@
       ]
     },
     {
-      "id": 210,
+      "id": 215,
       "nome": "Devil May Cry",
+      "slug": "devil-may-cry",
+      "imgSrc": "Devil_May_Cry.jpg",
       "subpastas": [
         {
           "id": 1726,
@@ -25717,8 +26431,80 @@
       ]
     },
     {
-      "id": 211,
+      "id": 216,
+      "nome": "Devil Survivor 2 The Animation",
+      "slug": "devil-survivor-2-the-animation",
+      "imgSrc": "Devil_Survivor_2_The_Animation.jpg",
+      "subpastas": [
+        {
+          "id": 16512,
+          "nome": "2013 Devil Survivor 2 The Animation - TV",
+          "arquivos": [
+            {
+              "nome": "16512.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_01_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(65702B43).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_02_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(F122CB1A).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_03_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(CA51F2B3).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_04_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(6B6BF1CF).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_05_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(2D884C0C).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_06_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(AAA200F8).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_07_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(1569C7EA).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_08_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(3D87B382).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_09_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(EA2890F0).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_10_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(8C47C77E).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_11_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(7F030882).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_12_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(B609A5B5).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[#AnimeNSK]_Devil_Survivor_2_The_Animation_-_13_Final_[Blu-Ray_1920x1080]_[HEVC_10Bit]_(980C443E).mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 217,
       "nome": "Devilman",
+      "slug": "devilman",
+      "imgSrc": "Devilman.jpg",
       "subpastas": [
         {
           "id": 2252,
@@ -26068,13 +26854,163 @@
       ]
     },
     {
-      "id": 212,
+      "id": 218,
+      "nome": "Di Gi Charat",
+      "slug": "di-gi-charat",
+      "imgSrc": "Di_Gi_Charat.jpg",
+      "subpastas": [
+        {
+          "id": 293,
+          "nome": "1999 Di Gi Charat - TV",
+          "arquivos": [
+            {
+              "nome": "293.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1757,
+          "nome": "2000 Di Gi Charat Christmas Special",
+          "arquivos": [
+            {
+              "nome": "1757.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1754,
+          "nome": "2000 Di Gi Charat Summer Special 2000",
+          "arquivos": [
+            {
+              "nome": "1754.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1752,
+          "nome": "2001 Di Gi Charat Hoshi no Tabi - Filme",
+          "arquivos": [
+            {
+              "nome": "1752.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1756,
+          "nome": "2001 Di Gi Charat Natsuyasumi Special",
+          "arquivos": [
+            {
+              "nome": "1756.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1755,
+          "nome": "2001 Di Gi Charat Ohanami Special",
+          "arquivos": [
+            {
+              "nome": "1755.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1758,
+          "nome": "2001 Di Gi Charat Tsuyu Specials",
+          "arquivos": [
+            {
+              "nome": "1758.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1753,
+          "nome": "2002 i Gi Charat Kuchi Kara Bazooka - Special",
+          "arquivos": [
+            {
+              "nome": "1753.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1597,
+          "nome": "2002 Panyo Panyo Di Gi Charat - TV",
+          "arquivos": [
+            {
+              "nome": "1597.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1683,
+          "nome": "2003 Di Gi Charat Nyo - TV",
+          "arquivos": [
+            {
+              "nome": "1683.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1748,
+          "nome": "2003 Piyoko ni Omakase pyo! - OVA",
+          "arquivos": [
+            {
+              "nome": "1748.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 1718,
+          "nome": "2006 Winter Garden - TV special",
+          "arquivos": [
+            {
+              "nome": "1718.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_Winter_Garden_01_(1280x720)_(H264+AAC)_(0EF64E2D).mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[AnimeNSK]_Winter_Garden_02_(Final)_(1280x720)_(H264+AAC)_(1326D58A).mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 49179,
+          "nome": "2022 Reiwa no Di Gi Charat - TV",
+          "arquivos": [
+            {
+              "nome": "49179.jpg",
+              "tipo": "arquivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 219,
       "nome": "Divertida Mente",
+      "slug": "divertida-mente",
+      "imgSrc": "Divertida_Mente.jpg",
       "subpastas": []
     },
     {
-      "id": 213,
+      "id": 220,
       "nome": "Dogeza de Tanondemita",
+      "slug": "dogeza-de-tanondemita",
+      "imgSrc": "Dogeza_de_Tanondemita.jpg",
       "subpastas": [
         {
           "id": 42571,
@@ -26163,8 +27099,10 @@
       ]
     },
     {
-      "id": 214,
+      "id": 221,
       "nome": "Dokyuu Hentai HxEros",
+      "slug": "dokyuu-hentai-hxeros",
+      "imgSrc": "Dokyuu_Hentai_HxEros.jpg",
       "subpastas": [
         {
           "id": 40623,
@@ -26271,8 +27209,10 @@
       ]
     },
     {
-      "id": 215,
+      "id": 222,
       "nome": "Domestic na Kanojo",
+      "slug": "domestic-na-kanojo",
+      "imgSrc": "Domestic_na_Kanojo.jpg",
       "subpastas": [
         {
           "id": 37982,
@@ -26347,8 +27287,10 @@
       ]
     },
     {
-      "id": 216,
+      "id": 223,
       "nome": "Dorohedoro",
+      "slug": "dorohedoro",
+      "imgSrc": "Dorohedoro.jpg",
       "subpastas": [
         {
           "id": 38668,
@@ -26429,8 +27371,10 @@
       ]
     },
     {
-      "id": 217,
+      "id": 224,
       "nome": "Dororo",
+      "slug": "dororo",
+      "imgSrc": "Dororo.jpg",
       "subpastas": [
         {
           "id": 11471,
@@ -26561,13 +27505,17 @@
       ]
     },
     {
-      "id": 218,
+      "id": 225,
       "nome": "DOTA Dragons Blood",
+      "slug": "dota-dragons-blood",
+      "imgSrc": "DOTA_Dragons_Blood.jpg",
       "subpastas": []
     },
     {
-      "id": 219,
+      "id": 226,
       "nome": "Dr. Stone",
+      "slug": "dr.-stone",
+      "imgSrc": "Dr._Stone.jpg",
       "subpastas": [
         {
           "id": 38691,
@@ -26882,8 +27830,10 @@
       ]
     },
     {
-      "id": 220,
+      "id": 227,
       "nome": "Dragon Age Blood Mage no Seisen",
+      "slug": "dragon-age-blood-mage-no-seisen",
+      "imgSrc": "Dragon_Age_Blood_Mage_no_Seisen.jpg",
       "subpastas": [
         {
           "id": 11705,
@@ -26906,8 +27856,10 @@
       ]
     },
     {
-      "id": 221,
+      "id": 228,
       "nome": "Dragon Ball",
+      "slug": "dragon-ball",
+      "imgSrc": "Dragon_Ball.jpg",
       "subpastas": [
         {
           "id": 223,
@@ -28928,13 +29880,17 @@
       ]
     },
     {
-      "id": 222,
+      "id": 229,
       "nome": "Dragons Dogma",
+      "slug": "dragons-dogma",
+      "imgSrc": "Dragons_Dogma.jpg",
       "subpastas": []
     },
     {
-      "id": 223,
+      "id": 230,
       "nome": "Dream Hunter Rem",
+      "slug": "dream-hunter-rem",
+      "imgSrc": "Dream_Hunter_Rem.jpg",
       "subpastas": [
         {
           "id": 4003,
@@ -28989,8 +29945,10 @@
       ]
     },
     {
-      "id": 224,
+      "id": 231,
       "nome": "Drifters",
+      "slug": "drifters",
+      "imgSrc": "Drifters.jpg",
       "subpastas": [
         {
           "id": 31339,
@@ -29115,8 +30073,10 @@
       ]
     },
     {
-      "id": 225,
+      "id": 232,
       "nome": "Dumbbell Nan Kilo Moteru",
+      "slug": "dumbbell-nan-kilo-moteru",
+      "imgSrc": "Dumbbell_Nan_Kilo_Moteru.jpg",
       "subpastas": [
         {
           "id": 39026,
@@ -29189,8 +30149,10 @@
       ]
     },
     {
-      "id": 226,
+      "id": 233,
       "nome": "Durarara!!",
+      "slug": "durarara!!",
+      "imgSrc": "Durarara!!.jpg",
       "subpastas": [
         {
           "id": 6746,
@@ -29527,8 +30489,10 @@
       ]
     },
     {
-      "id": 227,
+      "id": 234,
       "nome": "Ebiten Kouritsu Ebisugawa Koukou Tenmonbu",
+      "slug": "ebiten-kouritsu-ebisugawa-koukou-tenmonbu",
+      "imgSrc": "Ebiten_Kouritsu_Ebisugawa_Koukou_Tenmonbu.jpg",
       "subpastas": [
         {
           "id": 14073,
@@ -29603,8 +30567,10 @@
       ]
     },
     {
-      "id": 228,
+      "id": 235,
       "nome": "Eiken Eikenbu yori Ai wo Komete",
+      "slug": "eiken-eikenbu-yori-ai-wo-komete",
+      "imgSrc": "Eiken_Eikenbu_yori_Ai_wo_Komete.jpg",
       "subpastas": [
         {
           "id": 788,
@@ -29635,8 +30601,10 @@
       ]
     },
     {
-      "id": 229,
+      "id": 236,
       "nome": "Eiyuu Kyoushitsu",
+      "slug": "eiyuu-kyoushitsu",
+      "imgSrc": "Eiyuu_Kyoushitsu.jpg",
       "subpastas": [
         {
           "id": 49894,
@@ -29721,8 +30689,10 @@
       ]
     },
     {
-      "id": 230,
+      "id": 237,
       "nome": "Elf wo Karu Mono-tachi",
+      "slug": "elf-wo-karu-mono-tachi",
+      "imgSrc": "Elf_wo_Karu_Mono-tachi.jpg",
       "subpastas": [
         {
           "id": 1045,
@@ -29795,8 +30765,10 @@
       ]
     },
     {
-      "id": 231,
+      "id": 238,
       "nome": "Elf-san wa Yaserarenai",
+      "slug": "elf-san-wa-yaserarenai",
+      "imgSrc": "Elf-san_wa_Yaserarenai.jpg",
       "subpastas": [
         {
           "id": 57845,
@@ -29893,8 +30865,10 @@
       ]
     },
     {
-      "id": 232,
+      "id": 239,
       "nome": "Elfen Lied",
+      "slug": "elfen-lied",
+      "imgSrc": "Elfen_Lied.jpg",
       "subpastas": [
         {
           "id": 226,
@@ -30031,8 +31005,10 @@
       ]
     },
     {
-      "id": 233,
+      "id": 240,
       "nome": "Emoji O Filme",
+      "slug": "emoji-o-filme",
+      "imgSrc": "Emoji_O_Filme.jpg",
       "subpastas": [
         {
           "id": null,
@@ -30051,8 +31027,10 @@
       ]
     },
     {
-      "id": 234,
+      "id": 241,
       "nome": "Encanto",
+      "slug": "encanto",
+      "imgSrc": "Encanto.jpg",
       "subpastas": [
         {
           "id": null,
@@ -30067,13 +31045,17 @@
       ]
     },
     {
-      "id": 235,
+      "id": 242,
       "nome": "Enrolados",
+      "slug": "enrolados",
+      "imgSrc": "Enrolados.jpg",
       "subpastas": []
     },
     {
-      "id": 236,
+      "id": 243,
       "nome": "Eoneu Nal Jameseo Kkaeeoboni Bagelyeoga Doeeo Isseotda",
+      "slug": "eoneu-nal-jameseo-kkaeeoboni-bagelyeoga-doeeo-isseotda",
+      "imgSrc": "Eoneu_Nal_Jameseo_Kkaeeoboni_Bagelyeoga_Doeeo_Isseotda.jpg",
       "subpastas": [
         {
           "id": 43779,
@@ -30148,8 +31130,10 @@
       ]
     },
     {
-      "id": 237,
+      "id": 244,
       "nome": "Ergo Proxy",
+      "slug": "ergo-proxy",
+      "imgSrc": "Ergo_Proxy.jpg",
       "subpastas": [
         {
           "id": 790,
@@ -30264,8 +31248,10 @@
       ]
     },
     {
-      "id": 238,
+      "id": 245,
       "nome": "Eromanga Sensei",
+      "slug": "eromanga-sensei",
+      "imgSrc": "Eromanga_Sensei.jpg",
       "subpastas": [
         {
           "id": 32901,
@@ -30336,8 +31322,10 @@
       ]
     },
     {
-      "id": 239,
+      "id": 246,
       "nome": "Eureka Seven",
+      "slug": "eureka-seven",
+      "imgSrc": "Eureka_Seven.jpg",
       "subpastas": [
         {
           "id": 237,
@@ -30754,8 +31742,10 @@
       ]
     },
     {
-      "id": 240,
+      "id": 247,
       "nome": "Ex-Arm",
+      "slug": "ex-arm",
+      "imgSrc": "Ex-Arm.jpg",
       "subpastas": [
         {
           "id": 38853,
@@ -30818,8 +31808,10 @@
       ]
     },
     {
-      "id": 241,
+      "id": 248,
       "nome": "Exaella",
+      "slug": "exaella",
+      "imgSrc": "Exaella.jpg",
       "subpastas": [
         {
           "id": null,
@@ -30846,8 +31838,10 @@
       ]
     },
     {
-      "id": 242,
+      "id": 249,
       "nome": "F-Zero Falcon Densetsu",
+      "slug": "f-zero-falcon-densetsu",
+      "imgSrc": "F-Zero_Falcon_Densetsu.jpg",
       "subpastas": [
         {
           "id": 3101,
@@ -30870,8 +31864,10 @@
       ]
     },
     {
-      "id": 243,
+      "id": 250,
       "nome": "Fairy Tail",
+      "slug": "fairy-tail",
+      "imgSrc": "Fairy_Tail.jpg",
       "subpastas": [
         {
           "id": 6702,
@@ -31682,8 +32678,10 @@
       ]
     },
     {
-      "id": 244,
+      "id": 251,
       "nome": "Fate",
+      "slug": "fate",
+      "imgSrc": "Fate.jpg",
       "subpastas": [
         {
           "id": 169,
@@ -33090,8 +34088,10 @@
       ]
     },
     {
-      "id": 245,
+      "id": 252,
       "nome": "Fight Ippatsu! Juuden-Chan!!",
+      "slug": "fight-ippatsu!-juuden-chan!!",
+      "imgSrc": "Fight_Ippatsu!_Juuden-Chan!!.jpg",
       "subpastas": [
         {
           "id": 5973,
@@ -33204,8 +34204,10 @@
       ]
     },
     {
-      "id": 246,
+      "id": 253,
       "nome": "Final Fantasy",
+      "slug": "final-fantasy",
+      "imgSrc": "Final_Fantasy.jpg",
       "subpastas": [
         {
           "id": 426,
@@ -33586,8 +34588,10 @@
       ]
     },
     {
-      "id": 247,
+      "id": 254,
       "nome": "FLCL",
+      "slug": "flcl",
+      "imgSrc": "FLCL.jpg",
       "subpastas": [
         {
           "id": 227,
@@ -33738,8 +34742,10 @@
       ]
     },
     {
-      "id": 248,
+      "id": 255,
       "nome": "Freezing",
+      "slug": "freezing",
+      "imgSrc": "Freezing.jpg",
       "subpastas": [
         {
           "id": 9367,
@@ -33976,8 +34982,10 @@
       ]
     },
     {
-      "id": 249,
+      "id": 256,
       "nome": "Full Metal Panic",
+      "slug": "full-metal-panic",
+      "imgSrc": "Full_Metal_Panic.jpg",
       "subpastas": [
         {
           "id": 71,
@@ -34334,8 +35342,10 @@
       ]
     },
     {
-      "id": 250,
+      "id": 257,
       "nome": "Fullmetal Alchemist",
+      "slug": "fullmetal-alchemist",
+      "imgSrc": "Fullmetal_Alchemist.jpg",
       "subpastas": [
         {
           "id": 121,
@@ -34996,8 +36006,10 @@
       ]
     },
     {
-      "id": 251,
+      "id": 258,
       "nome": "Fumetsu no Anata e",
+      "slug": "fumetsu-no-anata-e",
+      "imgSrc": "Fumetsu_no_Anata_e.jpg",
       "subpastas": [
         {
           "id": 41025,
@@ -35202,8 +36214,10 @@
       ]
     },
     {
-      "id": 252,
+      "id": 259,
       "nome": "Fushigi no Kuni no Miyuki-chan",
+      "slug": "fushigi-no-kuni-no-miyuki-chan",
+      "imgSrc": "Fushigi_no_Kuni_no_Miyuki-chan.jpg",
       "subpastas": [
         {
           "id": 1496,
@@ -35246,8 +36260,10 @@
       ]
     },
     {
-      "id": 253,
+      "id": 260,
       "nome": "Futari Ecchi",
+      "slug": "futari-ecchi",
+      "imgSrc": "Futari_Ecchi.jpg",
       "subpastas": [
         {
           "id": 382,
@@ -35314,8 +36330,10 @@
       ]
     },
     {
-      "id": 254,
+      "id": 261,
       "nome": "Futoku no Guild",
+      "slug": "futoku-no-guild",
+      "imgSrc": "Futoku_no_Guild.jpg",
       "subpastas": [
         {
           "id": 51212,
@@ -35378,8 +36396,10 @@
       ]
     },
     {
-      "id": 255,
+      "id": 262,
       "nome": "Futurama",
+      "slug": "futurama",
+      "imgSrc": "Futurama.jpg",
       "subpastas": [
         {
           "id": null,
@@ -36028,8 +37048,10 @@
       ]
     },
     {
-      "id": 256,
+      "id": 263,
       "nome": "Fuufu Ijou, Koibito Miman",
+      "slug": "fuufu-ijou,-koibito-miman",
+      "imgSrc": "Fuufu_Ijou,_Koibito_Miman.jpg",
       "subpastas": [
         {
           "id": 50425,
@@ -36096,8 +37118,10 @@
       ]
     },
     {
-      "id": 257,
+      "id": 264,
       "nome": "Fuuka (Suzuka)",
+      "slug": "fuuka-(suzuka)",
+      "imgSrc": "Fuuka_(Suzuka).jpg",
       "subpastas": [
         {
           "id": 390,
@@ -36170,8 +37194,10 @@
       ]
     },
     {
-      "id": 258,
+      "id": 265,
       "nome": "Fuuto Tantei",
+      "slug": "fuuto-tantei",
+      "imgSrc": "Fuuto_Tantei.jpg",
       "subpastas": [
         {
           "id": 48649,
@@ -36244,8 +37270,10 @@
       ]
     },
     {
-      "id": 259,
+      "id": 266,
       "nome": "G-On Riders",
+      "slug": "g-on-riders",
+      "imgSrc": "G-On_Riders.jpg",
       "subpastas": [
         {
           "id": 1623,
@@ -36334,8 +37362,10 @@
       ]
     },
     {
-      "id": 260,
+      "id": 267,
       "nome": "Gakusen Toshi Asterisk (The Asterisk War)",
+      "slug": "gakusen-toshi-asterisk-(the-asterisk-war)",
+      "imgSrc": "Gakusen_Toshi_Asterisk_(The_Asterisk_War).jpg",
       "subpastas": [
         {
           "id": 30544,
@@ -36480,8 +37510,10 @@
       ]
     },
     {
-      "id": 261,
+      "id": 268,
       "nome": "Game Center Arashi",
+      "slug": "game-center-arashi",
+      "imgSrc": "Game_Center_Arashi.jpg",
       "subpastas": [
         {
           "id": 12243,
@@ -36604,8 +37636,10 @@
       ]
     },
     {
-      "id": 262,
+      "id": 269,
       "nome": "Ganbare Douki-chan",
+      "slug": "ganbare-douki-chan",
+      "imgSrc": "Ganbare_Douki-chan.jpg",
       "subpastas": [
         {
           "id": 49605,
@@ -36678,8 +37712,10 @@
       ]
     },
     {
-      "id": 263,
+      "id": 270,
       "nome": "Gankutsuou (O Conde de Monte Cristo)",
+      "slug": "gankutsuou-(o-conde-de-monte-cristo)",
+      "imgSrc": "Gankutsuou_(O_Conde_de_Monte_Cristo).jpg",
       "subpastas": [
         {
           "id": 239,
@@ -36790,8 +37826,10 @@
       ]
     },
     {
-      "id": 264,
+      "id": 271,
       "nome": "Gato de Botas",
+      "slug": "gato-de-botas",
+      "imgSrc": "Gato_de_Botas.jpg",
       "subpastas": [
         {
           "id": null,
@@ -36824,8 +37862,10 @@
       ]
     },
     {
-      "id": 265,
+      "id": 272,
       "nome": "Genius Party",
+      "slug": "genius-party",
+      "imgSrc": "Genius_Party.jpg",
       "subpastas": [
         {
           "id": 3508,
@@ -36886,8 +37926,10 @@
       ]
     },
     {
-      "id": 266,
+      "id": 273,
       "nome": "Genocyber",
+      "slug": "genocyber",
+      "imgSrc": "Genocyber.jpg",
       "subpastas": [
         {
           "id": 2775,
@@ -36922,13 +37964,17 @@
       ]
     },
     {
-      "id": 267,
+      "id": 274,
       "nome": "Getsuyoubi no Tawawa",
+      "slug": "getsuyoubi-no-tawawa",
+      "imgSrc": "Getsuyoubi_no_Tawawa.jpg",
       "subpastas": []
     },
     {
-      "id": 268,
+      "id": 275,
       "nome": "Ghost in the Shell (Koukaku Kidoutai)",
+      "slug": "ghost-in-the-shell-(koukaku-kidoutai)",
+      "imgSrc": "Ghost_in_the_Shell_(Koukaku_Kidoutai).jpg",
       "subpastas": [
         {
           "id": 43,
@@ -37999,8 +39045,10 @@
       ]
     },
     {
-      "id": 269,
+      "id": 276,
       "nome": "Giant Robo",
+      "slug": "giant-robo",
+      "imgSrc": "Giant_Robo.jpg",
       "subpastas": [
         {
           "id": 2321,
@@ -38057,8 +39105,10 @@
       ]
     },
     {
-      "id": 270,
+      "id": 277,
       "nome": "Girls Bravo",
+      "slug": "girls-bravo",
+      "imgSrc": "Girls_Bravo.jpg",
       "subpastas": [
         {
           "id": 241,
@@ -38183,8 +39233,10 @@
       ]
     },
     {
-      "id": 271,
+      "id": 278,
       "nome": "Gleipnir",
+      "slug": "gleipnir",
+      "imgSrc": "Gleipnir.jpg",
       "subpastas": [
         {
           "id": 39463,
@@ -38255,8 +39307,10 @@
       ]
     },
     {
-      "id": 272,
+      "id": 279,
       "nome": "Goblin Slayer",
+      "slug": "goblin-slayer",
+      "imgSrc": "Goblin_Slayer.jpg",
       "subpastas": [
         {
           "id": 37349,
@@ -38401,8 +39455,10 @@
       ]
     },
     {
-      "id": 273,
+      "id": 280,
       "nome": "Gokujo. Gokurakuin Joshikou Ryou Monogatari",
+      "slug": "gokujo.-gokurakuin-joshikou-ryou-monogatari",
+      "imgSrc": "Gokujo._Gokurakuin_Joshikou_Ryou_Monogatari.jpg",
       "subpastas": [
         {
           "id": 11769,
@@ -38483,8 +39539,10 @@
       ]
     },
     {
-      "id": 274,
+      "id": 281,
       "nome": "Golden Boy",
+      "slug": "golden-boy",
+      "imgSrc": "Golden_Boy.jpg",
       "subpastas": [
         {
           "id": 268,
@@ -38523,8 +39581,10 @@
       ]
     },
     {
-      "id": 275,
+      "id": 282,
       "nome": "Goshuushou-sama Ninomiya-kun",
+      "slug": "goshuushou-sama-ninomiya-kun",
+      "imgSrc": "Goshuushou-sama_Ninomiya-kun.jpg",
       "subpastas": [
         {
           "id": 2494,
@@ -38587,8 +39647,10 @@
       ]
     },
     {
-      "id": 276,
+      "id": 283,
       "nome": "Gosick",
+      "slug": "gosick",
+      "imgSrc": "Gosick.jpg",
       "subpastas": [
         {
           "id": 8425,
@@ -38709,8 +39771,10 @@
       ]
     },
     {
-      "id": 277,
+      "id": 284,
       "nome": "Granblue Fantasy The Animation",
+      "slug": "granblue-fantasy-the-animation",
+      "imgSrc": "Granblue_Fantasy_The_Animation.jpg",
       "subpastas": [
         {
           "id": 31629,
@@ -38865,8 +39929,10 @@
       ]
     },
     {
-      "id": 278,
+      "id": 285,
       "nome": "Grancrest Senki",
+      "slug": "grancrest-senki",
+      "imgSrc": "Grancrest_Senki.jpg",
       "subpastas": [
         {
           "id": 34279,
@@ -38991,8 +40057,10 @@
       ]
     },
     {
-      "id": 279,
+      "id": 286,
       "nome": "Green Green",
+      "slug": "green-green",
+      "imgSrc": "Green_Green.jpg",
       "subpastas": [
         {
           "id": 881,
@@ -39113,8 +40181,10 @@
       ]
     },
     {
-      "id": 280,
+      "id": 287,
       "nome": "Grenadier Hohoemi No Senshi",
+      "slug": "grenadier-hohoemi-no-senshi",
+      "imgSrc": "Grenadier_Hohoemi_No_Senshi.jpg",
       "subpastas": [
         {
           "id": 297,
@@ -39207,13 +40277,17 @@
       ]
     },
     {
-      "id": 281,
+      "id": 288,
       "nome": "Grimms Notes The Animation",
+      "slug": "grimms-notes-the-animation",
+      "imgSrc": "Grimms_Notes_The_Animation.jpg",
       "subpastas": []
     },
     {
-      "id": 282,
+      "id": 289,
       "nome": "Grisaia no Kajitsu",
+      "slug": "grisaia-no-kajitsu",
+      "imgSrc": "Grisaia_no_Kajitsu.jpg",
       "subpastas": [
         {
           "id": 17729,
@@ -39480,8 +40554,10 @@
       ]
     },
     {
-      "id": 283,
+      "id": 290,
       "nome": "Guardian Hearts",
+      "slug": "guardian-hearts",
+      "imgSrc": "Guardian_Hearts.jpg",
       "subpastas": [
         {
           "id": 824,
@@ -39526,8 +40602,10 @@
       ]
     },
     {
-      "id": 284,
+      "id": 291,
       "nome": "Guilty Crown",
+      "slug": "guilty-crown",
+      "imgSrc": "Guilty_Crown.jpg",
       "subpastas": [
         {
           "id": 10793,
@@ -39708,8 +40786,10 @@
       ]
     },
     {
-      "id": 285,
+      "id": 292,
       "nome": "Gunnm (Battle Angel Alita)",
+      "slug": "gunnm-(battle-angel-alita)",
+      "imgSrc": "Gunnm_(Battle_Angel_Alita).jpg",
       "subpastas": [
         {
           "id": 1016,
@@ -39752,8 +40832,10 @@
       ]
     },
     {
-      "id": 286,
+      "id": 293,
       "nome": "Hacka Doll The Animation",
+      "slug": "hacka-doll-the-animation",
+      "imgSrc": "Hacka_Doll_The_Animation.jpg",
       "subpastas": [
         {
           "id": 25943,
@@ -39850,8 +40932,10 @@
       ]
     },
     {
-      "id": 287,
+      "id": 294,
       "nome": "Hadashi no Gen (Gen, Pés Descalços)",
+      "slug": "hadashi-no-gen-(gen,-pés-descalços)",
+      "imgSrc": "Hadashi_no_Gen_(Gen,_Pés_Descalços).jpg",
       "subpastas": [
         {
           "id": 1824,
@@ -39896,8 +40980,10 @@
       ]
     },
     {
-      "id": 288,
+      "id": 295,
       "nome": "Hagure Yuusha no Aesthetica",
+      "slug": "hagure-yuusha-no-aesthetica",
+      "imgSrc": "Hagure_Yuusha_no_Aesthetica.jpg",
       "subpastas": [
         {
           "id": 13161,
@@ -39998,8 +41084,10 @@
       ]
     },
     {
-      "id": 289,
+      "id": 296,
       "nome": "Hajimete no Gal",
+      "slug": "hajimete-no-gal",
+      "imgSrc": "Hajimete_no_Gal.jpg",
       "subpastas": [
         {
           "id": 34403,
@@ -40068,8 +41156,10 @@
       ]
     },
     {
-      "id": 290,
+      "id": 297,
       "nome": "Hakkenden Touhou Hakken Ibun",
+      "slug": "hakkenden-touhou-hakken-ibun",
+      "imgSrc": "Hakkenden_Touhou_Hakken_Ibun.jpg",
       "subpastas": [
         {
           "id": 15613,
@@ -40198,8 +41288,10 @@
       ]
     },
     {
-      "id": 291,
+      "id": 298,
       "nome": "Hanappe Bazooka",
+      "slug": "hanappe-bazooka",
+      "imgSrc": "Hanappe_Bazooka.jpg",
       "subpastas": [
         {
           "id": 4042,
@@ -40218,8 +41310,10 @@
       ]
     },
     {
-      "id": 292,
+      "id": 299,
       "nome": "Hanaukyou Maid-tai",
+      "slug": "hanaukyou-maid-tai",
+      "imgSrc": "Hanaukyou_Maid-tai.jpg",
       "subpastas": [
         {
           "id": 403,
@@ -40374,8 +41468,10 @@
       ]
     },
     {
-      "id": 293,
+      "id": 300,
       "nome": "Hand Maid May",
+      "slug": "hand-maid-may",
+      "imgSrc": "Hand_Maid_May.jpg",
       "subpastas": [
         {
           "id": 318,
@@ -40458,8 +41554,10 @@
       ]
     },
     {
-      "id": 294,
+      "id": 301,
       "nome": "Hantsu x Trash",
+      "slug": "hantsu-x-trash",
+      "imgSrc": "Hantsu_x_Trash.jpg",
       "subpastas": [
         {
           "id": 31491,
@@ -40486,13 +41584,17 @@
       ]
     },
     {
-      "id": 295,
+      "id": 302,
       "nome": "Happy Feet",
+      "slug": "happy-feet",
+      "imgSrc": "Happy_Feet.jpg",
       "subpastas": []
     },
     {
-      "id": 296,
+      "id": 303,
       "nome": "Happy Sugar Life",
+      "slug": "happy-sugar-life",
+      "imgSrc": "Happy_Sugar_Life.jpg",
       "subpastas": [
         {
           "id": 37517,
@@ -40555,8 +41657,10 @@
       ]
     },
     {
-      "id": 297,
+      "id": 304,
       "nome": "Harukana Receive",
+      "slug": "harukana-receive",
+      "imgSrc": "Harukana_Receive.jpg",
       "subpastas": [
         {
           "id": 35983,
@@ -40629,8 +41733,10 @@
       ]
     },
     {
-      "id": 298,
+      "id": 305,
       "nome": "Hataraku Maou-sama!",
+      "slug": "hataraku-maou-sama!",
+      "imgSrc": "Hataraku_Maou-sama!.jpg",
       "subpastas": [
         {
           "id": 15809,
@@ -40737,13 +41843,17 @@
       ]
     },
     {
-      "id": 299,
+      "id": 306,
       "nome": "Hatena Illusion",
+      "slug": "hatena-illusion",
+      "imgSrc": "Hatena_Illusion.jpg",
       "subpastas": []
     },
     {
-      "id": 300,
+      "id": 307,
       "nome": "Hatsukoi Limited",
+      "slug": "hatsukoi-limited",
+      "imgSrc": "Hatsukoi_Limited.jpg",
       "subpastas": [
         {
           "id": 5150,
@@ -40792,8 +41902,10 @@
       ]
     },
     {
-      "id": 301,
+      "id": 308,
       "nome": "Heavy Metal",
+      "slug": "heavy-metal",
+      "imgSrc": "Heavy_Metal.jpg",
       "subpastas": [
         {
           "id": null,
@@ -40842,8 +41954,10 @@
       ]
     },
     {
-      "id": 302,
+      "id": 309,
       "nome": "Hellsing",
+      "slug": "hellsing",
+      "imgSrc": "Hellsing.jpg",
       "subpastas": [
         {
           "id": 270,
@@ -40990,8 +42104,10 @@
       ]
     },
     {
-      "id": 303,
+      "id": 310,
       "nome": "Hen (Strange Love)",
+      "slug": "hen-(strange-love)",
+      "imgSrc": "Hen_(Strange_Love).jpg",
       "subpastas": [
         {
           "id": 2317,
@@ -41010,8 +42126,10 @@
       ]
     },
     {
-      "id": 304,
+      "id": 311,
       "nome": "HenSemi",
+      "slug": "hensemi",
+      "imgSrc": "HenSemi.jpg",
       "subpastas": [
         {
           "id": 8101,
@@ -41096,8 +42214,10 @@
       ]
     },
     {
-      "id": 305,
+      "id": 312,
       "nome": "Hentai Ouji to Warawanai Neko",
+      "slug": "hentai-ouji-to-warawanai-neko",
+      "imgSrc": "Hentai_Ouji_to_Warawanai_Neko.jpg",
       "subpastas": [
         {
           "id": 15225,
@@ -41170,8 +42290,10 @@
       ]
     },
     {
-      "id": 306,
+      "id": 313,
       "nome": "Herlock (Captain Harlock)",
+      "slug": "herlock-(captain-harlock)",
+      "imgSrc": "Herlock_(Captain_Harlock).jpg",
       "subpastas": [
         {
           "id": 1491,
@@ -41602,8 +42724,10 @@
       ]
     },
     {
-      "id": 307,
+      "id": 314,
       "nome": "High School DxD",
+      "slug": "high-school-dxd",
+      "imgSrc": "High_School_DxD.jpg",
       "subpastas": [
         {
           "id": 11617,
@@ -42040,8 +43164,10 @@
       ]
     },
     {
-      "id": 308,
+      "id": 315,
       "nome": "High School Of The Dead",
+      "slug": "high-school-of-the-dead",
+      "imgSrc": "High_School_Of_The_Dead.jpg",
       "subpastas": [
         {
           "id": 8074,
@@ -42122,8 +43248,10 @@
       ]
     },
     {
-      "id": 309,
+      "id": 316,
       "nome": "High Score Girl",
+      "slug": "high-score-girl",
+      "imgSrc": "High_Score_Girl.jpg",
       "subpastas": [
         {
           "id": 21877,
@@ -42254,8 +43382,10 @@
       ]
     },
     {
-      "id": 310,
+      "id": 317,
       "nome": "Higurashi no Naku Koro ni",
+      "slug": "higurashi-no-naku-koro-ni",
+      "imgSrc": "Higurashi_no_Naku_Koro_ni.jpg",
       "subpastas": [
         {
           "id": 934,
@@ -42722,8 +43852,10 @@
       ]
     },
     {
-      "id": 311,
+      "id": 318,
       "nome": "Hikari to Mizu no Daphne",
+      "slug": "hikari-to-mizu-no-daphne",
+      "imgSrc": "Hikari_to_Mizu_no_Daphne.jpg",
       "subpastas": [
         {
           "id": 1082,
@@ -42852,8 +43984,10 @@
       ]
     },
     {
-      "id": 312,
+      "id": 319,
       "nome": "Hikikomari Kyuuketsuki no Monmon",
+      "slug": "hikikomari-kyuuketsuki-no-monmon",
+      "imgSrc": "Hikikomari_Kyuuketsuki_no_Monmon.jpg",
       "subpastas": [
         {
           "id": 54103,
@@ -42916,8 +44050,10 @@
       ]
     },
     {
-      "id": 313,
+      "id": 320,
       "nome": "Himegoto",
+      "slug": "himegoto",
+      "imgSrc": "Himegoto.jpg",
       "subpastas": [
         {
           "id": 22835,
@@ -42984,8 +44120,10 @@
       ]
     },
     {
-      "id": 314,
+      "id": 321,
       "nome": "Holy Knight",
+      "slug": "holy-knight",
+      "imgSrc": "Holy_Knight.jpg",
       "subpastas": [
         {
           "id": 11005,
@@ -43016,8 +44154,10 @@
       ]
     },
     {
-      "id": 315,
+      "id": 322,
       "nome": "Honoo no Labyrinth",
+      "slug": "honoo-no-labyrinth",
+      "imgSrc": "Honoo_no_Labyrinth.jpg",
       "subpastas": [
         {
           "id": 581,
@@ -43040,8 +44180,10 @@
       ]
     },
     {
-      "id": 316,
+      "id": 323,
       "nome": "Hotel Transilvânia",
+      "slug": "hotel-transilvânia",
+      "imgSrc": "Hotel_Transilvânia.jpg",
       "subpastas": [
         {
           "id": null,
@@ -43130,8 +44272,10 @@
       ]
     },
     {
-      "id": 317,
+      "id": 324,
       "nome": "Hunter X Hunter",
+      "slug": "hunter-x-hunter",
+      "imgSrc": "Hunter_X_Hunter.jpg",
       "subpastas": [
         {
           "id": 10189,
@@ -43588,8 +44732,10 @@
       ]
     },
     {
-      "id": 318,
+      "id": 325,
       "nome": "Hyakka Ryouran Samurai Girls",
+      "slug": "hyakka-ryouran-samurai-girls",
+      "imgSrc": "Hyakka_Ryouran_Samurai_Girls.jpg",
       "subpastas": [
         {
           "id": 8277,
@@ -43954,8 +45100,10 @@
       ]
     },
     {
-      "id": 319,
+      "id": 326,
       "nome": "I''s",
+      "slug": "i''s",
+      "imgSrc": "I''s.jpg",
       "subpastas": [
         {
           "id": 1084,
@@ -44046,13 +45194,17 @@
       ]
     },
     {
-      "id": 320,
+      "id": 327,
       "nome": "Ichiban Ushiro no Daimaou",
+      "slug": "ichiban-ushiro-no-daimaou",
+      "imgSrc": "Ichiban_Ushiro_no_Daimaou.jpg",
       "subpastas": []
     },
     {
-      "id": 321,
+      "id": 328,
       "nome": "Ichigo 100%",
+      "slug": "ichigo-100%",
+      "imgSrc": "Ichigo_100%.jpg",
       "subpastas": [
         {
           "id": 642,
@@ -44217,8 +45369,10 @@
       ]
     },
     {
-      "id": 322,
+      "id": 329,
       "nome": "Iczer",
+      "slug": "iczer",
+      "imgSrc": "Iczer.jpg",
       "subpastas": [
         {
           "id": 2291,
@@ -44309,8 +45463,10 @@
       ]
     },
     {
-      "id": 323,
+      "id": 330,
       "nome": "Ike! Ina-chuu Takkyuubu",
+      "slug": "ike!-ina-chuu-takkyuubu",
+      "imgSrc": "Ike!_Ina-chuu_Takkyuubu.jpg",
       "subpastas": [
         {
           "id": 914,
@@ -44433,8 +45589,10 @@
       ]
     },
     {
-      "id": 324,
+      "id": 331,
       "nome": "Iketeru Futari",
+      "slug": "iketeru-futari",
+      "imgSrc": "Iketeru_Futari.jpg",
       "subpastas": [
         {
           "id": 637,
@@ -44469,8 +45627,10 @@
       ]
     },
     {
-      "id": 325,
+      "id": 332,
       "nome": "Ikkitousen",
+      "slug": "ikkitousen",
+      "imgSrc": "Ikkitousen.jpg",
       "subpastas": [
         {
           "id": 257,
@@ -44981,8 +46141,10 @@
       ]
     },
     {
-      "id": 326,
+      "id": 333,
       "nome": "Immortal (Ad Vitam)",
+      "slug": "immortal-(ad-vitam)",
+      "imgSrc": "Immortal_(Ad_Vitam).jpg",
       "subpastas": [
         {
           "id": null,
@@ -45005,8 +46167,10 @@
       ]
     },
     {
-      "id": 327,
+      "id": 334,
       "nome": "Inferno de Dante (Dante's Inferno)",
+      "slug": "inferno-de-dante-(dante's-inferno)",
+      "imgSrc": "Inferno_de_Dante_(Dante's_Inferno).jpg",
       "subpastas": [
         {
           "id": null,
@@ -45021,8 +46185,10 @@
       ]
     },
     {
-      "id": 328,
+      "id": 335,
       "nome": "Ingress the Animation",
+      "slug": "ingress-the-animation",
+      "imgSrc": "Ingress_the_Animation.jpg",
       "subpastas": [
         {
           "id": 37438,
@@ -45081,8 +46247,10 @@
       ]
     },
     {
-      "id": 329,
+      "id": 336,
       "nome": "Initial D",
+      "slug": "initial-d",
+      "imgSrc": "Initial_D.jpg",
       "subpastas": [
         {
           "id": 185,
@@ -45355,8 +46523,10 @@
       ]
     },
     {
-      "id": 330,
+      "id": 337,
       "nome": "Inu ni Nattara Suki na Hito ni Hirowareta",
+      "slug": "inu-ni-nattara-suki-na-hito-ni-hirowareta",
+      "imgSrc": "Inu_ni_Nattara_Suki_na_Hito_ni_Hirowareta.jpg",
       "subpastas": [
         {
           "id": 51265,
@@ -45433,8 +46603,10 @@
       ]
     },
     {
-      "id": 331,
+      "id": 338,
       "nome": "Inukami!",
+      "slug": "inukami!",
+      "imgSrc": "Inukami!.jpg",
       "subpastas": [
         {
           "id": 940,
@@ -45567,8 +46739,10 @@
       ]
     },
     {
-      "id": 332,
+      "id": 339,
       "nome": "InuYasha",
+      "slug": "inuyasha",
+      "imgSrc": "InuYasha.jpg",
       "subpastas": [
         {
           "id": 249,
@@ -46637,8 +47811,10 @@
       ]
     },
     {
-      "id": 333,
+      "id": 340,
       "nome": "Invencível (Invincible)",
+      "slug": "invencível-(invincible)",
+      "imgSrc": "Invencível_(Invincible).jpg",
       "subpastas": [
         {
           "id": null,
@@ -46696,8 +47872,10 @@
       ]
     },
     {
-      "id": 334,
+      "id": 341,
       "nome": "Ippatsu Kiki Musume",
+      "slug": "ippatsu-kiki-musume",
+      "imgSrc": "Ippatsu_Kiki_Musume.jpg",
       "subpastas": [
         {
           "id": 1057,
@@ -46716,8 +47894,10 @@
       ]
     },
     {
-      "id": 335,
+      "id": 342,
       "nome": "IS Infinite Stratos",
+      "slug": "is-infinite-stratos",
+      "imgSrc": "IS_Infinite_Stratos.jpg",
       "subpastas": [
         {
           "id": 9041,
@@ -46886,8 +48066,10 @@
       ]
     },
     {
-      "id": 336,
+      "id": 343,
       "nome": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "slug": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu",
+      "imgSrc": "Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu.jpg",
       "subpastas": [
         {
           "id": 37210,
@@ -47098,8 +48280,10 @@
       ]
     },
     {
-      "id": 337,
+      "id": 344,
       "nome": "Isekai Meikyuu de Harem Wo",
+      "slug": "isekai-meikyuu-de-harem-wo",
+      "imgSrc": "Isekai_Meikyuu_de_Harem_Wo.jpg",
       "subpastas": [
         {
           "id": 44524,
@@ -47240,13 +48424,17 @@
       ]
     },
     {
-      "id": 338,
+      "id": 345,
       "nome": "Isekai Ojisan",
+      "slug": "isekai-ojisan",
+      "imgSrc": "Isekai_Ojisan.jpg",
       "subpastas": []
     },
     {
-      "id": 339,
+      "id": 346,
       "nome": "Isekai Quartet",
+      "slug": "isekai-quartet",
+      "imgSrc": "Isekai_Quartet.jpg",
       "subpastas": [
         {
           "id": 38472,
@@ -47281,8 +48469,10 @@
       ]
     },
     {
-      "id": 340,
+      "id": 347,
       "nome": "Ishuzoku Reviewers",
+      "slug": "ishuzoku-reviewers",
+      "imgSrc": "Ishuzoku_Reviewers.jpg",
       "subpastas": [
         {
           "id": 40010,
@@ -47345,8 +48535,10 @@
       ]
     },
     {
-      "id": 341,
+      "id": 348,
       "nome": "Issho ni Training",
+      "slug": "issho-ni-training",
+      "imgSrc": "Issho_ni_Training.jpg",
       "subpastas": [
         {
           "id": 6392,
@@ -47413,8 +48605,10 @@
       ]
     },
     {
-      "id": 342,
+      "id": 349,
       "nome": "Isshuukan Friends",
+      "slug": "isshuukan-friends",
+      "imgSrc": "Isshuukan_Friends.jpg",
       "subpastas": [
         {
           "id": 21327,
@@ -47545,8 +48739,10 @@
       ]
     },
     {
-      "id": 343,
+      "id": 350,
       "nome": "Isuca",
+      "slug": "isuca",
+      "imgSrc": "Isuca.jpg",
       "subpastas": [
         {
           "id": 25429,
@@ -47615,13 +48811,17 @@
       ]
     },
     {
-      "id": 344,
+      "id": 351,
       "nome": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu",
+      "slug": "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu",
+      "imgSrc": "Itai_no_wa_Iya_nano_de_Bougyoryoku_ni_Kyokufuri_Shitai_to_Omoimasu.jpg",
       "subpastas": []
     },
     {
-      "id": 345,
+      "id": 352,
       "nome": "Itsuka Tenma no Kuro Usagi",
+      "slug": "itsuka-tenma-no-kuro-usagi",
+      "imgSrc": "Itsuka_Tenma_no_Kuro_Usagi.jpg",
       "subpastas": [
         {
           "id": 9750,
@@ -47708,8 +48908,10 @@
       ]
     },
     {
-      "id": 346,
+      "id": 353,
       "nome": "Iwa Kakeru! Sport Climbing Girls",
+      "slug": "iwa-kakeru!-sport-climbing-girls",
+      "imgSrc": "Iwa_Kakeru!_Sport_Climbing_Girls.jpg",
       "subpastas": [
         {
           "id": 41783,
@@ -47772,8 +48974,10 @@
       ]
     },
     {
-      "id": 347,
+      "id": 354,
       "nome": "Iya na Kao Sare Nagara Opantsu Misete Moraitai",
+      "slug": "iya-na-kao-sare-nagara-opantsu-misete-moraitai",
+      "imgSrc": "Iya_na_Kao_Sare_Nagara_Opantsu_Misete_Moraitai.jpg",
       "subpastas": [
         {
           "id": 37021,
@@ -47880,8 +49084,10 @@
       ]
     },
     {
-      "id": 348,
+      "id": 355,
       "nome": "Jigokuraku (Hell's Paradise)",
+      "slug": "jigokuraku-(hell's-paradise)",
+      "imgSrc": "Jigokuraku_(Hell's_Paradise).jpg",
       "subpastas": [
         {
           "id": 46569,
@@ -47948,8 +49154,10 @@
       ]
     },
     {
-      "id": 349,
+      "id": 356,
       "nome": "Jin-Roh The Wolf Brigade",
+      "slug": "jin-roh-the-wolf-brigade",
+      "imgSrc": "Jin-Roh_The_Wolf_Brigade.jpg",
       "subpastas": [
         {
           "id": 570,
@@ -47968,8 +49176,10 @@
       ]
     },
     {
-      "id": 350,
+      "id": 357,
       "nome": "Jitsu wa Ore, Saikyou deshita",
+      "slug": "jitsu-wa-ore,-saikyou-deshita",
+      "imgSrc": "Jitsu_wa_Ore,_Saikyou_deshita.jpg",
       "subpastas": [
         {
           "id": 52969,
@@ -48036,8 +49246,10 @@
       ]
     },
     {
-      "id": 351,
+      "id": 358,
       "nome": "Joshikousei Girls High",
+      "slug": "joshikousei-girls-high",
+      "imgSrc": "Joshikousei_Girls_High.jpg",
       "subpastas": [
         {
           "id": 863,
@@ -48110,8 +49322,10 @@
       ]
     },
     {
-      "id": 352,
+      "id": 359,
       "nome": "Joshikousei no Mudazukai",
+      "slug": "joshikousei-no-mudazukai",
+      "imgSrc": "Joshikousei_no_Mudazukai.jpg",
       "subpastas": [
         {
           "id": 38619,
@@ -48174,8 +49388,10 @@
       ]
     },
     {
-      "id": 353,
+      "id": 360,
       "nome": "Jujutsu Kaisen",
+      "slug": "jujutsu-kaisen",
+      "imgSrc": "Jujutsu_Kaisen.jpg",
       "subpastas": [
         {
           "id": 40748,
@@ -48334,8 +49550,10 @@
       ]
     },
     {
-      "id": 354,
+      "id": 361,
       "nome": "Juliet",
+      "slug": "juliet",
+      "imgSrc": "Juliet.jpg",
       "subpastas": [
         {
           "id": 8993,
@@ -48354,8 +49572,10 @@
       ]
     },
     {
-      "id": 355,
+      "id": 362,
       "nome": "Jungle de Ikou!",
+      "slug": "jungle-de-ikou!",
+      "imgSrc": "Jungle_de_Ikou!.jpg",
       "subpastas": [
         {
           "id": 2524,
@@ -48382,8 +49602,10 @@
       ]
     },
     {
-      "id": 356,
+      "id": 363,
       "nome": "Junk Boy",
+      "slug": "junk-boy",
+      "imgSrc": "Junk_Boy.jpg",
       "subpastas": [
         {
           "id": 3889,
@@ -48402,8 +49624,10 @@
       ]
     },
     {
-      "id": 357,
+      "id": 364,
       "nome": "Junketsu no Maria",
+      "slug": "junketsu-no-maria",
+      "imgSrc": "Junketsu_no_Maria.jpg",
       "subpastas": [
         {
           "id": 26441,
@@ -48466,8 +49690,10 @@
       ]
     },
     {
-      "id": 358,
+      "id": 365,
       "nome": "Juubee Ninpuuchou (Ninja Scroll)",
+      "slug": "juubee-ninpuuchou-(ninja-scroll)",
+      "imgSrc": "Juubee_Ninpuuchou_(Ninja_Scroll).jpg",
       "subpastas": [
         {
           "id": 617,
@@ -48608,8 +49834,10 @@
       ]
     },
     {
-      "id": 359,
+      "id": 366,
       "nome": "Juuou Mujin no Fafnir",
+      "slug": "juuou-mujin-no-fafnir",
+      "imgSrc": "Juuou_Mujin_no_Fafnir.jpg",
       "subpastas": [
         {
           "id": 24873,
@@ -48672,8 +49900,10 @@
       ]
     },
     {
-      "id": 360,
+      "id": 367,
       "nome": "Juushinki Pandora",
+      "slug": "juushinki-pandora",
+      "imgSrc": "Juushinki_Pandora.jpg",
       "subpastas": [
         {
           "id": 33531,
@@ -48792,8 +50022,10 @@
       ]
     },
     {
-      "id": 361,
+      "id": 368,
       "nome": "K (K-Project)",
+      "slug": "k-(k-project)",
+      "imgSrc": "K_(K-Project).jpg",
       "subpastas": [
         {
           "id": 14467,
@@ -49062,8 +50294,10 @@
       ]
     },
     {
-      "id": 362,
+      "id": 369,
       "nome": "Kagaku na Yatsura",
+      "slug": "kagaku-na-yatsura",
+      "imgSrc": "Kagaku_na_Yatsura.jpg",
       "subpastas": [
         {
           "id": 15391,
@@ -49086,8 +50320,10 @@
       ]
     },
     {
-      "id": 363,
+      "id": 370,
       "nome": "Kage no Jitsuryokusha ni Naritakute",
+      "slug": "kage-no-jitsuryokusha-ni-naritakute",
+      "imgSrc": "Kage_no_Jitsuryokusha_ni_Naritakute.jpg",
       "subpastas": [
         {
           "id": 48316,
@@ -49212,8 +50448,10 @@
       ]
     },
     {
-      "id": 364,
+      "id": 371,
       "nome": "Kaguya-sama wa Kokurasetai",
+      "slug": "kaguya-sama-wa-kokurasetai",
+      "imgSrc": "Kaguya-sama_wa_Kokurasetai.jpg",
       "subpastas": [
         {
           "id": 37999,
@@ -49440,8 +50678,10 @@
       ]
     },
     {
-      "id": 365,
+      "id": 372,
       "nome": "Kaifuku Jutsushi no Yarinaoshi",
+      "slug": "kaifuku-jutsushi-no-yarinaoshi",
+      "imgSrc": "Kaifuku_Jutsushi_no_Yarinaoshi.jpg",
       "subpastas": [
         {
           "id": 40750,
@@ -49508,8 +50748,10 @@
       ]
     },
     {
-      "id": 366,
+      "id": 373,
       "nome": "Kakugo no Susume",
+      "slug": "kakugo-no-susume",
+      "imgSrc": "Kakugo_no_Susume.jpg",
       "subpastas": [
         {
           "id": 1647,
@@ -49532,8 +50774,10 @@
       ]
     },
     {
-      "id": 367,
+      "id": 374,
       "nome": "Kakyuusei",
+      "slug": "kakyuusei",
+      "imgSrc": "Kakyuusei.jpg",
       "subpastas": [
         {
           "id": 2610,
@@ -49780,8 +51024,10 @@
       ]
     },
     {
-      "id": 368,
+      "id": 375,
       "nome": "Kamen no Maid Guy",
+      "slug": "kamen-no-maid-guy",
+      "imgSrc": "Kamen_no_Maid_Guy.jpg",
       "subpastas": [
         {
           "id": 3616,
@@ -49854,8 +51100,10 @@
       ]
     },
     {
-      "id": 369,
+      "id": 376,
       "nome": "Kami wa Game ni Ueteiru",
+      "slug": "kami-wa-game-ni-ueteiru",
+      "imgSrc": "Kami_wa_Game_ni_Ueteiru.jpg",
       "subpastas": [
         {
           "id": 50869,
@@ -49870,8 +51118,10 @@
       ]
     },
     {
-      "id": 370,
+      "id": 377,
       "nome": "Kaminaki Sekai no Kamisama Katsudou",
+      "slug": "kaminaki-sekai-no-kamisama-katsudou",
+      "imgSrc": "Kaminaki_Sekai_no_Kamisama_Katsudou.jpg",
       "subpastas": [
         {
           "id": 51693,
@@ -49934,8 +51184,10 @@
       ]
     },
     {
-      "id": 371,
+      "id": 378,
       "nome": "Kandagawa Jet Girls",
+      "slug": "kandagawa-jet-girls",
+      "imgSrc": "Kandagawa_Jet_Girls.jpg",
       "subpastas": [
         {
           "id": 40196,
@@ -50022,8 +51274,10 @@
       ]
     },
     {
-      "id": 372,
+      "id": 379,
       "nome": "Kanojo, Okarishimasu",
+      "slug": "kanojo,-okarishimasu",
+      "imgSrc": "Kanojo,_Okarishimasu.jpg",
       "subpastas": [
         {
           "id": 40839,
@@ -50320,8 +51574,10 @@
       ]
     },
     {
-      "id": 373,
+      "id": 380,
       "nome": "Kanokon",
+      "slug": "kanokon",
+      "imgSrc": "Kanokon.jpg",
       "subpastas": [
         {
           "id": 3503,
@@ -50470,8 +51726,10 @@
       ]
     },
     {
-      "id": 374,
+      "id": 381,
       "nome": "Kantai Collection KanColle",
+      "slug": "kantai-collection-kancolle",
+      "imgSrc": "Kantai_Collection_KanColle.jpg",
       "subpastas": [
         {
           "id": 21511,
@@ -50620,8 +51878,10 @@
       ]
     },
     {
-      "id": 375,
+      "id": 382,
       "nome": "Karakai Jouzu no Takagi-san",
+      "slug": "karakai-jouzu-no-takagi-san",
+      "imgSrc": "Karakai_Jouzu_no_Takagi-san.jpg",
       "subpastas": [
         {
           "id": 35860,
@@ -50824,8 +52084,10 @@
       ]
     },
     {
-      "id": 376,
+      "id": 383,
       "nome": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka",
+      "slug": "kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka",
+      "imgSrc": "Kawaikereba_Hentai_demo_Suki_ni_Natte_Kuremasu_ka.jpg",
       "subpastas": [
         {
           "id": 49871,
@@ -50898,8 +52160,10 @@
       ]
     },
     {
-      "id": 377,
+      "id": 384,
       "nome": "Keijo!!!!!!!!",
+      "slug": "keijo!!!!!!!!",
+      "imgSrc": "Keijo!!!!!!!!.jpg",
       "subpastas": [
         {
           "id": 32686,
@@ -51000,8 +52264,10 @@
       ]
     },
     {
-      "id": 378,
+      "id": 385,
       "nome": "Kekkon Yubiwa Monogatari",
+      "slug": "kekkon-yubiwa-monogatari",
+      "imgSrc": "Kekkon_Yubiwa_Monogatari.jpg",
       "subpastas": [
         {
           "id": 54265,
@@ -51112,8 +52378,10 @@
       ]
     },
     {
-      "id": 379,
+      "id": 386,
       "nome": "Kekkou Kamen",
+      "slug": "kekkou-kamen",
+      "imgSrc": "Kekkou_Kamen.jpg",
       "subpastas": [
         {
           "id": 2525,
@@ -51160,8 +52428,10 @@
       ]
     },
     {
-      "id": 380,
+      "id": 387,
       "nome": "Kemeko Deluxe!",
+      "slug": "kemeko-deluxe!",
+      "imgSrc": "Kemeko_Deluxe!.jpg",
       "subpastas": [
         {
           "id": 3464,
@@ -51234,8 +52504,10 @@
       ]
     },
     {
-      "id": 381,
+      "id": 388,
       "nome": "Kenkou Zenrakei Suiei-bu Umishou",
+      "slug": "kenkou-zenrakei-suiei-bu-umishou",
+      "imgSrc": "Kenkou_Zenrakei_Suiei-bu_Umishou.jpg",
       "subpastas": [
         {
           "id": 2602,
@@ -51358,8 +52630,10 @@
       ]
     },
     {
-      "id": 382,
+      "id": 389,
       "nome": "Kennel Tokorozawa",
+      "slug": "kennel-tokorozawa",
+      "imgSrc": "Kennel_Tokorozawa.jpg",
       "subpastas": [
         {
           "id": 13715,
@@ -51378,8 +52652,10 @@
       ]
     },
     {
-      "id": 383,
+      "id": 390,
       "nome": "Kenzen Robo Daimidaler",
+      "slug": "kenzen-robo-daimidaler",
+      "imgSrc": "Kenzen_Robo_Daimidaler.jpg",
       "subpastas": [
         {
           "id": 21809,
@@ -51500,8 +52776,10 @@
       ]
     },
     {
-      "id": 384,
+      "id": 391,
       "nome": "Kiddy Grade",
+      "slug": "kiddy-grade",
+      "imgSrc": "Kiddy_Grade.jpg",
       "subpastas": [
         {
           "id": 274,
@@ -51662,8 +52940,10 @@
       ]
     },
     {
-      "id": 385,
+      "id": 392,
       "nome": "Kigurumikku V3",
+      "slug": "kigurumikku-v3",
+      "imgSrc": "Kigurumikku_V3.jpg",
       "subpastas": [
         {
           "id": 6318,
@@ -51682,8 +52962,10 @@
       ]
     },
     {
-      "id": 386,
+      "id": 393,
       "nome": "Kikaider Android The Animation",
+      "slug": "kikaider-android-the-animation",
+      "imgSrc": "Kikaider_Android_The_Animation.jpg",
       "subpastas": [
         {
           "id": 598,
@@ -51790,8 +53072,10 @@
       ]
     },
     {
-      "id": 387,
+      "id": 394,
       "nome": "Kikoushi Enma",
+      "slug": "kikoushi-enma",
+      "imgSrc": "Kikoushi_Enma.jpg",
       "subpastas": [
         {
           "id": 1337,
@@ -51890,8 +53174,10 @@
       ]
     },
     {
-      "id": 388,
+      "id": 395,
       "nome": "Kill La Kill",
+      "slug": "kill-la-kill",
+      "imgSrc": "Kill_La_Kill.jpg",
       "subpastas": [
         {
           "id": 18679,
@@ -52022,8 +53308,10 @@
       ]
     },
     {
-      "id": 389,
+      "id": 396,
       "nome": "Killing Bites",
+      "slug": "killing-bites",
+      "imgSrc": "Killing_Bites.jpg",
       "subpastas": [
         {
           "id": 34964,
@@ -52086,8 +53374,10 @@
       ]
     },
     {
-      "id": 390,
+      "id": 397,
       "nome": "Kimetsu no Yaiba (Demon Slayer)",
+      "slug": "kimetsu-no-yaiba-(demon-slayer)",
+      "imgSrc": "Kimetsu_no_Yaiba_(Demon_Slayer).jpg",
       "subpastas": [
         {
           "id": 38000,
@@ -52438,8 +53728,10 @@
       ]
     },
     {
-      "id": 391,
+      "id": 398,
       "nome": "Kimi ga Nozomu Eien",
+      "slug": "kimi-ga-nozomu-eien",
+      "imgSrc": "Kimi_ga_Nozomu_Eien.jpg",
       "subpastas": [
         {
           "id": 147,
@@ -52584,8 +53876,10 @@
       ]
     },
     {
-      "id": 392,
+      "id": 399,
       "nome": "Kinsou No Vermeil",
+      "slug": "kinsou-no-vermeil",
+      "imgSrc": "Kinsou_No_Vermeil.jpg",
       "subpastas": [
         {
           "id": 51213,
@@ -52648,8 +53942,10 @@
       ]
     },
     {
-      "id": 393,
+      "id": 400,
       "nome": "Kiseijuu Sei no Kakuritsu",
+      "slug": "kiseijuu-sei-no-kakuritsu",
+      "imgSrc": "Kiseijuu_Sei_no_Kakuritsu.jpg",
       "subpastas": [
         {
           "id": 22535,
@@ -52756,8 +54052,10 @@
       ]
     },
     {
-      "id": 394,
+      "id": 401,
       "nome": "Kiss X Sis",
+      "slug": "kiss-x-sis",
+      "imgSrc": "Kiss_X_Sis.jpg",
       "subpastas": [
         {
           "id": 5042,
@@ -52878,8 +54176,10 @@
       ]
     },
     {
-      "id": 395,
+      "id": 402,
       "nome": "Kite",
+      "slug": "kite",
+      "imgSrc": "Kite.jpg",
       "subpastas": [
         {
           "id": 320,
@@ -53000,8 +54300,10 @@
       ]
     },
     {
-      "id": 396,
+      "id": 403,
       "nome": "Kodomo no Jikan",
+      "slug": "kodomo-no-jikan",
+      "imgSrc": "Kodomo_no_Jikan.jpg",
       "subpastas": [
         {
           "id": 2403,
@@ -53118,8 +54420,10 @@
       ]
     },
     {
-      "id": 397,
+      "id": 404,
       "nome": "Koi wa Sekai Seifuku no Ato de",
+      "slug": "koi-wa-sekai-seifuku-no-ato-de",
+      "imgSrc": "Koi_wa_Sekai_Seifuku_no_Ato_de.jpg",
       "subpastas": [
         {
           "id": 48643,
@@ -53182,8 +54486,10 @@
       ]
     },
     {
-      "id": 398,
+      "id": 405,
       "nome": "Kono Naka ni Hitori, Imouto ga Iru!",
+      "slug": "kono-naka-ni-hitori,-imouto-ga-iru!",
+      "imgSrc": "Kono_Naka_ni_Hitori,_Imouto_ga_Iru!.jpg",
       "subpastas": [
         {
           "id": 13367,
@@ -53256,8 +54562,290 @@
       ]
     },
     {
-      "id": 399,
+      "id": 406,
+      "nome": "KonoSuba (Kono Subarashii Sekai ni Shukufuku wo)",
+      "slug": "konosuba-(kono-subarashii-sekai-ni-shukufuku-wo)",
+      "imgSrc": "KonoSuba_(Kono_Subarashii_Sekai_ni_Shukufuku_wo).jpg",
+      "subpastas": [
+        {
+          "id": 30831,
+          "nome": "2016 Kono Subarashii Sekai ni Shukufuku wo! - TV",
+          "arquivos": [
+            {
+              "nome": "30831.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - 01 [1080p][Multiple Subtitle][E20C396A].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - 02 [1080p][Multiple Subtitle][9CA56A83].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - 03 [1080p][Multiple Subtitle][0B3194CC].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - 04 [1080p][Multiple Subtitle][45AF8D77].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - 05 [1080p][Multiple Subtitle][A1E33A15].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - 06 [1080p][Multiple Subtitle][9389A801].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - 07 [1080p][Multiple Subtitle][D24A2B52].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - 08 [1080p][Multiple Subtitle][B6CE034F].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - 09 [1080p][Multiple Subtitle][647A14E8].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - 10 [1080p][Multiple Subtitle][49CFDC7B].mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 32380,
+          "nome": "2016 Kono Subarashii Sekai ni Shukufuku wo! Kono Subarashii Choker ni Shukufuku wo! - OVA",
+          "arquivos": [
+            {
+              "nome": "32380.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - OVA [1080p][Multiple Subtitle].mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 32937,
+          "nome": "2017 Kono Subarashii Sekai ni Shukufuku wo! 2 - TV",
+          "arquivos": [
+            {
+              "nome": "32937.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - 01 [1080p][Multiple Subtitle][5ACE5079].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - 02 [1080p][Multiple Subtitle][781EDCD9].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - 03 [1080p][Multiple Subtitle][C1C78955].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - 04 [1080p][Multiple Subtitle][6AD68A16].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - 05 [1080p][Multiple Subtitle][80E0F4D0].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - 06 [1080p][Multiple Subtitle][C280E451].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - 07 [1080p][Multiple Subtitle][0BC73D50].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - 08 [1080p][Multiple Subtitle][449A7561].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - 09 [1080p][Multiple Subtitle][96BC3D93].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - 10 [1080p][Multiple Subtitle][CC082066].mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 34626,
+          "nome": "2017 Kono Subarashii Sekai ni Shukufuku wo! 2 Kono Subarashii Geijutsu ni Shukufuku wo! - OVA",
+          "arquivos": [
+            {
+              "nome": "34626.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! 2 - OVA [1080p][Multiple Subtitle].mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 38040,
+          "nome": "2019 Kono Subarashii Sekai ni Shukufuku wo! Movie Kurenai Densetsu - Filme",
+          "arquivos": [
+            {
+              "nome": "38040.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo! - Kurenai Densetsu - Movie [1080p][Multiple Subtitle].mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 51958,
+          "nome": "2023 Kono Subarashii Sekai ni Bakuen wo! - TV",
+          "arquivos": [
+            {
+              "nome": "51958.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 01 [1080p][HEVC][Multiple Subtitle][977A80BD].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 02 [1080p][HEVC][Multiple Subtitle][720DDD6C].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 03 [1080p][HEVC][Multiple Subtitle][9188B87A].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 04 [1080p][HEVC][Multiple Subtitle][2A5E08D0].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 05 [1080p][HEVC][Multiple Subtitle][401E2E5B].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 06 [1080p][HEVC][Multiple Subtitle][CB9B1475].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 07 [1080p][HEVC][Multiple Subtitle][FA7E2207].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 08 [1080p][HEVC][Multiple Subtitle][5514F7D9].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 09 [1080p][HEVC][Multiple Subtitle][87E9C71E].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 10 [1080p][HEVC][Multiple Subtitle][F7030FE5].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 11 [1080p][HEVC][Multiple Subtitle][B77F3A48].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Bakuen o! - 12 [1080p][HEVC][Multiple Subtitle][E209B4B4].mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 49458,
+          "nome": "2024 Kono Subarashii Sekai ni Shukufuku wo! 3 - TV",
+          "arquivos": [
+            {
+              "nome": "49458.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 01 [1080p][Multiple Subtitle][89C08BB5].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 02 [1080p][Multiple Subtitle][872740EB].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 03 [1080p][Multiple Subtitle][DB18428A].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 04 [1080p][Multiple Subtitle][EBC027D4].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 05 [1080p][Multiple Subtitle][0BD7BEE1].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 06 [1080p][Multiple Subtitle][97AEAED4].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 07 [1080p][Multiple Subtitle][2F8B7877].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 08 [1080p][Multiple Subtitle][B5E6397C].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 09 [1080p][Multiple Subtitle][1093F17B].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 10 [1080p][Multiple Subtitle][98AA9B32].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - 11 [1080p][Multiple Subtitle][591CA730].mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        },
+        {
+          "id": 59833,
+          "nome": "2025 Kono Subarashii Sekai ni Shukufuku wo! 3 Bonus Stage - OVA",
+          "arquivos": [
+            {
+              "nome": "59833.jpg",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - OVA 01 [1080p CR WEB-DL AVC EAC3][MultiSub][1CF71BF3].mkv",
+              "tipo": "arquivo"
+            },
+            {
+              "nome": "[Erai-raws] Kono Subarashii Sekai ni Shukufuku wo 3 - OVA 02 [1080p CR WEB-DL AVC EAC3][MultiSub][A7A93FD2].mkv",
+              "tipo": "arquivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 407,
       "nome": "koukaku no Pandora",
+      "slug": "koukaku-no-pandora",
+      "imgSrc": "Koukaku_no_Pandora.jpg",
       "subpastas": [
         {
           "id": 32214,
@@ -53330,8 +54918,10 @@
       ]
     },
     {
-      "id": 400,
+      "id": 408,
       "nome": "Koutetsujou no Kabaneri",
+      "slug": "koutetsujou-no-kabaneri",
+      "imgSrc": "Koutetsujou_no_Kabaneri.jpg",
       "subpastas": [
         {
           "id": 28623,
@@ -53428,8 +55018,10 @@
       ]
     },
     {
-      "id": 401,
+      "id": 409,
       "nome": "Kubo e as Cordas Mágicas",
+      "slug": "kubo-e-as-cordas-mágicas",
+      "imgSrc": "Kubo_e_as_Cordas_Mágicas.jpg",
       "subpastas": [
         {
           "id": null,
@@ -53452,8 +55044,10 @@
       ]
     },
     {
-      "id": 402,
+      "id": 410,
       "nome": "Kung Fu Panda",
+      "slug": "kung-fu-panda",
+      "imgSrc": "Kung_Fu_Panda.jpg",
       "subpastas": [
         {
           "id": null,
@@ -53648,8 +55242,10 @@
       ]
     },
     {
-      "id": 403,
+      "id": 411,
       "nome": "Kusuriya no Hitorigoto",
+      "slug": "kusuriya-no-hitorigoto",
+      "imgSrc": "Kusuriya_no_Hitorigoto.jpg",
       "subpastas": [
         {
           "id": 54492,
@@ -53790,13 +55386,17 @@
       ]
     },
     {
-      "id": 404,
+      "id": 412,
       "nome": "Kyochuu Rettou",
+      "slug": "kyochuu-rettou",
+      "imgSrc": "Kyochuu_Rettou.jpg",
       "subpastas": []
     },
     {
-      "id": 405,
+      "id": 413,
       "nome": "Kyoufu no Bio Ningen Saishuu Kyoushi",
+      "slug": "kyoufu-no-bio-ningen-saishuu-kyoushi",
+      "imgSrc": "Kyoufu_no_Bio_Ningen_Saishuu_Kyoushi.jpg",
       "subpastas": [
         {
           "id": 2780,
@@ -53815,8 +55415,10 @@
       ]
     },
     {
-      "id": 406,
+      "id": 414,
       "nome": "Kämpfer",
+      "slug": "kämpfer",
+      "imgSrc": "Kämpfer.jpg",
       "subpastas": [
         {
           "id": 6205,
@@ -53907,8 +55509,10 @@
       ]
     },
     {
-      "id": 407,
+      "id": 415,
       "nome": "L.O.R.D Legend of Ravaging Dynasties (Jue Ji)",
+      "slug": "l.o.r.d-legend-of-ravaging-dynasties-(jue-ji)",
+      "imgSrc": "L.O.R.D_Legend_of_Ravaging_Dynasties_(Jue_Ji).jpg",
       "subpastas": [
         {
           "id": 39116,
@@ -53945,8 +55549,10 @@
       ]
     },
     {
-      "id": 408,
+      "id": 416,
       "nome": "Ladies vs Butlers!",
+      "slug": "ladies-vs-butlers!",
+      "imgSrc": "Ladies_vs_Butlers!.jpg",
       "subpastas": [
         {
           "id": 7148,
@@ -54029,8 +55635,10 @@
       ]
     },
     {
-      "id": 409,
+      "id": 417,
       "nome": "Lain Serial Experiments",
+      "slug": "lain-serial-experiments",
+      "imgSrc": "Lain_Serial_Experiments.jpg",
       "subpastas": [
         {
           "id": 339,
@@ -54097,13 +55705,17 @@
       ]
     },
     {
-      "id": 410,
+      "id": 418,
       "nome": "Larva",
+      "slug": "larva",
+      "imgSrc": "Larva.jpg",
       "subpastas": []
     },
     {
-      "id": 411,
+      "id": 419,
       "nome": "Levius",
+      "slug": "levius",
+      "imgSrc": "Levius.jpg",
       "subpastas": [
         {
           "id": 39574,
@@ -54214,8 +55826,10 @@
       ]
     },
     {
-      "id": 412,
+      "id": 420,
       "nome": "Liar Liar",
+      "slug": "liar-liar",
+      "imgSrc": "Liar_Liar.jpg",
       "subpastas": [
         {
           "id": 48633,
@@ -54278,8 +55892,10 @@
       ]
     },
     {
-      "id": 413,
+      "id": 421,
       "nome": "Love Hina",
+      "slug": "love-hina",
+      "imgSrc": "Love_Hina.jpg",
       "subpastas": [
         {
           "id": 189,
@@ -54444,8 +56060,10 @@
       ]
     },
     {
-      "id": 414,
+      "id": 422,
       "nome": "Love, Death & Robots",
+      "slug": "love,-death-&-robots",
+      "imgSrc": "Love,_Death_&_Robots.jpg",
       "subpastas": [
         {
           "id": null,
@@ -54697,8 +56315,10 @@
       ]
     },
     {
-      "id": 415,
+      "id": 423,
       "nome": "Lovely★Complex",
+      "slug": "lovely★complex",
+      "imgSrc": "Lovely★Complex.jpg",
       "subpastas": [
         {
           "id": 2034,
@@ -54809,13 +56429,17 @@
       ]
     },
     {
-      "id": 416,
+      "id": 424,
       "nome": "Lv1 Maou to One Room Yuusha",
+      "slug": "lv1-maou-to-one-room-yuusha",
+      "imgSrc": "Lv1_Maou_to_One_Room_Yuusha.jpg",
       "subpastas": []
     },
     {
-      "id": 417,
+      "id": 425,
       "nome": "Lycoris Recoil",
+      "slug": "lycoris-recoil",
+      "imgSrc": "Lycoris_Recoil.jpg",
       "subpastas": [
         {
           "id": 50709,
@@ -54892,8 +56516,10 @@
       ]
     },
     {
-      "id": 418,
+      "id": 426,
       "nome": "Machine-Doll wa Kizutsukanai",
+      "slug": "machine-doll-wa-kizutsukanai",
+      "imgSrc": "Machine-Doll_wa_Kizutsukanai.jpg",
       "subpastas": [
         {
           "id": 17247,
@@ -54990,13 +56616,17 @@
       ]
     },
     {
-      "id": 419,
+      "id": 427,
       "nome": "Madagascar",
+      "slug": "madagascar",
+      "imgSrc": "Madagascar.jpg",
       "subpastas": []
     },
     {
-      "id": 420,
+      "id": 428,
       "nome": "Madan no Ou to Vanadis",
+      "slug": "madan-no-ou-to-vanadis",
+      "imgSrc": "Madan_no_Ou_to_Vanadis.jpg",
       "subpastas": [
         {
           "id": 24455,
@@ -55123,8 +56753,10 @@
       ]
     },
     {
-      "id": 421,
+      "id": 429,
       "nome": "Magi",
+      "slug": "magi",
+      "imgSrc": "Magi.jpg",
       "subpastas": [
         {
           "id": 14513,
@@ -55441,8 +57073,10 @@
       ]
     },
     {
-      "id": 422,
+      "id": 430,
       "nome": "Mahou Sensei Negima!",
+      "slug": "mahou-sensei-negima!",
+      "imgSrc": "Mahou_Sensei_Negima!.jpg",
       "subpastas": [
         {
           "id": 3948,
@@ -55885,8 +57519,10 @@
       ]
     },
     {
-      "id": 423,
+      "id": 431,
       "nome": "Mahou Shoujo Magical Destroyers",
+      "slug": "mahou-shoujo-magical-destroyers",
+      "imgSrc": "Mahou_Shoujo_Magical_Destroyers.jpg",
       "subpastas": [
         {
           "id": 48981,
@@ -56001,8 +57637,10 @@
       ]
     },
     {
-      "id": 424,
+      "id": 432,
       "nome": "Mahou Shoujo ni Akogaret",
+      "slug": "mahou-shoujo-ni-akogaret",
+      "imgSrc": "Mahou_Shoujo_ni_Akogaret.jpg",
       "subpastas": [
         {
           "id": 54722,
@@ -56069,8 +57707,10 @@
       ]
     },
     {
-      "id": 425,
+      "id": 433,
       "nome": "Mahou Shoujo Tokushusen Asuka",
+      "slug": "mahou-shoujo-tokushusen-asuka",
+      "imgSrc": "Mahou_Shoujo_Tokushusen_Asuka.jpg",
       "subpastas": [
         {
           "id": 37979,
@@ -56133,8 +57773,10 @@
       ]
     },
     {
-      "id": 426,
+      "id": 434,
       "nome": "Mahou Shoujo-tai Arusu (Tweeny witches)",
+      "slug": "mahou-shoujo-tai-arusu-(tweeny-witches)",
+      "imgSrc": "Mahou_Shoujo-tai_Arusu_(Tweeny_witches).jpg",
       "subpastas": [
         {
           "id": 872,
@@ -56271,8 +57913,10 @@
       ]
     },
     {
-      "id": 427,
+      "id": 435,
       "nome": "Mahouka Koukou no Rettousei",
+      "slug": "mahouka-koukou-no-rettousei",
+      "imgSrc": "Mahouka_Koukou_no_Rettousei.jpg",
       "subpastas": [
         {
           "id": 20785,
@@ -56645,8 +58289,10 @@
       ]
     },
     {
-      "id": 428,
+      "id": 436,
       "nome": "Majimoji Rurumo",
+      "slug": "majimoji-rurumo",
+      "imgSrc": "Majimoji_Rurumo.jpg",
       "subpastas": [
         {
           "id": 23945,
@@ -56731,8 +58377,10 @@
       ]
     },
     {
-      "id": 429,
+      "id": 437,
       "nome": "Makai Toshi Shinjuku (Demon City Shinjuku)",
+      "slug": "makai-toshi-shinjuku-(demon-city-shinjuku)",
+      "imgSrc": "Makai_Toshi_Shinjuku_(Demon_City_Shinjuku).jpg",
       "subpastas": [
         {
           "id": 499,
@@ -56755,8 +58403,10 @@
       ]
     },
     {
-      "id": 430,
+      "id": 438,
       "nome": "Maken-Ki!",
+      "slug": "maken-ki!",
+      "imgSrc": "Maken-Ki!.jpg",
       "subpastas": [
         {
           "id": 9936,
@@ -56943,8 +58593,10 @@
       ]
     },
     {
-      "id": 431,
+      "id": 439,
       "nome": "Mangaka-san to Assistant-san to The Animation",
+      "slug": "mangaka-san-to-assistant-san-to-the-animation",
+      "imgSrc": "Mangaka-san_to_Assistant-san_to_The_Animation.jpg",
       "subpastas": [
         {
           "id": 21863,
@@ -57017,8 +58669,10 @@
       ]
     },
     {
-      "id": 432,
+      "id": 440,
       "nome": "Manie-Manie Meikyuu Monogatari (Neo Tokyo)",
+      "slug": "manie-manie-meikyuu-monogatari-(neo-tokyo)",
+      "imgSrc": "Manie-Manie_Meikyuu_Monogatari_(Neo_Tokyo).jpg",
       "subpastas": [
         {
           "id": 1951,
@@ -57041,8 +58695,10 @@
       ]
     },
     {
-      "id": 433,
+      "id": 441,
       "nome": "Manyuu Hikenchou",
+      "slug": "manyuu-hikenchou",
+      "imgSrc": "Manyuu_Hikenchou.jpg",
       "subpastas": [
         {
           "id": 10465,
@@ -57115,8 +58771,10 @@
       ]
     },
     {
-      "id": 434,
+      "id": 442,
       "nome": "Maou Gakuin no Futekigousha",
+      "slug": "maou-gakuin-no-futekigousha",
+      "imgSrc": "Maou_Gakuin_no_Futekigousha.jpg",
       "subpastas": [
         {
           "id": 40496,
@@ -57251,13 +58909,17 @@
       ]
     },
     {
-      "id": 435,
+      "id": 443,
       "nome": "Marte Precisa de Mães",
+      "slug": "marte-precisa-de-mães",
+      "imgSrc": "Marte_Precisa_de_Mães.jpg",
       "subpastas": []
     },
     {
-      "id": 436,
+      "id": 444,
       "nome": "Masou Gakuen HxH",
+      "slug": "masou-gakuen-hxh",
+      "imgSrc": "Masou_Gakuen_HxH.jpg",
       "subpastas": [
         {
           "id": 31845,
@@ -57354,8 +59016,10 @@
       ]
     },
     {
-      "id": 437,
+      "id": 445,
       "nome": "Mato Seihei no Slave",
+      "slug": "mato-seihei-no-slave",
+      "imgSrc": "Mato_Seihei_no_Slave.jpg",
       "subpastas": [
         {
           "id": 50392,
@@ -57418,8 +59082,10 @@
       ]
     },
     {
-      "id": 438,
+      "id": 446,
       "nome": "Mayo Chiki",
+      "slug": "mayo-chiki",
+      "imgSrc": "Mayo_Chiki.jpg",
       "subpastas": [
         {
           "id": 10110,
@@ -57486,8 +59152,10 @@
       ]
     },
     {
-      "id": 439,
+      "id": 447,
       "nome": "Medaka Box",
+      "slug": "medaka-box",
+      "imgSrc": "Medaka_Box.jpg",
       "subpastas": [
         {
           "id": 11761,
@@ -57616,18 +59284,24 @@
       ]
     },
     {
-      "id": 440,
+      "id": 448,
       "nome": "Megalo Box",
+      "slug": "megalo-box",
+      "imgSrc": "Megalo_Box.jpg",
       "subpastas": []
     },
     {
-      "id": 441,
+      "id": 449,
       "nome": "MegaMente",
+      "slug": "megamente",
+      "imgSrc": "MegaMente.jpg",
       "subpastas": []
     },
     {
-      "id": 442,
+      "id": 450,
       "nome": "Megami-ryou no Ryoubo-kun",
+      "slug": "megami-ryou-no-ryoubo-kun",
+      "imgSrc": "Megami-ryou_no_Ryoubo-kun.jpg",
       "subpastas": [
         {
           "id": 41812,
@@ -57682,8 +59356,10 @@
       ]
     },
     {
-      "id": 443,
+      "id": 451,
       "nome": "Megazone 23",
+      "slug": "megazone-23",
+      "imgSrc": "Megazone_23.jpg",
       "subpastas": [
         {
           "id": 1935,
@@ -57714,8 +59390,10 @@
       ]
     },
     {
-      "id": 444,
+      "id": 452,
       "nome": "Meitou Isekai no Yu Kaitakuki (Isekai Onsen Paradise)",
+      "slug": "meitou-isekai-no-yu-kaitakuki-(isekai-onsen-paradise)",
+      "imgSrc": "Meitou_Isekai_no_Yu_Kaitakuki_(Isekai_Onsen_Paradise).jpg",
       "subpastas": [
         {
           "id": 57315,
@@ -57778,8 +59456,10 @@
       ]
     },
     {
-      "id": 445,
+      "id": 453,
       "nome": "Memories",
+      "slug": "memories",
+      "imgSrc": "Memories.jpg",
       "subpastas": [
         {
           "id": 1462,
@@ -57826,8 +59506,10 @@
       ]
     },
     {
-      "id": 446,
+      "id": 454,
       "nome": "Metallic Rouge",
+      "slug": "metallic-rouge",
+      "imgSrc": "Metallic_Rouge.jpg",
       "subpastas": [
         {
           "id": 54794,
@@ -57894,8 +59576,10 @@
       ]
     },
     {
-      "id": 447,
+      "id": 455,
       "nome": "Metropolis",
+      "slug": "metropolis",
+      "imgSrc": "Metropolis.jpg",
       "subpastas": [
         {
           "id": 522,
@@ -57926,13 +59610,17 @@
       ]
     },
     {
-      "id": 448,
+      "id": 456,
       "nome": "Meu Malvado Favorito",
+      "slug": "meu-malvado-favorito",
+      "imgSrc": "Meu_Malvado_Favorito.jpg",
       "subpastas": []
     },
     {
-      "id": 449,
+      "id": 457,
       "nome": "Michiko to Hatchin",
+      "slug": "michiko-to-hatchin",
+      "imgSrc": "Michiko_to_Hatchin.jpg",
       "subpastas": [
         {
           "id": 4087,
@@ -58031,8 +59719,10 @@
       ]
     },
     {
-      "id": 450,
+      "id": 458,
       "nome": "Midara na Ao-chan wa Benkyou ga Dekinai",
+      "slug": "midara-na-ao-chan-wa-benkyou-ga-dekinai",
+      "imgSrc": "Midara_na_Ao-chan_wa_Benkyou_ga_Dekinai.jpg",
       "subpastas": [
         {
           "id": 38778,
@@ -58095,8 +59785,10 @@
       ]
     },
     {
-      "id": 451,
+      "id": 459,
       "nome": "Minions",
+      "slug": "minions",
+      "imgSrc": "Minions.jpg",
       "subpastas": [
         {
           "id": null,
@@ -58143,8 +59835,10 @@
       ]
     },
     {
-      "id": 452,
+      "id": 460,
       "nome": "Miru Tights",
+      "slug": "miru-tights",
+      "imgSrc": "Miru_Tights.jpg",
       "subpastas": [
         {
           "id": 38935,
@@ -58229,8 +59923,10 @@
       ]
     },
     {
-      "id": 453,
+      "id": 461,
       "nome": "MM!",
+      "slug": "mm!",
+      "imgSrc": "MM!.jpg",
       "subpastas": [
         {
           "id": 8424,
@@ -58339,8 +60035,10 @@
       ]
     },
     {
-      "id": 454,
+      "id": 462,
       "nome": "Mnemosyne no Musumetachi",
+      "slug": "mnemosyne-no-musumetachi",
+      "imgSrc": "Mnemosyne_no_Musumetachi.jpg",
       "subpastas": [
         {
           "id": 3342,
@@ -58403,8 +60101,10 @@
       ]
     },
     {
-      "id": 455,
+      "id": 463,
       "nome": "Mo Dao Zu Shi",
+      "slug": "mo-dao-zu-shi",
+      "imgSrc": "Mo_Dao_Zu_Shi.jpg",
       "subpastas": [
         {
           "id": 37208,
@@ -58817,8 +60517,10 @@
       ]
     },
     {
-      "id": 456,
+      "id": 464,
       "nome": "Moana",
+      "slug": "moana",
+      "imgSrc": "Moana.jpg",
       "subpastas": [
         {
           "id": null,
@@ -58833,8 +60535,10 @@
       ]
     },
     {
-      "id": 457,
+      "id": 465,
       "nome": "Momo Kyun Sword",
+      "slug": "momo-kyun-sword",
+      "imgSrc": "Momo_Kyun_Sword.jpg",
       "subpastas": [
         {
           "id": 22225,
@@ -58897,8 +60601,10 @@
       ]
     },
     {
-      "id": 458,
+      "id": 466,
       "nome": "Monogatari",
+      "slug": "monogatari",
+      "imgSrc": "Monogatari.jpg",
       "subpastas": [
         {
           "id": 5081,
@@ -59479,8 +61185,10 @@
       ]
     },
     {
-      "id": 459,
+      "id": 467,
       "nome": "Mononogatari",
+      "slug": "mononogatari",
+      "imgSrc": "Mononogatari.jpg",
       "subpastas": [
         {
           "id": 50384,
@@ -59601,8 +61309,10 @@
       ]
     },
     {
-      "id": 460,
+      "id": 468,
       "nome": "Monster Musume no Iru Nichijou",
+      "slug": "monster-musume-no-iru-nichijou",
+      "imgSrc": "Monster_Musume_no_Iru_Nichijou.jpg",
       "subpastas": [
         {
           "id": 30307,
@@ -59697,8 +61407,10 @@
       ]
     },
     {
-      "id": 461,
+      "id": 469,
       "nome": "Monster Musume no Oishasan",
+      "slug": "monster-musume-no-oishasan",
+      "imgSrc": "Monster_Musume_no_Oishasan.jpg",
       "subpastas": [
         {
           "id": 40708,
@@ -59761,13 +61473,17 @@
       ]
     },
     {
-      "id": 462,
+      "id": 470,
       "nome": "Monstros vs Alienígenas",
+      "slug": "monstros-vs-alienígenas",
+      "imgSrc": "Monstros_vs_Alienígenas.jpg",
       "subpastas": []
     },
     {
-      "id": 463,
+      "id": 471,
       "nome": "Mouse",
+      "slug": "mouse",
+      "imgSrc": "Mouse.jpg",
       "subpastas": [
         {
           "id": 624,
@@ -59830,18 +61546,24 @@
       ]
     },
     {
-      "id": 464,
+      "id": 472,
       "nome": "Moyashimon",
+      "slug": "moyashimon",
+      "imgSrc": "Moyashimon.jpg",
       "subpastas": []
     },
     {
-      "id": 465,
+      "id": 473,
       "nome": "Mulan",
+      "slug": "mulan",
+      "imgSrc": "Mulan.jpg",
       "subpastas": []
     },
     {
-      "id": 466,
+      "id": 474,
       "nome": "Musaigen no Phantom World",
+      "slug": "musaigen-no-phantom-world",
+      "imgSrc": "Musaigen_no_Phantom_World.jpg",
       "subpastas": [
         {
           "id": 31442,
@@ -59960,8 +61682,10 @@
       ]
     },
     {
-      "id": 467,
+      "id": 475,
       "nome": "Mushoku Tensei",
+      "slug": "mushoku-tensei",
+      "imgSrc": "Mushoku_Tensei.jpg",
       "subpastas": [
         {
           "id": 39535,
@@ -60222,8 +61946,10 @@
       ]
     },
     {
-      "id": 468,
+      "id": 476,
       "nome": "Nana to Kaoru",
+      "slug": "nana-to-kaoru",
+      "imgSrc": "Nana_to_Kaoru.jpg",
       "subpastas": [
         {
           "id": 9741,
@@ -60242,8 +61968,10 @@
       ]
     },
     {
-      "id": 469,
+      "id": 477,
       "nome": "Nanatsu no Taizai",
+      "slug": "nanatsu-no-taizai",
+      "imgSrc": "Nanatsu_no_Taizai.jpg",
       "subpastas": [
         {
           "id": 23755,
@@ -60770,8 +62498,10 @@
       ]
     },
     {
-      "id": 470,
+      "id": 478,
       "nome": "Nande Koko ni Sensei ga",
+      "slug": "nande-koko-ni-sensei-ga",
+      "imgSrc": "Nande_Koko_ni_Sensei_ga.jpg",
       "subpastas": [
         {
           "id": 38397,
@@ -60900,13 +62630,17 @@
       ]
     },
     {
-      "id": 471,
+      "id": 479,
       "nome": "Naruto",
+      "slug": "naruto",
+      "imgSrc": "Naruto.jpg",
       "subpastas": []
     },
     {
-      "id": 472,
+      "id": 480,
       "nome": "Natsunagu",
+      "slug": "natsunagu",
+      "imgSrc": "Natsunagu.jpg",
       "subpastas": [
         {
           "id": 40738,
@@ -60969,8 +62703,10 @@
       ]
     },
     {
-      "id": 473,
+      "id": 481,
       "nome": "Netoge no Yome wa Onnanoko ja Nai to Omotta",
+      "slug": "netoge-no-yome-wa-onnanoko-ja-nai-to-omotta",
+      "imgSrc": "Netoge_no_Yome_wa_Onnanoko_ja_Nai_to_Omotta.jpg",
       "subpastas": [
         {
           "id": 31404,
@@ -61029,8 +62765,10 @@
       ]
     },
     {
-      "id": 474,
+      "id": 482,
       "nome": "Netsuzou TRap",
+      "slug": "netsuzou-trap",
+      "imgSrc": "Netsuzou_TRap.jpg",
       "subpastas": [
         {
           "id": 34383,
@@ -61097,8 +62835,10 @@
       ]
     },
     {
-      "id": 475,
+      "id": 483,
       "nome": "NieR Automata Ver1.1a",
+      "slug": "nier-automata-ver1.1a",
+      "imgSrc": "NieR_Automata_Ver1.1a.jpg",
       "subpastas": [
         {
           "id": 51105,
@@ -61237,13 +62977,17 @@
       ]
     },
     {
-      "id": 476,
+      "id": 484,
       "nome": "Nine Satra",
+      "slug": "nine-satra",
+      "imgSrc": "Nine_Satra.jpg",
       "subpastas": []
     },
     {
-      "id": 477,
+      "id": 485,
       "nome": "No Game No Life",
+      "slug": "no-game-no-life",
+      "imgSrc": "No_Game_No_Life.jpg",
       "subpastas": [
         {
           "id": 19815,
@@ -61396,8 +63140,10 @@
       ]
     },
     {
-      "id": 478,
+      "id": 486,
       "nome": "Nobunaga-sensei no Osanazuma",
+      "slug": "nobunaga-sensei-no-osanazuma",
+      "imgSrc": "Nobunaga-sensei_no_Osanazuma.jpg",
       "subpastas": [
         {
           "id": 38814,
@@ -61460,8 +63206,10 @@
       ]
     },
     {
-      "id": 479,
+      "id": 487,
       "nome": "Nozoki Ana (Nozo x Kimi)",
+      "slug": "nozoki-ana-(nozo-x-kimi)",
+      "imgSrc": "Nozoki_Ana_(Nozo_x_Kimi).jpg",
       "subpastas": [
         {
           "id": 17157,
@@ -61548,8 +63296,10 @@
       ]
     },
     {
-      "id": 480,
+      "id": 488,
       "nome": "Nozomanu Fushi no Boukensha",
+      "slug": "nozomanu-fushi-no-boukensha",
+      "imgSrc": "Nozomanu_Fushi_no_Boukensha.jpg",
       "subpastas": [
         {
           "id": 51648,
@@ -61612,8 +63362,10 @@
       ]
     },
     {
-      "id": 481,
+      "id": 489,
       "nome": "Bakemono no Ko (O Rapaz e o Monstro)",
+      "slug": "bakemono-no-ko-(o-rapaz-e-o-monstro)",
+      "imgSrc": "Bakemono_no_Ko_(O_Rapaz_e_o_Monstro).jpg",
       "subpastas": [
         {
           "id": 28805,
@@ -61636,8 +63388,10 @@
       ]
     },
     {
-      "id": 482,
+      "id": 490,
       "nome": "O Espanta Tubarões",
+      "slug": "o-espanta-tubarões",
+      "imgSrc": "O_Espanta_Tubarões.jpg",
       "subpastas": [
         {
           "id": null,
@@ -61660,8 +63414,10 @@
       ]
     },
     {
-      "id": 483,
+      "id": 491,
       "nome": "O Estranho Mundo de Jack",
+      "slug": "o-estranho-mundo-de-jack",
+      "imgSrc": "O_Estranho_Mundo_de_Jack.jpg",
       "subpastas": [
         {
           "id": null,
@@ -61680,8 +63436,10 @@
       ]
     },
     {
-      "id": 484,
+      "id": 492,
       "nome": "O Gigante de Ferro",
+      "slug": "o-gigante-de-ferro",
+      "imgSrc": "O_Gigante_de_Ferro.jpg",
       "subpastas": [
         {
           "id": null,
@@ -61696,8 +63454,10 @@
       ]
     },
     {
-      "id": 485,
+      "id": 493,
       "nome": "O Homem Duplo (A Scanner Darkly)",
+      "slug": "o-homem-duplo-(a-scanner-darkly)",
+      "imgSrc": "O_Homem_Duplo_(A_Scanner_Darkly).jpg",
       "subpastas": [
         {
           "id": null,
@@ -61716,13 +63476,17 @@
       ]
     },
     {
-      "id": 486,
+      "id": 494,
       "nome": "O Mar Nao Esta Pra Peixe",
+      "slug": "o-mar-nao-esta-pra-peixe",
+      "imgSrc": "O_Mar_Nao_Esta_Pra_Peixe.jpg",
       "subpastas": []
     },
     {
-      "id": 487,
+      "id": 495,
       "nome": "O Poderoso Chefinho",
+      "slug": "o-poderoso-chefinho",
+      "imgSrc": "O_Poderoso_Chefinho.jpg",
       "subpastas": [
         {
           "id": null,
@@ -61755,8 +63519,10 @@
       ]
     },
     {
-      "id": 488,
+      "id": 496,
       "nome": "O Rei Leão",
+      "slug": "o-rei-leão",
+      "imgSrc": "O_Rei_Leão.jpg",
       "subpastas": [
         {
           "id": null,
@@ -61821,8 +63587,10 @@
       ]
     },
     {
-      "id": 489,
+      "id": 497,
       "nome": "Okusama ga Seitokaichou!",
+      "slug": "okusama-ga-seitokaichou!",
+      "imgSrc": "Okusama_ga_Seitokaichou!.jpg",
       "subpastas": [
         {
           "id": 28819,
@@ -61979,8 +63747,10 @@
       ]
     },
     {
-      "id": 490,
+      "id": 498,
       "nome": "Omamori Himari",
+      "slug": "omamori-himari",
+      "imgSrc": "Omamori_Himari.jpg",
       "subpastas": [
         {
           "id": 6324,
@@ -62043,8 +63813,10 @@
       ]
     },
     {
-      "id": 491,
+      "id": 499,
       "nome": "One Piece",
+      "slug": "one-piece",
+      "imgSrc": "One_Piece.jpg",
       "subpastas": [
         {
           "id": 466,
@@ -62825,8 +64597,10 @@
       ]
     },
     {
-      "id": 492,
+      "id": 500,
       "nome": "One Punch Man",
+      "slug": "one-punch-man",
+      "imgSrc": "One_Punch_Man.jpg",
       "subpastas": [
         {
           "id": 30276,
@@ -63015,8 +64789,10 @@
       ]
     },
     {
-      "id": 493,
+      "id": 501,
       "nome": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+      "slug": "oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne!",
+      "imgSrc": "Oniichan_dakedo_Ai_sae_Areba_Kankeinai_yo_ne!.jpg",
       "subpastas": [
         {
           "id": 14199,
@@ -63093,8 +64869,10 @@
       ]
     },
     {
-      "id": 494,
+      "id": 502,
       "nome": "Ore dake Haireru Kakushi Dungeon",
+      "slug": "ore-dake-haireru-kakushi-dungeon",
+      "imgSrc": "Ore_dake_Haireru_Kakushi_Dungeon.jpg",
       "subpastas": [
         {
           "id": 45658,
@@ -63211,8 +64989,10 @@
       ]
     },
     {
-      "id": 495,
+      "id": 503,
       "nome": "Ore dake Level Up na Ken (Solo Leveling)",
+      "slug": "ore-dake-level-up-na-ken-(solo-leveling)",
+      "imgSrc": "Ore_dake_Level_Up_na_Ken_(Solo_Leveling).jpg",
       "subpastas": [
         {
           "id": 52299,
@@ -63365,8 +65145,10 @@
       ]
     },
     {
-      "id": 496,
+      "id": 504,
       "nome": "Ore ga Ojousama Gakkou ni Shomin Sample Toshite Gets♥Sareta Ken",
+      "slug": "ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-gets♥sareta-ken",
+      "imgSrc": "Ore_ga_Ojousama_Gakkou_ni_Shomin_Sample_Toshite_Gets♥Sareta_Ken.jpg",
       "subpastas": [
         {
           "id": 25099,
@@ -63439,8 +65221,10 @@
       ]
     },
     {
-      "id": 497,
+      "id": 505,
       "nome": "Os Incríveis",
+      "slug": "os-incríveis",
+      "imgSrc": "Os_Incríveis.jpg",
       "subpastas": [
         {
           "id": null,
@@ -63473,8 +65257,10 @@
       ]
     },
     {
-      "id": 498,
+      "id": 506,
       "nome": "Os Sem-Floresta",
+      "slug": "os-sem-floresta",
+      "imgSrc": "Os_Sem-Floresta.jpg",
       "subpastas": [
         {
           "id": null,
@@ -63493,8 +65279,10 @@
       ]
     },
     {
-      "id": 499,
+      "id": 507,
       "nome": "Os Simpsons",
+      "slug": "os-simpsons",
+      "imgSrc": "Os_Simpsons.jpg",
       "subpastas": [
         {
           "id": null,
@@ -65667,8 +67455,10 @@
       ]
     },
     {
-      "id": 500,
+      "id": 508,
       "nome": "Otona no Bouguya-san",
+      "slug": "otona-no-bouguya-san",
+      "imgSrc": "Otona_no_Bouguya-san.jpg",
       "subpastas": [
         {
           "id": 38395,
@@ -65751,8 +67541,10 @@
       ]
     },
     {
-      "id": 501,
+      "id": 509,
       "nome": "Overlord",
+      "slug": "overlord",
+      "imgSrc": "Overlord.jpg",
       "subpastas": [
         {
           "id": 37264,
@@ -66407,8 +68199,10 @@
       ]
     },
     {
-      "id": 502,
+      "id": 510,
       "nome": "Paprika",
+      "slug": "paprika",
+      "imgSrc": "Paprika.jpg",
       "subpastas": [
         {
           "id": 1943,
@@ -66427,8 +68221,10 @@
       ]
     },
     {
-      "id": 503,
+      "id": 511,
       "nome": "Paripi Koumei",
+      "slug": "paripi-koumei",
+      "imgSrc": "Paripi_Koumei.jpg",
       "subpastas": [
         {
           "id": 50380,
@@ -66501,8 +68297,10 @@
       ]
     },
     {
-      "id": 504,
+      "id": 512,
       "nome": "Perfect Blue",
+      "slug": "perfect-blue",
+      "imgSrc": "Perfect_Blue.jpg",
       "subpastas": [
         {
           "id": 437,
@@ -66525,8 +68323,10 @@
       ]
     },
     {
-      "id": 505,
+      "id": 513,
       "nome": "Peter Grill to Kenja no Jikan",
+      "slug": "peter-grill-to-kenja-no-jikan",
+      "imgSrc": "Peter_Grill_to_Kenja_no_Jikan.jpg",
       "subpastas": [
         {
           "id": 40436,
@@ -66647,8 +68447,10 @@
       ]
     },
     {
-      "id": 506,
+      "id": 514,
       "nome": "Pets A Vida Secreta dos Bichos",
+      "slug": "pets-a-vida-secreta-dos-bichos",
+      "imgSrc": "Pets_A_Vida_Secreta_dos_Bichos.jpg",
       "subpastas": [
         {
           "id": null,
@@ -66676,8 +68478,10 @@
       ]
     },
     {
-      "id": 507,
+      "id": 515,
       "nome": "Pink e Cerebro",
+      "slug": "pink-e-cerebro",
+      "imgSrc": "Pink_e_Cerebro.jpg",
       "subpastas": [
         {
           "id": null,
@@ -67010,13 +68814,17 @@
       ]
     },
     {
-      "id": 508,
+      "id": 516,
       "nome": "Planeta 51",
+      "slug": "planeta-51",
+      "imgSrc": "Planeta_51.jpg",
       "subpastas": []
     },
     {
-      "id": 509,
+      "id": 517,
       "nome": "Plunderer",
+      "slug": "plunderer",
+      "imgSrc": "Plunderer.jpg",
       "subpastas": [
         {
           "id": 37345,
@@ -67127,8 +68935,10 @@
       ]
     },
     {
-      "id": 510,
+      "id": 518,
       "nome": "Prison School",
+      "slug": "prison-school",
+      "imgSrc": "Prison_School.jpg",
       "subpastas": [
         {
           "id": 30240,
@@ -67247,8 +69057,10 @@
       ]
     },
     {
-      "id": 511,
+      "id": 519,
       "nome": "Procurando Nemo",
+      "slug": "procurando-nemo",
+      "imgSrc": "Procurando_Nemo.jpg",
       "subpastas": [
         {
           "id": null,
@@ -67272,8 +69084,10 @@
       ]
     },
     {
-      "id": 512,
+      "id": 520,
       "nome": "Project Zeorymer",
+      "slug": "project-zeorymer",
+      "imgSrc": "Project_Zeorymer.jpg",
       "subpastas": [
         {
           "id": 1832,
@@ -67304,8 +69118,10 @@
       ]
     },
     {
-      "id": 513,
+      "id": 521,
       "nome": "Psycho Diver Mashou Bosatsu",
+      "slug": "psycho-diver-mashou-bosatsu",
+      "imgSrc": "Psycho_Diver_Mashou_Bosatsu.jpg",
       "subpastas": [
         {
           "id": 1767,
@@ -67324,8 +69140,10 @@
       ]
     },
     {
-      "id": 514,
+      "id": 522,
       "nome": "Psycho-Pass",
+      "slug": "psycho-pass",
+      "imgSrc": "Psycho-Pass.jpg",
       "subpastas": [
         {
           "id": 13601,
@@ -67620,8 +69438,10 @@
       ]
     },
     {
-      "id": 515,
+      "id": 523,
       "nome": "Pé Pequeno",
+      "slug": "pé-pequeno",
+      "imgSrc": "Pé_Pequeno.jpg",
       "subpastas": [
         {
           "id": null,
@@ -67644,13 +69464,17 @@
       ]
     },
     {
-      "id": 516,
+      "id": 524,
       "nome": "Quanzhi Gaoshou (The King's Avatar)",
+      "slug": "quanzhi-gaoshou-(the-king's-avatar)",
+      "imgSrc": "Quanzhi_Gaoshou_(The_King's_Avatar).jpg",
       "subpastas": []
     },
     {
-      "id": 517,
+      "id": 525,
       "nome": "Queen's Blade",
+      "slug": "queen's-blade",
+      "imgSrc": "Queen's_Blade.jpg",
       "subpastas": [
         {
           "id": 6633,
@@ -68211,8 +70035,10 @@
       ]
     },
     {
-      "id": 518,
+      "id": 526,
       "nome": "Rahxephon",
+      "slug": "rahxephon",
+      "imgSrc": "Rahxephon.jpg",
       "subpastas": [
         {
           "id": 165,
@@ -68369,8 +70195,10 @@
       ]
     },
     {
-      "id": 519,
+      "id": 527,
       "nome": "Rail Wars!",
+      "slug": "rail-wars!",
+      "imgSrc": "Rail_Wars!.jpg",
       "subpastas": [
         {
           "id": 23309,
@@ -68433,8 +70261,10 @@
       ]
     },
     {
-      "id": 520,
+      "id": 528,
       "nome": "Rakudai Kishi no Cavalry",
+      "slug": "rakudai-kishi-no-cavalry",
+      "imgSrc": "Rakudai_Kishi_no_Cavalry.jpg",
       "subpastas": [
         {
           "id": 30296,
@@ -68545,8 +70375,10 @@
       ]
     },
     {
-      "id": 521,
+      "id": 529,
       "nome": "Rango",
+      "slug": "rango",
+      "imgSrc": "Rango.jpg",
       "subpastas": [
         {
           "id": null,
@@ -68569,8 +70401,10 @@
       ]
     },
     {
-      "id": 522,
+      "id": 530,
       "nome": "Ratatouille",
+      "slug": "ratatouille",
+      "imgSrc": "Ratatouille.jpg",
       "subpastas": [
         {
           "id": null,
@@ -68589,8 +70423,10 @@
       ]
     },
     {
-      "id": 523,
+      "id": 531,
       "nome": "Re.Zero kara Hajimeru Isekai Seikatsu",
+      "slug": "re.zero-kara-hajimeru-isekai-seikatsu",
+      "imgSrc": "Re.Zero_kara_Hajimeru_Isekai_Seikatsu.jpg",
       "subpastas": [
         {
           "id": 33569,
@@ -68971,8 +70807,10 @@
       ]
     },
     {
-      "id": 524,
+      "id": 532,
       "nome": "Redline",
+      "slug": "redline",
+      "imgSrc": "Redline.jpg",
       "subpastas": [
         {
           "id": 1980,
@@ -69019,8 +70857,10 @@
       ]
     },
     {
-      "id": 525,
+      "id": 533,
       "nome": "Renai Boukun",
+      "slug": "renai-boukun",
+      "imgSrc": "Renai_Boukun.jpg",
       "subpastas": [
         {
           "id": 32262,
@@ -69083,8 +70923,10 @@
       ]
     },
     {
-      "id": 526,
+      "id": 534,
       "nome": "Renai Flops",
+      "slug": "renai-flops",
+      "imgSrc": "Renai_Flops.jpg",
       "subpastas": [
         {
           "id": 51403,
@@ -69147,8 +70989,10 @@
       ]
     },
     {
-      "id": 527,
+      "id": 535,
       "nome": "Rescue Me!",
+      "slug": "rescue-me!",
+      "imgSrc": "Rescue_Me!.jpg",
       "subpastas": [
         {
           "id": 18039,
@@ -69167,8 +71011,10 @@
       ]
     },
     {
-      "id": 528,
+      "id": 536,
       "nome": "Resident Evil (Biohazard)",
+      "slug": "resident-evil-(biohazard)",
+      "imgSrc": "Resident_Evil_(Biohazard).jpg",
       "subpastas": [
         {
           "id": 8278,
@@ -69283,8 +71129,10 @@
       ]
     },
     {
-      "id": 529,
+      "id": 537,
       "nome": "Revisions",
+      "slug": "revisions",
+      "imgSrc": "Revisions.jpg",
       "subpastas": [
         {
           "id": 37436,
@@ -69395,8 +71243,10 @@
       ]
     },
     {
-      "id": 530,
+      "id": 538,
       "nome": "Rick and Morty",
+      "slug": "rick-and-morty",
+      "imgSrc": "Rick_and_Morty.jpg",
       "subpastas": [
         {
           "id": null,
@@ -69753,8 +71603,10 @@
       ]
     },
     {
-      "id": 531,
+      "id": 539,
       "nome": "Rikei ga Koi ni Ochita no de Shoumei shitemita",
+      "slug": "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita",
+      "imgSrc": "Rikei_ga_Koi_ni_Ochita_no_de_Shoumei_shitemita.jpg",
       "subpastas": [
         {
           "id": 38992,
@@ -69875,18 +71727,24 @@
       ]
     },
     {
-      "id": 532,
+      "id": 540,
       "nome": "Rio",
+      "slug": "rio",
+      "imgSrc": "Rio.jpg",
       "subpastas": []
     },
     {
-      "id": 533,
+      "id": 541,
       "nome": "Robos",
+      "slug": "robos",
+      "imgSrc": "Robos.jpg",
       "subpastas": []
     },
     {
-      "id": 534,
+      "id": 542,
       "nome": "Robot Carnival",
+      "slug": "robot-carnival",
+      "imgSrc": "Robot_Carnival.jpg",
       "subpastas": [
         {
           "id": 2182,
@@ -69909,8 +71767,10 @@
       ]
     },
     {
-      "id": 535,
+      "id": 543,
       "nome": "Rokka no Yuusha",
+      "slug": "rokka-no-yuusha",
+      "imgSrc": "Rokka_no_Yuusha.jpg",
       "subpastas": [
         {
           "id": 28497,
@@ -69983,13 +71843,17 @@
       ]
     },
     {
-      "id": 536,
+      "id": 544,
       "nome": "Rosario to Vampire",
+      "slug": "rosario-to-vampire",
+      "imgSrc": "Rosario_to_Vampire.jpg",
       "subpastas": []
     },
     {
-      "id": 537,
+      "id": 545,
       "nome": "Roujin Z",
+      "slug": "roujin-z",
+      "imgSrc": "Roujin_Z.jpg",
       "subpastas": [
         {
           "id": 2000,
@@ -70008,13 +71872,17 @@
       ]
     },
     {
-      "id": 538,
+      "id": 546,
       "nome": "Rugas",
+      "slug": "rugas",
+      "imgSrc": "Rugas.jpg",
       "subpastas": []
     },
     {
-      "id": 539,
+      "id": 547,
       "nome": "RWBY Hyousetsu Teikoku",
+      "slug": "rwby-hyousetsu-teikoku",
+      "imgSrc": "RWBY_Hyousetsu_Teikoku.jpg",
       "subpastas": [
         {
           "id": 51381,
@@ -70077,8 +71945,10 @@
       ]
     },
     {
-      "id": 540,
+      "id": 548,
       "nome": "Saber Marionette",
+      "slug": "saber-marionette",
+      "imgSrc": "Saber_Marionette.jpg",
       "subpastas": [
         {
           "id": 1232,
@@ -70363,8 +72233,10 @@
       ]
     },
     {
-      "id": 541,
+      "id": 549,
       "nome": "Saenai Heroine no Sodatekata",
+      "slug": "saenai-heroine-no-sodatekata",
+      "imgSrc": "Saenai_Heroine_no_Sodatekata.jpg",
       "subpastas": [
         {
           "id": 23277,
@@ -70509,8 +72381,10 @@
       ]
     },
     {
-      "id": 542,
+      "id": 550,
       "nome": "Saijaku Muhai no Bahamut",
+      "slug": "saijaku-muhai-no-bahamut",
+      "imgSrc": "Saijaku_Muhai_no_Bahamut.jpg",
       "subpastas": [
         {
           "id": 30749,
@@ -70573,8 +72447,10 @@
       ]
     },
     {
-      "id": 543,
+      "id": 551,
       "nome": "Saikin Yatotta Maid ga Ayashii",
+      "slug": "saikin-yatotta-maid-ga-ayashii",
+      "imgSrc": "Saikin_Yatotta_Maid_ga_Ayashii.jpg",
       "subpastas": [
         {
           "id": 51837,
@@ -70633,8 +72509,10 @@
       ]
     },
     {
-      "id": 544,
+      "id": 552,
       "nome": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga",
+      "slug": "saikin,-imouto-no-yousu-ga-chotto-okashiinda-ga",
+      "imgSrc": "Saikin,_Imouto_no_Yousu_ga_Chotto_Okashiinda_ga.jpg",
       "subpastas": [
         {
           "id": 17777,
@@ -70711,8 +72589,10 @@
       ]
     },
     {
-      "id": 545,
+      "id": 553,
       "nome": "Saint Seiya (Os Cavaleiros do Zodiaco)",
+      "slug": "saint-seiya-(os-cavaleiros-do-zodiaco)",
+      "imgSrc": "Saint_Seiya_(Os_Cavaleiros_do_Zodiaco).jpg",
       "subpastas": [
         {
           "id": 1254,
@@ -71129,8 +73009,10 @@
       ]
     },
     {
-      "id": 546,
+      "id": 554,
       "nome": "Sakamoto Desu ga",
+      "slug": "sakamoto-desu-ga",
+      "imgSrc": "Sakamoto_Desu_ga.jpg",
       "subpastas": [
         {
           "id": 32542,
@@ -71207,8 +73089,10 @@
       ]
     },
     {
-      "id": 547,
+      "id": 555,
       "nome": "Samurai Champloo",
+      "slug": "samurai-champloo",
+      "imgSrc": "Samurai_Champloo.jpg",
       "subpastas": [
         {
           "id": 205,
@@ -71327,8 +73211,10 @@
       ]
     },
     {
-      "id": 548,
+      "id": 556,
       "nome": "Sankarea",
+      "slug": "sankarea",
+      "imgSrc": "Sankarea.jpg",
       "subpastas": [
         {
           "id": 11499,
@@ -71423,8 +73309,10 @@
       ]
     },
     {
-      "id": 549,
+      "id": 557,
       "nome": "Science Adventure (Steins Gate)",
+      "slug": "science-adventure-(steins-gate)",
+      "imgSrc": "Science_Adventure_(Steins_Gate).jpg",
       "subpastas": [
         {
           "id": 4975,
@@ -72167,8 +74055,10 @@
       ]
     },
     {
-      "id": 550,
+      "id": 558,
       "nome": "Seiken Tsukai no World Break",
+      "slug": "seiken-tsukai-no-world-break",
+      "imgSrc": "Seiken_Tsukai_no_World_Break.jpg",
       "subpastas": [
         {
           "id": 22663,
@@ -72231,8 +74121,10 @@
       ]
     },
     {
-      "id": 551,
+      "id": 559,
       "nome": "Seikoku no Dragonar",
+      "slug": "seikoku-no-dragonar",
+      "imgSrc": "Seikoku_no_Dragonar.jpg",
       "subpastas": [
         {
           "id": 21033,
@@ -72295,8 +74187,10 @@
       ]
     },
     {
-      "id": 552,
+      "id": 560,
       "nome": "Seikon no Qwaser",
+      "slug": "seikon-no-qwaser",
+      "imgSrc": "Seikon_no_Qwaser.jpg",
       "subpastas": [
         {
           "id": 6500,
@@ -72595,8 +74489,10 @@
       ]
     },
     {
-      "id": 553,
+      "id": 561,
       "nome": "Seirei Tsukai",
+      "slug": "seirei-tsukai",
+      "imgSrc": "Seirei_Tsukai.jpg",
       "subpastas": [
         {
           "id": 1866,
@@ -72615,8 +74511,10 @@
       ]
     },
     {
-      "id": 554,
+      "id": 562,
       "nome": "Seireitsukai no Blade Dance",
+      "slug": "seireitsukai-no-blade-dance",
+      "imgSrc": "Seireitsukai_no_Blade_Dance.jpg",
       "subpastas": [
         {
           "id": 22877,
@@ -72761,8 +74659,10 @@
       ]
     },
     {
-      "id": 555,
+      "id": 563,
       "nome": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "slug": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
+      "imgSrc": "Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.jpg",
       "subpastas": [
         {
           "id": 37450,
@@ -72877,8 +74777,10 @@
       ]
     },
     {
-      "id": 556,
+      "id": 564,
       "nome": "Sekirei",
+      "slug": "sekirei",
+      "imgSrc": "Sekirei.jpg",
       "subpastas": [
         {
           "id": 4063,
@@ -73027,8 +74929,10 @@
       ]
     },
     {
-      "id": 557,
+      "id": 565,
       "nome": "Senpai ga Uzai Kouhai no Hanashi",
+      "slug": "senpai-ga-uzai-kouhai-no-hanashi",
+      "imgSrc": "Senpai_ga_Uzai_Kouhai_no_Hanashi.jpg",
       "subpastas": [
         {
           "id": 42351,
@@ -73091,8 +74995,10 @@
       ]
     },
     {
-      "id": 558,
+      "id": 566,
       "nome": "Senran Kagura",
+      "slug": "senran-kagura",
+      "imgSrc": "Senran_Kagura.jpg",
       "subpastas": [
         {
           "id": 15119,
@@ -73201,8 +75107,10 @@
       ]
     },
     {
-      "id": 559,
+      "id": 567,
       "nome": "Serial Experiments Lain",
+      "slug": "serial-experiments-lain",
+      "imgSrc": "Serial_Experiments_Lain.jpg",
       "subpastas": [
         {
           "id": 339,
@@ -73269,13 +75177,17 @@
       ]
     },
     {
-      "id": 560,
+      "id": 568,
       "nome": "Shaun, o Carneiro",
+      "slug": "shaun,-o-carneiro",
+      "imgSrc": "Shaun,_o_Carneiro.jpg",
       "subpastas": []
     },
     {
-      "id": 561,
+      "id": 569,
       "nome": "Shijin no Shougai",
+      "slug": "shijin-no-shougai",
+      "imgSrc": "Shijin_no_Shougai.jpg",
       "subpastas": [
         {
           "id": 7257,
@@ -73294,8 +75206,10 @@
       ]
     },
     {
-      "id": 562,
+      "id": 570,
       "nome": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+      "slug": "shijou-saikyou-no-daimaou,-murabito-a-ni-tensei-suru",
+      "imgSrc": "Shijou_Saikyou_no_Daimaou,_Murabito_A_ni_Tensei_suru.jpg",
       "subpastas": [
         {
           "id": 48415,
@@ -73358,8 +75272,10 @@
       ]
     },
     {
-      "id": 563,
+      "id": 571,
       "nome": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+      "slug": "shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
+      "imgSrc": "Shimoneta_to_Iu_Gainen_ga_Sonzai_Shinai_Taikutsu_na_Sekai.jpg",
       "subpastas": [
         {
           "id": 29786,
@@ -73422,8 +75338,10 @@
       ]
     },
     {
-      "id": 564,
+      "id": 572,
       "nome": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+      "slug": "shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node,-henkyou-de-slow-life-suru-koto-ni-shimashita",
+      "imgSrc": "Shin_no_Nakama_ja_Nai_to_Yuusha_no_Party_wo_Oidasareta_node,_Henkyou_de_Slow_Life_suru_Koto_ni_Shimashita.jpg",
       "subpastas": [
         {
           "id": 44037,
@@ -73500,8 +75418,10 @@
       ]
     },
     {
-      "id": 565,
+      "id": 573,
       "nome": "Shinchou Yuusha Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+      "slug": "shinchou-yuusha-kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru",
+      "imgSrc": "Shinchou_Yuusha_Kono_Yuusha_ga_Ore_Tueee_Kuse_ni_Shinchou_Sugiru.jpg",
       "subpastas": [
         {
           "id": 38659,
@@ -73574,8 +75494,10 @@
       ]
     },
     {
-      "id": 566,
+      "id": 574,
       "nome": "Shingeki no Kyojin (Attack on Titan)",
+      "slug": "shingeki-no-kyojin-(attack-on-titan)",
+      "imgSrc": "Shingeki_no_Kyojin_(Attack_on_Titan).jpg",
       "subpastas": [
         {
           "id": 16498,
@@ -74184,8 +76106,10 @@
       ]
     },
     {
-      "id": 567,
+      "id": 575,
       "nome": "Shinmai Maou no Testament",
+      "slug": "shinmai-maou-no-testament",
+      "imgSrc": "Shinmai_Maou_no_Testament.jpg",
       "subpastas": [
         {
           "id": 23233,
@@ -74434,8 +76358,10 @@
       ]
     },
     {
-      "id": 568,
+      "id": 576,
       "nome": "Shinreigari (Ghost Hound)",
+      "slug": "shinreigari-(ghost-hound)",
+      "imgSrc": "Shinreigari_(Ghost_Hound).jpg",
       "subpastas": [
         {
           "id": 2596,
@@ -74538,8 +76464,10 @@
       ]
     },
     {
-      "id": 569,
+      "id": 577,
       "nome": "Shinseiki Evangelion (Neon Genesis Evangelion)",
+      "slug": "shinseiki-evangelion-(neon-genesis-evangelion)",
+      "imgSrc": "Shinseiki_Evangelion_(Neon_Genesis_Evangelion).jpg",
       "subpastas": [
         {
           "id": 30,
@@ -74786,8 +76714,10 @@
       ]
     },
     {
-      "id": 570,
+      "id": 578,
       "nome": "Shokei Shoujo no Virgin Road",
+      "slug": "shokei-shoujo-no-virgin-road",
+      "imgSrc": "Shokei_Shoujo_no_Virgin_Road.jpg",
       "subpastas": [
         {
           "id": 47162,
@@ -74850,8 +76780,10 @@
       ]
     },
     {
-      "id": 571,
+      "id": 579,
       "nome": "Shokugeki no Souma",
+      "slug": "shokugeki-no-souma",
+      "imgSrc": "Shokugeki_no_Souma.jpg",
       "subpastas": [
         {
           "id": 28171,
@@ -74966,13 +76898,17 @@
       ]
     },
     {
-      "id": 572,
+      "id": 580,
       "nome": "Shomin Sample",
+      "slug": "shomin-sample",
+      "imgSrc": "Shomin_Sample.jpg",
       "subpastas": []
     },
     {
-      "id": 573,
+      "id": 581,
       "nome": "Short Peace",
+      "slug": "short-peace",
+      "imgSrc": "Short_Peace.jpg",
       "subpastas": [
         {
           "id": 13639,
@@ -75053,8 +76989,10 @@
       ]
     },
     {
-      "id": 574,
+      "id": 582,
       "nome": "Shoujo Kakumei Utena",
+      "slug": "shoujo-kakumei-utena",
+      "imgSrc": "Shoujo_Kakumei_Utena.jpg",
       "subpastas": [
         {
           "id": 440,
@@ -75239,13 +77177,17 @@
       ]
     },
     {
-      "id": 575,
+      "id": 583,
       "nome": "Shrek",
+      "slug": "shrek",
+      "imgSrc": "Shrek.jpg",
       "subpastas": []
     },
     {
-      "id": 576,
+      "id": 584,
       "nome": "Shuffle!",
+      "slug": "shuffle!",
+      "imgSrc": "Shuffle!.jpg",
       "subpastas": [
         {
           "id": 79,
@@ -75380,8 +77322,10 @@
       ]
     },
     {
-      "id": 577,
+      "id": 585,
       "nome": "Shuumatsu no Harem",
+      "slug": "shuumatsu-no-harem",
+      "imgSrc": "Shuumatsu_no_Harem.jpg",
       "subpastas": [
         {
           "id": 41946,
@@ -75440,8 +77384,10 @@
       ]
     },
     {
-      "id": 578,
+      "id": 586,
       "nome": "Sin Nanatsu no Taizai",
+      "slug": "sin-nanatsu-no-taizai",
+      "imgSrc": "Sin_Nanatsu_no_Taizai.jpg",
       "subpastas": [
         {
           "id": 36569,
@@ -75732,8 +77678,10 @@
       ]
     },
     {
-      "id": 579,
+      "id": 587,
       "nome": "Sirius the Jaeger",
+      "slug": "sirius-the-jaeger",
+      "imgSrc": "Sirius_the_Jaeger.jpg",
       "subpastas": [
         {
           "id": 37569,
@@ -75796,8 +77744,10 @@
       ]
     },
     {
-      "id": 580,
+      "id": 588,
       "nome": "SK8 the Infinity",
+      "slug": "sk8-the-infinity",
+      "imgSrc": "SK8_the_Infinity.jpg",
       "subpastas": [
         {
           "id": 42923,
@@ -75884,18 +77834,24 @@
       ]
     },
     {
-      "id": 581,
+      "id": 589,
       "nome": "Skirt no Naka wa Kedamono Deshita",
+      "slug": "skirt-no-naka-wa-kedamono-deshita",
+      "imgSrc": "Skirt_no_Naka_wa_Kedamono_Deshita.jpg",
       "subpastas": []
     },
     {
-      "id": 582,
+      "id": 590,
       "nome": "Slime 300",
+      "slug": "slime-300",
+      "imgSrc": "Slime_300.jpg",
       "subpastas": []
     },
     {
-      "id": 583,
+      "id": 591,
       "nome": "Sora no Otoshimono",
+      "slug": "sora-no-otoshimono",
+      "imgSrc": "Sora_no_Otoshimono.jpg",
       "subpastas": [
         {
           "id": 5958,
@@ -76082,8 +78038,10 @@
       ]
     },
     {
-      "id": 584,
+      "id": 592,
       "nome": "Soukihei MD Geist",
+      "slug": "soukihei-md-geist",
+      "imgSrc": "Soukihei_MD_Geist.jpg",
       "subpastas": [
         {
           "id": 1285,
@@ -76116,8 +78074,10 @@
       ]
     },
     {
-      "id": 585,
+      "id": 593,
       "nome": "Soul Eater",
+      "slug": "soul-eater",
+      "imgSrc": "Soul_Eater.jpg",
       "subpastas": [
         {
           "id": 3588,
@@ -76400,8 +78360,10 @@
       ]
     },
     {
-      "id": 586,
+      "id": 594,
       "nome": "Sounan Desu ka",
+      "slug": "sounan-desu-ka",
+      "imgSrc": "Sounan_Desu_ka.jpg",
       "subpastas": [
         {
           "id": 39456,
@@ -76464,8 +78426,10 @@
       ]
     },
     {
-      "id": 587,
+      "id": 595,
       "nome": "Sound & Fury",
+      "slug": "sound-&-fury",
+      "imgSrc": "Sound_&_Fury.jpg",
       "subpastas": [
         {
           "id": 40480,
@@ -76488,8 +78452,10 @@
       ]
     },
     {
-      "id": 588,
+      "id": 596,
       "nome": "Sprite Between Two Worlds",
+      "slug": "sprite-between-two-worlds",
+      "imgSrc": "Sprite_Between_Two_Worlds.jpg",
       "subpastas": [
         {
           "id": 1786,
@@ -76512,8 +78478,10 @@
       ]
     },
     {
-      "id": 589,
+      "id": 597,
       "nome": "Spy x Family",
+      "slug": "spy-x-family",
+      "imgSrc": "Spy_x_Family.jpg",
       "subpastas": [
         {
           "id": 50265,
@@ -76682,8 +78650,10 @@
       ]
     },
     {
-      "id": 590,
+      "id": 598,
       "nome": "Steamboy",
+      "slug": "steamboy",
+      "imgSrc": "Steamboy.jpg",
       "subpastas": [
         {
           "id": 565,
@@ -76706,8 +78676,10 @@
       ]
     },
     {
-      "id": 591,
+      "id": 599,
       "nome": "Street Fighter",
+      "slug": "street-fighter",
+      "imgSrc": "Street_Fighter.jpg",
       "subpastas": [
         {
           "id": 30042,
@@ -76956,8 +78928,10 @@
       ]
     },
     {
-      "id": 592,
+      "id": 600,
       "nome": "Strike the Blood",
+      "slug": "strike-the-blood",
+      "imgSrc": "Strike_the_Blood.jpg",
       "subpastas": [
         {
           "id": 18277,
@@ -77332,8 +79306,10 @@
       ]
     },
     {
-      "id": 593,
+      "id": 601,
       "nome": "Strike Witches",
+      "slug": "strike-witches",
+      "imgSrc": "Strike_Witches.jpg",
       "subpastas": [
         {
           "id": 1862,
@@ -77680,8 +79656,10 @@
       ]
     },
     {
-      "id": 594,
+      "id": 602,
       "nome": "Studio Ghibli - Filmes Coleção",
+      "slug": "studio-ghibli---filmes-coleção",
+      "imgSrc": "Studio_Ghibli_-_Filmes_Coleção.jpg",
       "subpastas": [
         {
           "id": 513,
@@ -77948,8 +79926,10 @@
       ]
     },
     {
-      "id": 595,
+      "id": 603,
       "nome": "Sugar Apple Fairy Tale",
+      "slug": "sugar-apple-fairy-tale",
+      "imgSrc": "Sugar_Apple_Fairy_Tale.jpg",
       "subpastas": [
         {
           "id": 49980,
@@ -78118,8 +80098,10 @@
       ]
     },
     {
-      "id": 596,
+      "id": 604,
       "nome": "Sunabouzu (Desert Punk)",
+      "slug": "sunabouzu-(desert-punk)",
+      "imgSrc": "Sunabouzu_(Desert_Punk).jpg",
       "subpastas": [
         {
           "id": 25,
@@ -78234,8 +80216,10 @@
       ]
     },
     {
-      "id": 597,
+      "id": 605,
       "nome": "Sword Art Online",
+      "slug": "sword-art-online",
+      "imgSrc": "Sword_Art_Online.jpg",
       "subpastas": [
         {
           "id": 11757,
@@ -78718,13 +80702,17 @@
       ]
     },
     {
-      "id": 598,
+      "id": 606,
       "nome": "Sword Gai",
+      "slug": "sword-gai",
+      "imgSrc": "Sword_Gai.jpg",
       "subpastas": []
     },
     {
-      "id": 599,
+      "id": 607,
       "nome": "Taimadou Gakuen 35 Shiken Shoutai",
+      "slug": "taimadou-gakuen-35-shiken-shoutai",
+      "imgSrc": "Taimadou_Gakuen_35_Shiken_Shoutai.jpg",
       "subpastas": [
         {
           "id": 24133,
@@ -78787,13 +80775,17 @@
       ]
     },
     {
-      "id": 600,
+      "id": 608,
       "nome": "Takt Op. Destiny",
+      "slug": "takt-op.-destiny",
+      "imgSrc": "Takt_Op._Destiny.jpg",
       "subpastas": []
     },
     {
-      "id": 601,
+      "id": 609,
       "nome": "Tate no Yuusha no Nariagari",
+      "slug": "tate-no-yuusha-no-nariagari",
+      "imgSrc": "Tate_no_Yuusha_no_Nariagari.jpg",
       "subpastas": [
         {
           "id": 35790,
@@ -79038,8 +81030,10 @@
       ]
     },
     {
-      "id": 602,
+      "id": 610,
       "nome": "Teizokurei Daydream",
+      "slug": "teizokurei-daydream",
+      "imgSrc": "Teizokurei_Daydream.jpg",
       "subpastas": [
         {
           "id": 1500,
@@ -79070,8 +81064,10 @@
       ]
     },
     {
-      "id": 603,
+      "id": 611,
       "nome": "Tejina-senpai",
+      "slug": "tejina-senpai",
+      "imgSrc": "Tejina-senpai.jpg",
       "subpastas": [
         {
           "id": 38610,
@@ -79134,8 +81130,10 @@
       ]
     },
     {
-      "id": 604,
+      "id": 612,
       "nome": "Tekken",
+      "slug": "tekken",
+      "imgSrc": "Tekken.jpg",
       "subpastas": [
         {
           "id": 537,
@@ -79222,8 +81220,10 @@
       ]
     },
     {
-      "id": 605,
+      "id": 613,
       "nome": "Tenchi Muyou!",
+      "slug": "tenchi-muyou!",
+      "imgSrc": "Tenchi_Muyou!.jpg",
       "subpastas": [
         {
           "id": 539,
@@ -79606,8 +81606,10 @@
       ]
     },
     {
-      "id": 606,
+      "id": 614,
       "nome": "Tengen Toppa Gurren Lagann",
+      "slug": "tengen-toppa-gurren-lagann",
+      "imgSrc": "Tengen_Toppa_Gurren_Lagann.jpg",
       "subpastas": [
         {
           "id": 2001,
@@ -79766,8 +81768,10 @@
       ]
     },
     {
-      "id": 607,
+      "id": 615,
       "nome": "Tenjou Tenge",
+      "slug": "tenjou-tenge",
+      "imgSrc": "Tenjou_Tenge.jpg",
       "subpastas": [
         {
           "id": 174,
@@ -79906,23 +81910,31 @@
       ]
     },
     {
-      "id": 608,
+      "id": 616,
       "nome": "Tenki no Ko",
+      "slug": "tenki-no-ko",
+      "imgSrc": "Tenki_no_Ko.jpg",
       "subpastas": []
     },
     {
-      "id": 609,
+      "id": 617,
       "nome": "Tenkuu Shinpan",
+      "slug": "tenkuu-shinpan",
+      "imgSrc": "Tenkuu_Shinpan.jpg",
       "subpastas": []
     },
     {
-      "id": 610,
+      "id": 618,
       "nome": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+      "slug": "tensai-ouji-no-akaji-kokka-saisei-jutsu",
+      "imgSrc": "Tensai_Ouji_no_Akaji_Kokka_Saisei_Jutsu.jpg",
       "subpastas": []
     },
     {
-      "id": 611,
+      "id": 619,
       "nome": "Tensei Kenja no Isekai Life Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+      "slug": "tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete,-sekai-saikyou-ni-narimashita",
+      "imgSrc": "Tensei_Kenja_no_Isekai_Life_Dai-2_no_Shokugyou_wo_Ete,_Sekai_Saikyou_ni_Narimashita.jpg",
       "subpastas": [
         {
           "id": 47163,
@@ -79985,8 +81997,10 @@
       ]
     },
     {
-      "id": 612,
+      "id": 620,
       "nome": "Tensei Shitara Slime Datta Ken",
+      "slug": "tensei-shitara-slime-datta-ken",
+      "imgSrc": "Tensei_Shitara_Slime_Datta_Ken.jpg",
       "subpastas": [
         {
           "id": 37430,
@@ -80553,8 +82567,10 @@
       ]
     },
     {
-      "id": 613,
+      "id": 621,
       "nome": "Tenshi no Tamago (Angel's Egg)",
+      "slug": "tenshi-no-tamago-(angel's-egg)",
+      "imgSrc": "Tenshi_no_Tamago_(Angel's_Egg).jpg",
       "subpastas": [
         {
           "id": 885,
@@ -80573,18 +82589,24 @@
       ]
     },
     {
-      "id": 614,
+      "id": 622,
       "nome": "Terra formars",
+      "slug": "terra-formars",
+      "imgSrc": "Terra_formars.jpg",
       "subpastas": []
     },
     {
-      "id": 615,
+      "id": 623,
       "nome": "Texhnolyze",
+      "slug": "texhnolyze",
+      "imgSrc": "Texhnolyze.jpg",
       "subpastas": []
     },
     {
-      "id": 616,
+      "id": 624,
       "nome": "The Maxx",
+      "slug": "the-maxx",
+      "imgSrc": "The_Maxx.jpg",
       "subpastas": [
         {
           "id": null,
@@ -80627,13 +82649,17 @@
       ]
     },
     {
-      "id": 617,
+      "id": 625,
       "nome": "The Sky Crawlers",
+      "slug": "the-sky-crawlers",
+      "imgSrc": "The_Sky_Crawlers.jpg",
       "subpastas": []
     },
     {
-      "id": 618,
+      "id": 626,
       "nome": "Tito e os Pássaros",
+      "slug": "tito-e-os-pássaros",
+      "imgSrc": "Tito_e_os_Pássaros.jpg",
       "subpastas": [
         {
           "id": null,
@@ -80656,8 +82682,10 @@
       ]
     },
     {
-      "id": 619,
+      "id": 627,
       "nome": "To Love-Ru",
+      "slug": "to-love-ru",
+      "imgSrc": "To_Love-Ru.jpg",
       "subpastas": [
         {
           "id": 3455,
@@ -81078,13 +83106,17 @@
       ]
     },
     {
-      "id": 620,
+      "id": 628,
       "nome": "Tobira wo Akete",
+      "slug": "tobira-wo-akete",
+      "imgSrc": "Tobira_wo_Akete.jpg",
       "subpastas": []
     },
     {
-      "id": 621,
+      "id": 629,
       "nome": "Tokyo Ghoul",
+      "slug": "tokyo-ghoul",
+      "imgSrc": "Tokyo_Ghoul.jpg",
       "subpastas": [
         {
           "id": 22319,
@@ -81277,13 +83309,17 @@
       ]
     },
     {
-      "id": 622,
+      "id": 630,
       "nome": "Tokyo Magnitude 8.0",
+      "slug": "tokyo-magnitude-8.0",
+      "imgSrc": "Tokyo_Magnitude_8.0.jpg",
       "subpastas": []
     },
     {
-      "id": 623,
+      "id": 631,
       "nome": "Tokyo Revengers",
+      "slug": "tokyo-revengers",
+      "imgSrc": "Tokyo_Revengers.jpg",
       "subpastas": [
         {
           "id": 48735,
@@ -81490,8 +83526,10 @@
       ]
     },
     {
-      "id": 624,
+      "id": 632,
       "nome": "Tonikaku Kawaii",
+      "slug": "tonikaku-kawaii",
+      "imgSrc": "Tonikaku_Kawaii.jpg",
       "subpastas": [
         {
           "id": 41389,
@@ -81668,8 +83706,10 @@
       ]
     },
     {
-      "id": 625,
+      "id": 633,
       "nome": "Touhou Project",
+      "slug": "touhou-project",
+      "imgSrc": "Touhou_Project.jpg",
       "subpastas": [
         {
           "id": 3080,
@@ -81950,13 +83990,17 @@
       ]
     },
     {
-      "id": 626,
+      "id": 634,
       "nome": "Toy Story",
+      "slug": "toy-story",
+      "imgSrc": "Toy_Story.jpg",
       "subpastas": []
     },
     {
-      "id": 627,
+      "id": 635,
       "nome": "Triage X",
+      "slug": "triage-x",
+      "imgSrc": "Triage_X.jpg",
       "subpastas": [
         {
           "id": 26443,
@@ -82025,8 +84069,10 @@
       ]
     },
     {
-      "id": 628,
+      "id": 636,
       "nome": "Trigun",
+      "slug": "trigun",
+      "imgSrc": "Trigun.jpg",
       "subpastas": [
         {
           "id": 6,
@@ -82217,8 +84263,10 @@
       ]
     },
     {
-      "id": 629,
+      "id": 637,
       "nome": "Trinity Blood",
+      "slug": "trinity-blood",
+      "imgSrc": "Trinity_Blood.jpg",
       "subpastas": [
         {
           "id": 27,
@@ -82329,8 +84377,10 @@
       ]
     },
     {
-      "id": 630,
+      "id": 638,
       "nome": "Trinity Seven",
+      "slug": "trinity-seven",
+      "imgSrc": "Trinity_Seven.jpg",
       "subpastas": [
         {
           "id": 25157,
@@ -82431,8 +84481,10 @@
       ]
     },
     {
-      "id": 631,
+      "id": 639,
       "nome": "Tsugumomo",
+      "slug": "tsugumomo",
+      "imgSrc": "Tsugumomo.jpg",
       "subpastas": [
         {
           "id": 34019,
@@ -82587,8 +84639,10 @@
       ]
     },
     {
-      "id": 632,
+      "id": 640,
       "nome": "Tá Chovendo Hambúrguer",
+      "slug": "tá-chovendo-hambúrguer",
+      "imgSrc": "Tá_Chovendo_Hambúrguer.jpg",
       "subpastas": [
         {
           "id": null,
@@ -82608,8 +84662,10 @@
       ]
     },
     {
-      "id": 633,
+      "id": 641,
       "nome": "Tá Dando Onda",
+      "slug": "tá-dando-onda",
+      "imgSrc": "Tá_Dando_Onda.jpg",
       "subpastas": [
         {
           "id": null,
@@ -82624,8 +84680,10 @@
       ]
     },
     {
-      "id": 634,
+      "id": 642,
       "nome": "Ultraman",
+      "slug": "ultraman",
+      "imgSrc": "Ultraman.jpg",
       "subpastas": [
         {
           "id": 3444,
@@ -82822,18 +84880,24 @@
       ]
     },
     {
-      "id": 635,
+      "id": 643,
       "nome": "Ultramarines A Warhammer 40.000",
+      "slug": "ultramarines-a-warhammer-40.000",
+      "imgSrc": "Ultramarines_A_Warhammer_40.000.jpg",
       "subpastas": []
     },
     {
-      "id": 636,
+      "id": 644,
       "nome": "Ulysses Jehanne Darc to Renkin no Kishi",
+      "slug": "ulysses-jehanne-darc-to-renkin-no-kishi",
+      "imgSrc": "Ulysses_Jehanne_Darc_to_Renkin_no_Kishi.jpg",
       "subpastas": []
     },
     {
-      "id": 637,
+      "id": 645,
       "nome": "Under Ninja",
+      "slug": "under-ninja",
+      "imgSrc": "Under_Ninja.jpg",
       "subpastas": [
         {
           "id": 49766,
@@ -82896,8 +84960,10 @@
       ]
     },
     {
-      "id": 638,
+      "id": 646,
       "nome": "Under The Dog",
+      "slug": "under-the-dog",
+      "imgSrc": "Under_The_Dog.jpg",
       "subpastas": [
         {
           "id": 32467,
@@ -82926,13 +84992,17 @@
       ]
     },
     {
-      "id": 639,
+      "id": 647,
       "nome": "Undone",
+      "slug": "undone",
+      "imgSrc": "Undone.jpg",
       "subpastas": []
     },
     {
-      "id": 640,
+      "id": 648,
       "nome": "Up Altas Aventuras",
+      "slug": "up-altas-aventuras",
+      "imgSrc": "Up_Altas_Aventuras.jpg",
       "subpastas": [
         {
           "id": null,
@@ -82951,13 +85021,17 @@
       ]
     },
     {
-      "id": 641,
+      "id": 649,
       "nome": "Upotte",
+      "slug": "upotte",
+      "imgSrc": "Upotte.jpg",
       "subpastas": []
     },
     {
-      "id": 642,
+      "id": 650,
       "nome": "Usagi-chan de Cue!!",
+      "slug": "usagi-chan-de-cue!!",
+      "imgSrc": "Usagi-chan_de_Cue!!.jpg",
       "subpastas": [
         {
           "id": 991,
@@ -82984,18 +85058,24 @@
       ]
     },
     {
-      "id": 643,
+      "id": 651,
       "nome": "Uzaki-chan wa Asobitai!",
+      "slug": "uzaki-chan-wa-asobitai!",
+      "imgSrc": "Uzaki-chan_wa_Asobitai!.jpg",
       "subpastas": []
     },
     {
-      "id": 644,
+      "id": 652,
       "nome": "Val x Love",
+      "slug": "val-x-love",
+      "imgSrc": "Val_x_Love.jpg",
       "subpastas": []
     },
     {
-      "id": 645,
+      "id": 653,
       "nome": "Valente",
+      "slug": "valente",
+      "imgSrc": "Valente.jpg",
       "subpastas": [
         {
           "id": null,
@@ -83014,8 +85094,10 @@
       ]
     },
     {
-      "id": 646,
+      "id": 654,
       "nome": "Valkyrie Drive Mermaid",
+      "slug": "valkyrie-drive-mermaid",
+      "imgSrc": "Valkyrie_Drive_Mermaid.jpg",
       "subpastas": [
         {
           "id": 30385,
@@ -83088,8 +85170,10 @@
       ]
     },
     {
-      "id": 647,
+      "id": 655,
       "nome": "Vampire Hunter D",
+      "slug": "vampire-hunter-d",
+      "imgSrc": "Vampire_Hunter_D.jpg",
       "subpastas": [
         {
           "id": 732,
@@ -83122,8 +85206,10 @@
       ]
     },
     {
-      "id": 648,
+      "id": 656,
       "nome": "Vampire Knight",
+      "slug": "vampire-knight",
+      "imgSrc": "Vampire_Knight.jpg",
       "subpastas": [
         {
           "id": 3457,
@@ -83262,13 +85348,17 @@
       ]
     },
     {
-      "id": 649,
+      "id": 657,
       "nome": "Vassalord",
+      "slug": "vassalord",
+      "imgSrc": "Vassalord.jpg",
       "subpastas": []
     },
     {
-      "id": 650,
+      "id": 658,
       "nome": "Vexille 2077 Nihon Sakoku",
+      "slug": "vexille-2077-nihon-sakoku",
+      "imgSrc": "Vexille_2077_Nihon_Sakoku.jpg",
       "subpastas": [
         {
           "id": 2746,
@@ -83287,8 +85377,10 @@
       ]
     },
     {
-      "id": 651,
+      "id": 659,
       "nome": "Vinland Saga",
+      "slug": "vinland-saga",
+      "imgSrc": "Vinland_Saga.jpg",
       "subpastas": [
         {
           "id": 31667,
@@ -83459,8 +85551,10 @@
       ]
     },
     {
-      "id": 652,
+      "id": 660,
       "nome": "Violet Evergarden",
+      "slug": "violet-evergarden",
+      "imgSrc": "Violet_Evergarden.jpg",
       "subpastas": [
         {
           "id": 33352,
@@ -83579,8 +85673,10 @@
       ]
     },
     {
-      "id": 653,
+      "id": 661,
       "nome": "Viva, A Vida é uma Festa",
+      "slug": "viva,-a-vida-é-uma-festa",
+      "imgSrc": "Viva,_A_Vida_é_uma_Festa.jpg",
       "subpastas": [
         {
           "id": null,
@@ -83599,8 +85695,10 @@
       ]
     },
     {
-      "id": 654,
+      "id": 662,
       "nome": "Vivy Fluorite Eye's Song",
+      "slug": "vivy-fluorite-eye's-song",
+      "imgSrc": "Vivy_Fluorite_Eye's_Song.jpg",
       "subpastas": [
         {
           "id": 49241,
@@ -83691,8 +85789,10 @@
       ]
     },
     {
-      "id": 655,
+      "id": 663,
       "nome": "WALL.E",
+      "slug": "wall.e",
+      "imgSrc": "WALL.E.jpg",
       "subpastas": [
         {
           "id": null,
@@ -83711,8 +85811,10 @@
       ]
     },
     {
-      "id": 656,
+      "id": 664,
       "nome": "Wata no Kuni Hoshi (The Star of Cottonland)",
+      "slug": "wata-no-kuni-hoshi-(the-star-of-cottonland)",
+      "imgSrc": "Wata_no_Kuni_Hoshi_(The_Star_of_Cottonland).jpg",
       "subpastas": [
         {
           "id": 1207,
@@ -83741,18 +85843,24 @@
       ]
     },
     {
-      "id": 657,
+      "id": 665,
       "nome": "Wood & Stock",
+      "slug": "wood-&-stock",
+      "imgSrc": "Wood_&_Stock.jpg",
       "subpastas": []
     },
     {
-      "id": 658,
+      "id": 666,
       "nome": "Xiong Bing Lian",
+      "slug": "xiong-bing-lian",
+      "imgSrc": "Xiong_Bing_Lian.jpg",
       "subpastas": []
     },
     {
-      "id": 659,
+      "id": 667,
       "nome": "Yamada-kun to 7-nin no Majo",
+      "slug": "yamada-kun-to-7-nin-no-majo",
+      "imgSrc": "Yamada-kun_to_7-nin_no_Majo.jpg",
       "subpastas": [
         {
           "id": 24627,
@@ -83835,8 +85943,10 @@
       ]
     },
     {
-      "id": 660,
+      "id": 668,
       "nome": "Yao Jing Zhong Zhi Shou Ce",
+      "slug": "yao-jing-zhong-zhi-shou-ce",
+      "imgSrc": "Yao_Jing_Zhong_Zhi_Shou_Ce.jpg",
       "subpastas": [
         {
           "id": 41093,
@@ -83907,8 +86017,10 @@
       ]
     },
     {
-      "id": 661,
+      "id": 669,
       "nome": "Yosuga no Sora",
+      "slug": "yosuga-no-sora",
+      "imgSrc": "Yosuga_no_Sora.jpg",
       "subpastas": [
         {
           "id": 8861,
@@ -83971,8 +86083,10 @@
       ]
     },
     {
-      "id": 662,
+      "id": 670,
       "nome": "Youjuu Toshi (Wicked City)",
+      "slug": "youjuu-toshi-(wicked-city)",
+      "imgSrc": "Youjuu_Toshi_(Wicked_City).jpg",
       "subpastas": [
         {
           "id": 1107,
@@ -83991,8 +86105,10 @@
       ]
     },
     {
-      "id": 663,
+      "id": 671,
       "nome": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e",
+      "imgSrc": "Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e.jpg",
       "subpastas": [
         {
           "id": 35507,
@@ -84127,18 +86243,24 @@
       ]
     },
     {
-      "id": 664,
+      "id": 672,
       "nome": "Yu Yu Hakusho",
+      "slug": "yu-yu-hakusho",
+      "imgSrc": "Yu_Yu_Hakusho.jpg",
       "subpastas": []
     },
     {
-      "id": 665,
+      "id": 673,
       "nome": "Yuragi-sou no Yuuna-san",
+      "slug": "yuragi-sou-no-yuuna-san",
+      "imgSrc": "Yuragi-sou_no_Yuuna-san.jpg",
       "subpastas": []
     },
     {
-      "id": 666,
+      "id": 674,
       "nome": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita",
+      "slug": "yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita",
+      "imgSrc": "Yuusha_ni_Narenakatta_Ore_wa_Shibushibu_Shuushoku_wo_Ketsui_Shimashita.jpg",
       "subpastas": [
         {
           "id": 18677,
@@ -84221,13 +86343,17 @@
       ]
     },
     {
-      "id": 667,
+      "id": 675,
       "nome": "Yuusha Yamemasu",
+      "slug": "yuusha-yamemasu",
+      "imgSrc": "Yuusha_Yamemasu.jpg",
       "subpastas": []
     },
     {
-      "id": 668,
+      "id": 676,
       "nome": "Zero no Tsukaima",
+      "slug": "zero-no-tsukaima",
+      "imgSrc": "Zero_no_Tsukaima.jpg",
       "subpastas": [
         {
           "id": 1195,
@@ -84492,8 +86618,10 @@
       ]
     },
     {
-      "id": 669,
+      "id": 677,
       "nome": "Zootopia",
+      "slug": "zootopia",
+      "imgSrc": "Zootopia.jpg",
       "subpastas": [
         {
           "id": null,
@@ -84544,5 +86672,5 @@
       ]
     }
   ],
-  "ultimaAtualizacao": "2025-10-12T04:24:00.799Z"
+  "ultimaAtualizacao": "2025-10-20T00:53:40.380Z"
 }

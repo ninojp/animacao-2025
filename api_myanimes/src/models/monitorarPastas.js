@@ -1,7 +1,10 @@
-'use strict';
+import { fileURLToPath } from 'url';
 import fs from 'node:fs';
 import path from 'node:path';
 import chokidar from 'chokidar';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Liste aqui as pastas específicas que deseja monitorar
 const pastasParaMonitorar = [
@@ -9,11 +12,20 @@ const pastasParaMonitorar = [
     'F:\\K', 'F:\\L', 'F:\\M', 'F:\\N', 'F:\\O', 'F:\\P', 'F:\\Q', 'F:\\R', 'H:\\S', 'H:\\T', 'H:\\U', 'H:\\V', 'H:\\W', 'H:\\X', 'H:\\Y', 'H:\\Z'
 ];
 
-// Caminho do arquivo JSON a ser atualizado
-const arquivoSaida = path.resolve('API_AnimeNetBr/DB_Local/animacoes.json');
+// Resolve o caminho do arquivo JSON relativo ao diretório atual do script
+const arquivoSaida = path.resolve(__dirname, '../../db/animacoes.json');
 const diretorioArquivoSaida = path.dirname(arquivoSaida);
-if (!fs.existsSync(diretorioArquivoSaida))
-    throw new Error(`Diretório do arquivo de saída não existe: ${diretorioArquivoSaida}`);
+
+// Cria o diretório de saída se não existir
+try {
+    if (!fs.existsSync(diretorioArquivoSaida)) {
+        fs.mkdirSync(diretorioArquivoSaida, { recursive: true });
+        console.log(`Diretório criado: ${diretorioArquivoSaida}`);
+    }
+} catch (erro) {
+    console.error(`Erro ao criar diretório ${diretorioArquivoSaida}:`, erro);
+    process.exit(1);
+}
 
 // Função principal para gerar a estrutura personalizada
 function gerarEstruturaPersonalizada(pastasParaMonitorar) {
@@ -73,6 +85,10 @@ function gerarEstruturaPersonalizada(pastasParaMonitorar) {
                 return {
                     id: idGlobal++,
                     nome: item.name,
+                    // FAZER: criar um slug a partir do nome
+                    slug: item.name.toLowerCase().replace(/\s+/g, '-'),
+                    // FAZER: criar uma propriedade imgSrc: item.name, sem espaços e com underlines e letra iniciaal de cada palavra maiúscula 
+                    imgSrc: item.name.replace(/\s+/g, '_').replace(/^(.)/, (match) => match.toUpperCase()) + '.jpg',
                     subpastas: subpastas
                 };
             });

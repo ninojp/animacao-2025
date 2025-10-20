@@ -1,0 +1,53 @@
+.containerListaCardAnimacaoDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    row-gap: 3rem;
+    padding: 1rem;
+}
+.animacaoCardArticle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 220px;
+    height: 370px;
+    border: 0.8px solid #0d4386;
+    border-radius: 8px;
+    padding: 1rem;
+}
+.figureImagemAnimacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 300px;
+}
+.imgAnimacao{
+    width: 50%;
+}
+.animacaoCardArticle p{
+    margin-top: 0.5rem;
+    text-align: center;
+    font-size: 0.7rem;
+}
+
+
+.divImgsEditaExclui{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 100%;
+    gap: 2rem;
+    padding: 5px;
+}
+.imgIcones{
+    cursor: pointer;
+    width: 10px;
+}
+.btnExcluirAnimacao{
+    cursor: pointer;
+    width: 10px;
+}

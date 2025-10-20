@@ -1,4 +1,5 @@
 .divCampoBuscar{
+    width: max-content;
     position: relative;
 }
 .inputCampoBuscar{
@@ -7,8 +8,8 @@
     font-size: 14pt;
     width: 400px;
     line-height: 30px;
-    outline: none;
-    border: none;
+    /* outline: transparent; */
+    border: 1px solid transparent;
 }
 .inputCampoBuscar::placeholder{
     text-align: center;

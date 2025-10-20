@@ -11,9 +11,9 @@ export default function HeaderPage() {
                 </Link>
             </div>
             <div>
-                <a href="./animacao.html" target="_blank" rel="noopener noreferrer">
-                    <button className="btnNovaAnimacao">Animações</button>
-                </a>
+                <hr />
+                <p className={sytles.pTexto}>Nova versão do meu site (animes.net.br)<br /> Sobre minha coleção de animes<br /> Agora é MyAnimes</p>
+                <hr />
             </div>
             <div>
                 <Link href="/">
